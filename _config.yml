@@ -6,7 +6,10 @@ baseurl: "" # No need to change with github pages
 url: "https://pythondecal.github.io"
 repository: pythondecal/pythondecal.github.io # for github-metadata
 
-permalink: pretty
+collections:
+  docs:
+    output: true
+    permalink: /:path/
 
 defaults:
   - scope:
