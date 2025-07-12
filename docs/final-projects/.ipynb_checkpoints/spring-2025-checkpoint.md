@@ -6,7 +6,7 @@ nav_order: 1
 
 # Spring 2025 Final Projects
 Please enjoy the final projects of students during the Spring 2025 semester.
-
+test
 ---
 
 ## Simulating Tidal Waves with Gravitational Physics 
