@@ -17,3 +17,8 @@ putting it into an animation, based on the function parameter of time.
 <embed src="../../assets/projects/spring-2025/Deacon_Silvia.pdf" type="application/pdf" width="100%" height="600px" />
 
 <iframe src="../../assets/projects/spring-2025/Deacon_Silvia.pdf" width="100%" height="600px"></iframe>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="../../assets/projects/spring-2025/Deacon_Silvia.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
