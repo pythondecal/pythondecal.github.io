@@ -7,6 +7,8 @@ nav_order: 1
 # Spring 2025 Final Projects
 Please enjoy the final projects of students during the Spring 2025 semester.
 
+---
+
 ## Simulating Tidal Waves with Gravitational Physics 
 **Group Members:** Deacon Carreon and Olivia Silvia
 
@@ -40,8 +42,43 @@ putting it into an animation, based on the function parameter of time.
   Your browser does not support the video tag.
 </video>
 
-### ???
-**Group Members:** Eva and Serina
+---
+
+### Mass-Radius Relations of Neutron Stars
+**Group Members:** Eva Li, Serina Mummert
+
+This project investigates the mass-radius relationship found in neutron stars, the most
+dense observable objects known to astronomers today. Utilizing python, we model
+theoretical predictions for neutron star structures based upon packages including the
+readily found solutions to the Tolman-Oppenheimer-Volkoff(TOV) equations and various
+equations of state(EOS).
+
+We compare these theoretical calculations to our observational data collected from
+pulsars, x-ray binaries, and gravitational wave events. The goal is to enhance our
+understanding of and find meaningful connections between observed neutron stars and
+known theoretical predictions.
+
+<div class="slider-container">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide6.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide7.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide8.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide9.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide10.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide11.jpg" class="slide-image">
+</div>
+
+<div class="slider-nav">
+  <button onclick="changeSlide(-1)">⟵ Prev</button>
+  <button onclick="changeSlide(1)">Next ⟶</button>
+</div>
+
+
+
 
 ### ???
 **Group Members:** Yuang Li
