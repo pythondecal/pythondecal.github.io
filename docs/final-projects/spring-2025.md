@@ -107,12 +107,39 @@ have generated mock test data.
 
 ---
 
-### ???
-**Group Members:** Yuang Li
+### Rotation Curve of the Milky Way Evidence for Dark Matter Halos
+**Group Members:** Max Velasquez and Xavier Silva
 
+This project aims to explore and simulate our galaxy’s rotation curve, comparing
+theoretical Keplerian models with observed velocity data to illustrate the need for dark
+matter. We used real data from Eilers et al. (2019) on the Milky Way’s circular velocity
+curve, the project analyzes how star velocities behave at different galactic radii.
 
+<div class="slider-container" id="slider-max">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide1.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide6.jpg" class="slide-image">
+</div>
+
+<div class="slider-nav">
+  <button onclick="changeSlide('slider-max', -1)">⟵ Prev</button>
+  <button onclick="changeSlide('slider-max', 1)">Next ⟶</button>
+</div>
+
+---
 
 ## Other Projects
+
+### Shooting Game
+**Group Members:** Yuang Li
+
+I plan to make a mini shooting game, there will be bot enemies shooting at you, and you
+have to also avoid obstacles from getting HP down. You get scores by destroying enemies.
+There’s also a time limit. Win/lose condition: win by survive, lose if you’re not. It could be
+spaceships or just playing volleyballs.
 
 ### Power Output 
 **Group Members:** Giancarlo Ursellii
