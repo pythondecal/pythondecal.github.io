@@ -18,6 +18,16 @@ putting it into an animation, based on the function parameter of time.
 <div class="slider-container">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg" class="slide-image">
+</div>
+
+<div class="slider-nav">
+  <button onclick="changeSlide(-1)">⟵ Prev</button>
+  <button onclick="changeSlide(1)">Next ⟶</button>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -25,7 +35,10 @@ putting it into an animation, based on the function parameter of time.
   Your browser does not support the video tag.
 </video>
 
-## Other Projects
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2025/Deacon_Olivia/Deacon_Olivia2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### ???
 **Group Members:** Eva and Serina
@@ -35,6 +48,8 @@ putting it into an animation, based on the function parameter of time.
 
 ### ???
 **Group Members:** Charlie Beckner
+
+## Other Projects
 
 ### Power Output 
 **Group Members:** Giancarlo Ursellii
@@ -69,11 +84,6 @@ putting it into an animation, based on the function parameter of time.
   cursor: pointer;
 }
 </style>
-
-<div class="slider-nav">
-  <button onclick="changeSlide(-1)">⟵ Prev</button>
-  <button onclick="changeSlide(1)">Next ⟶</button>
-</div>
 
 <script>
 let slideIndex = 0;
