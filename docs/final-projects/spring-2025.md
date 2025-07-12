@@ -60,24 +60,19 @@ understanding of and find meaningful connections between observed neutron stars 
 known theoretical predictions.
 
 <div class="slider-container" id="slider-eva">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide6.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide7.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide8.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide9.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide10.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide11.jpg" class="slide-image">
+  <img class="slide-image active-slide" src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" alt="Slide 1">
+  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide2.jpg" alt="Slide 2">
+  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide3.jpg" alt="Slide 3">
+  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide4.jpg" alt="Slide 4">
+  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide5.jpg" alt="Slide 5">
+  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide6.jpg" alt="Slide 6">
+  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide7.jpg" alt="Slide 7">
 
-  <div class="slider-status" id="slider-eva-status">Slide 1 of 11</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-eva', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-eva', 1)">Next ⟶</button>
+  <div class="slider-controls">
+    <button id="prev-btn">Previous</button>
+    <span id="slider-status">Slide 1 of 7</span>
+    <button id="next-btn">Next</button>
+  </div>
 </div>
 
 ---
