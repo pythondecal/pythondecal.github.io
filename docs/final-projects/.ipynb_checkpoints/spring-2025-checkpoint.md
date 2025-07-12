@@ -17,7 +17,7 @@ simulated the positions of all three objects using equations of gravity and mech
 distances we simulated the tidal wave heights at any inputted latitude on the Earth, ultimately
 putting it into an animation, based on the function parameter of time.
 
-<div class="slider-container">
+<div class="slider-container" id="slider-deacon">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" class="slide-image">
@@ -28,8 +28,8 @@ putting it into an animation, based on the function parameter of time.
 </div>
 
 <div class="slider-nav">
-  <button onclick="changeSlide(-1)">⟵ Prev</button>
-  <button onclick="changeSlide(1)">Next ⟶</button>
+  <button onclick="changeSlide('slider-deacon', -1)">⟵ Prev</button>
+  <button onclick="changeSlide('slider-deacon', 1)">Next ⟶</button>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -58,7 +58,7 @@ pulsars, x-ray binaries, and gravitational wave events. The goal is to enhance o
 understanding of and find meaningful connections between observed neutron stars and
 known theoretical predictions.
 
-<div class="slider-container">
+<div class="slider-container" id="slider-eva">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide3.jpg" class="slide-image">
@@ -73,8 +73,8 @@ known theoretical predictions.
 </div>
 
 <div class="slider-nav">
-  <button onclick="changeSlide(-1)">⟵ Prev</button>
-  <button onclick="changeSlide(1)">Next ⟶</button>
+  <button onclick="changeSlide('slider-eva', -1)">⟵ Prev</button>
+  <button onclick="changeSlide('slider-eva', 1)">Next ⟶</button>
 </div>
 
 
@@ -90,6 +90,7 @@ known theoretical predictions.
 
 ### Power Output 
 **Group Members:** Giancarlo Ursellii
+
 
 <style>
 .slider-container {
@@ -123,20 +124,27 @@ known theoretical predictions.
 </style>
 
 <script>
-let slideIndex = 0;
-const slides = document.querySelectorAll(".slide-image");
+const slideIndexes = {};
 
-function showSlide(index) {
-  slides.forEach((slide, i) => {
-    slide.classList.remove("active-slide");
-    if (i === index) {
-      slide.classList.add("active-slide");
-    }
+function showSlide(sliderId, index) {
+  const slides = document.querySelectorAll(`#${sliderId} .slide-image`);
+  slideIndexes[sliderId] = (index + slides.length) % slides.length;
+  slides.forEach((img, i) => {
+    img.classList.toggle("active-slide", i === slideIndexes[sliderId]);
   });
 }
 
-function changeSlide(direction) {
-  slideIndex = (slideIndex + direction + slides.length) % slides.length;
-  showSlide(slideIndex);
+function changeSlide(sliderId, direction) {
+  showSlide(sliderId, slideIndexes[sliderId] + direction);
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+  const allSliders = document.querySelectorAll(".slider-container");
+  allSliders.forEach((slider, i) => {
+    const id = slider.id || `slider${i}`;
+    slider.id = id;
+    slideIndexes[id] = 0;
+    showSlide(id, 0);
+  });
+});
 </script>
