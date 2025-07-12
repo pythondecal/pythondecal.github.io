@@ -128,6 +128,8 @@ curve, the project analyzes how star velocities behave at different galactic rad
   <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide5.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide6.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-max-status">Slide 1 of 6</div>
 </div>
 
 <div class="slider-nav">
@@ -145,7 +147,7 @@ and then fit that data to different models to determine the best equation of mot
 for the system. This will involve data generation, data analysis, finding a curve of 
 best fit with errors, and analyzing the results.
 
-<div class="slider-container" id="slider-max">
+<div class="slider-container" id="slider-aviva">
   <img src="/assets/projects/spring-2025/Aviva/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Aviva/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Aviva/slide3.jpg" class="slide-image">
@@ -158,10 +160,40 @@ best fit with errors, and analyzing the results.
   <img src="/assets/projects/spring-2025/Aviva/slide10.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Aviva/slide11.jpg" class="slide-image">
 
-  <div class="slider-status" id="slider-max-status">Slide 1 of 6</div>
+  <div class="slider-status" id="slider-aviva-status">Slide 1 of 11</div>
+</div>
+
+<div class="slider-nav">
+  <button class="prev-btn" onclick="changeSlide('slider-aviva', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-aviva', 1)">Next ⟶</button>
 </div>
 
 ---
+
+## 3D Snake with Laser Guns
+**Group Members:** Carsen Dunn and Mark Moreno
+
+<div class="slider-container" id="slider-carsen">
+  <img src="/assets/projects/spring-2025/Carsen_Mark/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Carsen_Mark/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Carsen_Mark/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Carsen_Mark/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Carsen_Mark/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Carsen_Mark/slide6.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-carsen-status">Slide 1 of 6</div>
+</div>
+
+<div class="slider-nav">
+  <button class="prev-btn" onclick="changeSlide('slider-carsen', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-carsen', 1)">Next ⟶</button>
+</div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2025/Carsen_Mark/Carsen_Mark.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
@@ -234,6 +266,7 @@ button:disabled {
 }
 </style>
 
+{% raw %}
 <script>
 const slideIndexes = {};
 
@@ -264,6 +297,7 @@ function showSlide(sliderId, index) {
 function changeSlide(sliderId, direction) {
   showSlide(sliderId, slideIndexes[sliderId] + direction);
 }
+window.changeSlide = changeSlide;
 
 document.addEventListener("DOMContentLoaded", () => {
   const allSliders = document.querySelectorAll(".slider-container");
@@ -277,3 +311,4 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
+{% endraw %}
