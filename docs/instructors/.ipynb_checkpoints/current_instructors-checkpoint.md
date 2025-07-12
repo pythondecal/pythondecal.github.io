@@ -6,6 +6,8 @@ nav_order: 1
 
 # Current Instructors and Interns
 
+The following is a list of current instructors and interns on the Python DeCal staff. 
+
 ## Instructors
 
 | Name                  | Position(s)                                | Favorite Astronomical Object |

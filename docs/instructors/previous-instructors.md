@@ -16,3 +16,5 @@ nav_order: 2
 |---------------|--------------------|-------------------------------|----------|-----------------------------------------------|
 | Fall 2022     | James Sunseri      | Intern → Instructor → Head    | 3 yrs    | PhD Student, Princeton Astrophysical Sciences |
 |---------------|--------------------|-------------------------------|----------|-----------------------------------------------|
+
+The Python DeCal Staff do their best to keep this list up to date. If you are a previous member of the Python DeCal Staff and your information is either incorrect or missing, please reach of to the Head Instructor Brianna Peck at bpeck114@berkeley.edu
