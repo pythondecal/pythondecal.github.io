@@ -20,11 +20,13 @@ Now accepting applications for the Fall 2025 semester!
 ---
 Welcome to the Python Decal! We are so glad you're here. The Python DeCal is a course designed by undergraduates for undergraduates to learn the basics of Python, plotting, and data analysis, specifically tailored for the UC Berkeley Astrophysics major. 
 
-## Overview
+This is a 2-unit DeCal. Here is information about the course:
+- Class Times: Mondays & Wednesday, 4:00 - 5:00 PM
+- Class Location: Campbell 131
 
 ## Application Form {#apply-for-fall-2025}
 
-To apply for the Fall 2025 semester, please fill out this google form. 
+To apply for the Fall 2025 semester, please [fill out this Google Form](https://forms.gle/rrsHmvT1r6EB1xut8).
 
 {% comment %}
 [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
