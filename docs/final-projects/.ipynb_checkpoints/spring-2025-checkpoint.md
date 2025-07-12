@@ -14,9 +14,14 @@ simulated the positions of all three objects using equations of gravity and mech
 distances we simulated the tidal wave heights at any inputted latitude on the Earth, ultimately
 putting it into an animation, based on the function parameter of time.
 
-<embed src="../../assets/projects/spring-2025/Deacon_Silvia.pdf" type="application/pdf" width="100%" height="600px" />
+<details>
+<summary><strong>Click to view slides</strong></summary>
 
-<iframe src="../../assets/projects/spring-2025/Deacon_Silvia.pdf" width="100%" height="600px"></iframe>
+![Slide 1](../../assets/projects/spring-2025/Deacon_Silvia/slide1.jpg)
+![Slide 2](../../assets/projects/spring-2025/Deacon_Silvia/slide2.jpg)
+
+</details>
+
 
 <video width="100%" controls loop autoplay muted>
   <source src="../../assets/projects/spring-2025/Deacon_Silvia.mov" type="video/mp4">
