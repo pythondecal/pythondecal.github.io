@@ -26,7 +26,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 | Name          | Position(s)        | Favorite Astronomical Object |
 |---------------|--------------------|------------------------------|
 | Milana Berhe | Intern (Fall 2025)  | ???                          |
-| Olivia Silva | Intern (Fall 2025)  | ???                          |
+| Olivia Silvia | Intern (Fall 2025)  | ???                          |
 
 ## Faculty Sponsor
 
