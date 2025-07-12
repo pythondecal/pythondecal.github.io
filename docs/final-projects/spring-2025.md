@@ -194,8 +194,36 @@ best fit with errors, and analyzing the results.
   Your browser does not support the video tag.
 </video>
 
-
 ---
+
+## Creating Light Curves from Kepler Data
+**Group Members:** Colin Keel
+
+The goal of this project was to create a program that takes in data from the Kepler Space
+Telescope and turns that data into a light curve for a specified Kepler target from which
+brightness dips associated with exoplanet transits can be clearly observed. The packages used in
+this project are numpy, matplotlib.pyplot, lightkurve, batman, and scipy.optimize. The two that I
+found to be the most useful were lightkurve and batman; however, these were both unfamiliar to
+me upon starting this project, so a good amount of time was spent figuring out how to use them.
+Lightkurve was used to search for and download the data, filter the data and remove outliers, and
+stitch the data into actual light curves. Batman was used to import the Mandel and Agol transit
+model that was used to fit the data.
+
+<div class="slider-container" id="slider-colin">
+  <img src="/assets/projects/spring-2025/Colin/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Colin/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Colin/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Colin/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Colin/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Colin/slide6.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-colin-status">Slide 1 of 6</div>
+</div>
+
+<div class="slider-nav">
+  <button class="prev-btn" onclick="changeSlide('slider-colin', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-colin', 1)">Next ⟶</button>
+</div>
 
 ---
 
