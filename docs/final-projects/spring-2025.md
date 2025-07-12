@@ -227,6 +227,36 @@ model that was used to fit the data.
 
 ---
 
+## Gravity Knights: FIGHT GRAVITY WITH OUR ROCKET LANDING SIMULATOR!!!
+**Group Members:** Jean Gonzalez and Audrey Lee-Gardner
+**GitHub Repository:** https://github.com/Jeans617/Python_project_folder 
+
+Our initial goal with Gravity Knights was to create a 2D arcade-style game simulating
+real-world physics, but we weren’t initially sure what the premise of our game would be. We
+initially thought of making a game in which you shoot enemies with a spaceship, but this concept
+has been done so many times before and wouldn’t lend well to the “physics-based” concept we
+had. With this realization, we finally came up with the idea of having to fight the pull of gravity
+with an opposing force, a simple physics concept that most players should be familiar with, but
+implemented in a challenging way. Once we had the concept for our game, our main goal was to
+implement it in a way that was user-friendly, fun to play, and even educational.
+
+<div class="slider-container" id="slider-jean">
+  <img src="/assets/projects/spring-2025/Jean_Audrey/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Jean_Audrey/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Jean_Audrey/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Jean_Audrey/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Jean_Audrey/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Jean_Audrey/slide6.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Jean_Audrey/slide7.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-colin-status">Slide 1 of 7</div>
+</div>
+
+<div class="slider-nav">
+  <button class="prev-btn" onclick="changeSlide('slider-jean', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-jean', 1)">Next ⟶</button>
+</div>
+
 ---
 
 ---
