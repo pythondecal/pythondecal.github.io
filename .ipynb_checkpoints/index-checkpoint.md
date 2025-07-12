@@ -8,10 +8,8 @@ permalink: /
 
 # ASTRON 98: Introduction to Python for Astronomers (Python DeCal)
 {: .fs-9 }
-
-Welcome to the Python Decal! We are so glad you are here. The Python DeCal is a course designed by undergraduates for undergraduates to learn the basics of Python, plotting, and data analysis, specifically tailored for the UC Berkeley Astrophysics major. 
+Now accepting applications for the Fall 2025 semester!
 {: .fs-6 .fw-300 }
-
 
 [Apply for Fall 2025](#apply-for-fall-2025){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
@@ -20,6 +18,7 @@ Welcome to the Python Decal! We are so glad you are here. The Python DeCal is a 
 {% endcomment %}
 
 ---
+Welcome to the Python Decal! We are so glad you are here. The Python DeCal is a course designed by undergraduates for undergraduates to learn the basics of Python, plotting, and data analysis, specifically tailored for the UC Berkeley Astrophysics major. 
 
 {% comment %}
 {: .warning }
