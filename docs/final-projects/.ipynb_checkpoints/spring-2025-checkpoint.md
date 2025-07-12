@@ -128,14 +128,34 @@ curve, the project analyzes how star velocities behave at different galactic rad
   <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide5.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide6.jpg" class="slide-image">
-
-  <div class="slider-status" id="slider-max-status">Slide 1 of 6</div>
 </div>
 
 <div class="slider-nav">
   <button class="prev-btn" onclick="changeSlide('slider-max', -1)">⟵ Prev</button>
   <button class="next-btn" onclick="changeSlide('slider-max', 1)">Next ⟶</button>
 </div>
+
+---
+
+## Faraday's Law
+**Group Members:** Aviva Franklin
+
+In this project, I will be measuring the motion of a spring oscillating at 60 degrees, 
+and then fit that data to different models to determine the best equation of motion 
+for the system. This will involve data generation, data analysis, finding a curve of 
+best fit with errors, and analyzing the results.
+
+<div class="slider-container" id="slider-max">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide6.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-max-status">Slide 1 of 6</div>
+</div>
+
 
 ---
 
@@ -225,8 +245,9 @@ function showSlide(sliderId, index) {
 
   // Optional: disable buttons when at ends
   const container = document.getElementById(sliderId);
-  const prevBtn = document.querySelector(`[onclick="changeSlide('${sliderId}', -1)"]`);
-  const nextBtn = document.querySelector(`[onclick="changeSlide('${sliderId}', 1)"]`);
+  const navContainer = container.nextElementSibling;  // Assumes .slider-nav follows .slider-container
+  const prevBtn = navContainer?.querySelector(".prev-btn");
+  const nextBtn = navContainer?.querySelector(".next-btn");
   
   if (prevBtn) prevBtn.disabled = slideIndexes[sliderId] === 0;
   if (nextBtn) nextBtn.disabled = slideIndexes[sliderId] === total - 1;
