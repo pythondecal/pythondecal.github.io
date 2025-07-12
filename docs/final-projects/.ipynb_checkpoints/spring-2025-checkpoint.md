@@ -18,7 +18,7 @@ distances we simulated the tidal wave heights at any inputted latitude on the Ea
 putting it into an animation, based on the function parameter of time.
 
 <div class="slider-container" id="slider-deacon">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" class="slide-image">
@@ -59,7 +59,7 @@ understanding of and find meaningful connections between observed neutron stars 
 known theoretical predictions.
 
 <div class="slider-container" id="slider-eva">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide3.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide4.jpg" class="slide-image">
@@ -77,14 +77,40 @@ known theoretical predictions.
   <button onclick="changeSlide('slider-eva', 1)">Next ⟶</button>
 </div>
 
+---
 
+### Dark Matter Distribution of a Quasar-Galaxy Lensing System
+**Group Members:** Charlie Beckner
 
+My project is focused on plotting the distribution of dark matter of the galaxy in the gravitational
+lensing system, DES J0408-5354. The main galaxy is bending the light of a distant quasar
+behind it, creating three distinct lensing images and a clear Einstein radius arching around the
+galaxy. To do this, I will utilize data about the system to find the mass of the dark matter
+enclosed within the Einstein radius. I will then fit a mass-density model to find the scale radius
+and scale density which I will then use to plot the density as a function of radius from the center
+of the galaxy to visualize the distribution. To confirm my model is properly fitting the data, I
+have generated mock test data. 
+
+<div class="slider-container" id="slider-charlie">
+  <img src="/assets/projects/spring-2025/Charlie/slide1.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Charlie/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Charlie/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Charlie/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Charlie/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Charlie/slide6.jpg" class="slide-image">
+</div>
+
+<div class="slider-nav">
+  <button onclick="changeSlide('slider-charlie', -1)">⟵ Prev</button>
+  <button onclick="changeSlide('slider-charlie', 1)">Next ⟶</button>
+</div>
+
+---
 
 ### ???
 **Group Members:** Yuang Li
 
-### ???
-**Group Members:** Charlie Beckner
+
 
 ## Other Projects
 
