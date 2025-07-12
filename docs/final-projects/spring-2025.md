@@ -225,6 +225,7 @@ button:disabled {
 </style>
 
 <script>
+    
 const slideIndexes = {};
 
 function showSlide(sliderId, index) {
@@ -261,9 +262,12 @@ document.addEventListener("DOMContentLoaded", () => {
   const allSliders = document.querySelectorAll(".slider-container");
   allSliders.forEach((slider, i) => {
     const id = slider.id || `slider${i}`;
-    slider.id = id;
-    slideIndexes[id] = 0;
-    showSlide(id, 0);
+    if (!slider.id) {
+      slider.id = id;  // ✅ Only assign a new ID if one doesn't already exist
+    }
+    slideIndexes[slider.id] = 0;
+    showSlide(slider.id, 0);
   });
 });
+    
 </script>
