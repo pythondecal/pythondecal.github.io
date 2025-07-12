@@ -18,7 +18,7 @@ distances we simulated the tidal wave heights at any inputted latitude on the Ea
 putting it into an animation, based on the function parameter of time.
 
 <div class="slider-container" id="slider-deacon">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" class="slide-image">
@@ -61,7 +61,7 @@ understanding of and find meaningful connections between observed neutron stars 
 known theoretical predictions.
 
 <div class="slider-container" id="slider-eva">
-  <img src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide3.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide4.jpg" class="slide-image">
@@ -96,7 +96,7 @@ of the galaxy to visualize the distribution. To confirm my model is properly fit
 have generated mock test data. 
 
 <div class="slider-container" id="slider-charlie">
-  <img src="/assets/projects/spring-2025/Charlie/slide1.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Charlie/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Charlie/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Charlie/slide3.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Charlie/slide4.jpg" class="slide-image">
@@ -122,7 +122,7 @@ matter. We used real data from Eilers et al. (2019) on the Milky Way’s circula
 curve, the project analyzes how star velocities behave at different galactic radii.
 
 <div class="slider-container" id="slider-max">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide1.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Max_Xavier/slide1.jpg" class="slide-image active-slide">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide2.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide3.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
