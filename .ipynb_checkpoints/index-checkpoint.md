@@ -35,7 +35,7 @@ No prior programming experience required!
 
 To apply for the Fall 2025 semester, please [fill out this Google Form](https://forms.gle/rrsHmvT1r6EB1xut8).
 
-Applications are due no later **August 29th, 2025**. We will send out enrollment codes on a rolling basis. Please check you email frequently.
+Applications are due no later **August 29th, 2025**. We will send out enrollment codes on a rolling basis. Please check your email frequently.
 
 ## Learn More
 
