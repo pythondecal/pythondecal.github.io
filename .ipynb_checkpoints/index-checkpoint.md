@@ -42,5 +42,5 @@ Applications are due no later **August 29th, 2025**. We will send out enrollment
 - [Syllabus](docs/syllabus.md)
 - [Weekly Schedule](docs/schedule.md)
 - [Resources](docs/resources.md)
-
-----
+- 
+If you have any questions, comments, or concerns, please e-mail the Head Instructor Brianna Peck at bpeck114@berkeley.edu
