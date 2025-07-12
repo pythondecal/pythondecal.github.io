@@ -18,20 +18,19 @@ distances we simulated the tidal wave heights at any inputted latitude on the Ea
 putting it into an animation, based on the function parameter of time.
 
 <div class="slider-container" id="slider-deacon">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg" class="slide-image">
+  <img class="slide-image active-slide" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" alt="Slide 1">
+  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" alt="Slide 2">
+  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" alt="Slide 3">
+  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" alt="Slide 4">
+  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg" alt="Slide 5">
+  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg" alt="Slide 6">
+  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg" alt="Slide 7">
 
-  <div class="slider-status" id="slider-deacon-status">Slide 1 of 7</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-deacon', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-deacon', 1)">Next ⟶</button>
+  <div class="slider-controls">
+    <button id="prev-btn">Previous</button>
+    <span id="slider-status">Slide 1 of 7</span>
+    <button id="next-btn">Next</button>
+  </div>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -276,97 +275,63 @@ spaceships or just playing volleyballs.
 
 
 <style>
-.slider-container {
-  position: relative;
-  max-width: 800px;
-  margin: auto;
-}
-
-.slide-image {
-  display: none;
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-.active-slide {
-  display: block;
-}
-
-.slider-status {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-  background-color: rgba(0, 0, 0, 0.6);
-  color: #fff;
-  padding: 4px 8px;
-  border-radius: 6px;
-  font-size: 14px;
-  font-family: sans-serif;
-  z-index: 10;
-}
-
-.slider-nav {
-  text-align: center;
-  margin-top: 10px;
-}
-
-.slider-nav button {
-  padding: 5px 10px;
-  margin: 0 5px;
-  font-size: 14px;
-  cursor: pointer;
-}
-
-button:disabled {
-  opacity: 0.4;
-  cursor: not-allowed;
-}
-</style>
-
-{% raw %}
-<script>
-const slideIndexes = {};
-
-function showSlide(sliderId, index) {
-  const slides = document.querySelectorAll(`#${sliderId} .slide-image`);
-  const total = slides.length;
-
-  // Clamp index between 0 and total - 1
-  slideIndexes[sliderId] = Math.max(0, Math.min(index, total - 1));
-
-  slides.forEach((img, i) => {
-    img.classList.toggle("active-slide", i === slideIndexes[sliderId]);
-  });
-
-  const status = document.getElementById(`${sliderId}-status`);
-  if (status) {
-    status.textContent = `Slide ${slideIndexes[sliderId] + 1} of ${total}`;
+  .slide-image {
+    display: none;
+    width: 100%;
+    max-width: 800px;
   }
 
-  // Updated: disable buttons when at ends using exact button lookup
-  const prevBtn = document.querySelector(`button[onclick="changeSlide('${sliderId}', -1)"]`);
-  const nextBtn = document.querySelector(`button[onclick="changeSlide('${sliderId}', 1)"]`);
+  .active-slide {
+    display: block;
+  }
 
-  if (prevBtn) prevBtn.disabled = slideIndexes[sliderId] === 0;
-  if (nextBtn) nextBtn.disabled = slideIndexes[sliderId] === total - 1;
-}
+  .slider-controls {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
 
-function changeSlide(sliderId, direction) {
-  showSlide(sliderId, slideIndexes[sliderId] + direction);
-}
-window.changeSlide = changeSlide;
+  button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+</style>
 
-document.addEventListener("DOMContentLoaded", () => {
-  const allSliders = document.querySelectorAll(".slider-container");
-  allSliders.forEach((slider, i) => {
-    const id = slider.id || `slider${i}`;
-    if (!slider.id) {
-      slider.id = id;  // ✅ Only assign a new ID if one doesn't already exist
+<script>
+  const slides = document.querySelectorAll('#slider-deacon .slide-image');
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  const status = document.getElementById('slider-status');
+  let currentIndex = 0;
+
+  function updateSlideDisplay() {
+    slides.forEach((slide, i) => {
+      slide.classList.toggle('active-slide', i === currentIndex);
+    });
+
+    // Update status
+    status.textContent = `Slide ${currentIndex + 1} of ${slides.length}`;
+
+    // Enable/disable buttons
+    prevBtn.disabled = currentIndex === 0;
+    nextBtn.disabled = currentIndex === slides.length - 1;
+  }
+
+  prevBtn.addEventListener('click', () => {
+    if (currentIndex > 0) {
+      currentIndex--;
+      updateSlideDisplay();
     }
-    slideIndexes[slider.id] = 0;
-    showSlide(slider.id, 0);
   });
-});
+
+  nextBtn.addEventListener('click', () => {
+    if (currentIndex < slides.length - 1) {
+      currentIndex++;
+      updateSlideDisplay();
+    }
+  });
+
+  // Initial setup
+  updateSlideDisplay();
 </script>
-{% endraw %}
