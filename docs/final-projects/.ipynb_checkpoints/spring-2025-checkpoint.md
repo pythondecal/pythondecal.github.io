@@ -30,8 +30,8 @@ putting it into an animation, based on the function parameter of time.
 </div>
 
 <div class="slider-nav">
-  <button onclick="changeSlide('slider-deacon', -1)">⟵ Prev</button>
-  <button onclick="changeSlide('slider-deacon', 1)">Next ⟶</button>
+  <button class="prev-btn" onclick="changeSlide('slider-deacon', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-deacon', 1)">Next ⟶</button>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -77,8 +77,8 @@ known theoretical predictions.
 </div>
 
 <div class="slider-nav">
-  <button onclick="changeSlide('slider-eva', -1)">⟵ Prev</button>
-  <button onclick="changeSlide('slider-eva', 1)">Next ⟶</button>
+  <button class="prev-btn" onclick="changeSlide('slider-eva', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-eva', 1)">Next ⟶</button>
 </div>
 
 ---
@@ -107,8 +107,8 @@ have generated mock test data.
 </div>
 
 <div class="slider-nav">
-  <button onclick="changeSlide('slider-charlie', -1)">⟵ Prev</button>
-  <button onclick="changeSlide('slider-charlie', 1)">Next ⟶</button>
+  <button class="prev-btn" onclick="changeSlide('slider-charlie', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-charlie', 1)">Next ⟶</button>
 </div>
 
 ---
@@ -133,8 +133,8 @@ curve, the project analyzes how star velocities behave at different galactic rad
 </div>
 
 <div class="slider-nav">
-  <button onclick="changeSlide('slider-max', -1)">⟵ Prev</button>
-  <button onclick="changeSlide('slider-max', 1)">Next ⟶</button>
+  <button class="prev-btn" onclick="changeSlide('slider-max', -1)">⟵ Prev</button>
+  <button class="next-btn" onclick="changeSlide('slider-max', 1)">Next ⟶</button>
 </div>
 
 ---
@@ -197,6 +197,11 @@ spaceships or just playing volleyballs.
   font-size: 14px;
   cursor: pointer;
 }
+
+button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
 </style>
 
 <script>
@@ -205,17 +210,26 @@ const slideIndexes = {};
 function showSlide(sliderId, index) {
   const slides = document.querySelectorAll(`#${sliderId} .slide-image`);
   const total = slides.length;
-  slideIndexes[sliderId] = (index + total) % total;
+
+  // Clamp index between 0 and total - 1
+  slideIndexes[sliderId] = Math.max(0, Math.min(index, total - 1));
 
   slides.forEach((img, i) => {
     img.classList.toggle("active-slide", i === slideIndexes[sliderId]);
   });
 
-  // Update status element
   const status = document.getElementById(`${sliderId}-status`);
   if (status) {
     status.textContent = `Slide ${slideIndexes[sliderId] + 1} of ${total}`;
   }
+
+  // Optional: disable buttons when at ends
+  const container = document.getElementById(sliderId);
+  const prevBtn = document.querySelector(`[onclick="changeSlide('${sliderId}', -1)"]`);
+  const nextBtn = document.querySelector(`[onclick="changeSlide('${sliderId}', 1)"]`);
+  
+  if (prevBtn) prevBtn.disabled = slideIndexes[sliderId] === 0;
+  if (nextBtn) nextBtn.disabled = slideIndexes[sliderId] === total - 1;
 }
 
 function changeSlide(sliderId, direction) {
