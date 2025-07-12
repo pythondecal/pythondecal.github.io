@@ -17,21 +17,20 @@ simulated the positions of all three objects using equations of gravity and mech
 distances we simulated the tidal wave heights at any inputted latitude on the Earth, ultimately
 putting it into an animation, based on the function parameter of time.
 
-<div class="slider-container" id="slider-deacon">
-  <img class="slide-image active-slide" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" alt="Slide 1">
-  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" alt="Slide 2">
-  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" alt="Slide 3">
-  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" alt="Slide 4">
-  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg" alt="Slide 5">
-  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg" alt="Slide 6">
-  <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg" alt="Slide 7">
-
-  <div class="slider-controls">
-    <button id="prev-btn">Previous</button>
-    <span id="slider-status">Slide 1 of 7</span>
-    <button id="next-btn">Next</button>
+<div class="slider" data-slider-id="slider1">
+    <h2>Slider 1</h2>
+    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" alt="1A">
+    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" alt="1B">
+    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" alt="1C">
+    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" alt="1D">
+    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg" alt="1E">
+    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg" alt="1F">
+    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg" alt="1G">
+    <div class="slider-controls">
+      <button class="prevBtn">Previous</button>
+      <button class="nextBtn">Next</button>
+    </div>
   </div>
-</div>
 
 <video width="100%" controls loop autoplay muted>
   <source src="/assets/projects/spring-2025/Deacon_Olivia/Deacon_Olivia.mp4" type="video/mp4">
@@ -270,63 +269,96 @@ spaceships or just playing volleyballs.
 
 
 <style>
-  .slide-image {
-    display: none;
-    width: 100%;
-    max-width: 800px;
-  }
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        background-color: #f9f9f9;
+        padding: 40px;
+        color: #222;
+    }
+    .slider {
+        margin-bottom: 50px;
+        text-align: center;
+    }
 
-  .active-slide {
-    display: block;
-  }
+    .slide-image {
+        display: none;
+        width: 100%;
+        max-width: 800px;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
 
-  .slider-controls {
-    margin-top: 10px;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
+    .active-slide {
+        display: block;
+    }
 
-  button:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-  }
+    .slider-controls {
+        margin-top: 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+    }
+
+    button {
+        padding: 10px 20px;
+        font-size: 15px;
+        border-radius: 6px;
+        border: 1px solid #d0d0d0;
+        background-color: #fff;
+        color: #333;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    button:hover:not(:disabled) {
+        border-color: #bbb;
+        background-color: #f0f0f0;
+    }
+
+    button:disabled {
+        opacity: 0.4;
+        cursor: not-allowed;
+    }
 </style>
 
 <script>
-  const slides = document.querySelectorAll('#slider-deacon .slide-image');
-  const prevBtn = document.getElementById('prev-btn');
-  const nextBtn = document.getElementById('next-btn');
-  const status = document.getElementById('slider-status');
-  let currentIndex = 0;
+    document.addEventListener("DOMContentLoaded", function () {
+      const sliders = document.querySelectorAll(".slider");
 
-  function updateSlideDisplay() {
-    slides.forEach((slide, i) => {
-      slide.classList.toggle('active-slide', i === currentIndex);
+      sliders.forEach(slider => {
+        const slides = slider.querySelectorAll(".slide-image");
+        const prevBtn = slider.querySelector(".prevBtn");
+        const nextBtn = slider.querySelector(".nextBtn");
+        let currentIndex = 0;
+
+        function updateSlides() {
+          slides.forEach((slide, index) => {
+            slide.classList.toggle("active-slide", index === currentIndex);
+          });
+
+          prevBtn.disabled = currentIndex === 0;
+          nextBtn.disabled = currentIndex === slides.length - 1;
+        }
+
+        prevBtn.addEventListener("click", () => {
+          if (currentIndex > 0) {
+            currentIndex--;
+            updateSlides();
+          }
+        });
+
+        nextBtn.addEventListener("click", () => {
+          if (currentIndex < slides.length - 1) {
+            currentIndex++;
+            updateSlides();
+          }
+        });
+
+        updateSlides(); // initialize
+      });
     });
+</script>    
 
-    // Update status
-    status.textContent = `Slide ${currentIndex + 1} of ${slides.length}`;
-
-    // Enable/disable buttons
-    prevBtn.disabled = currentIndex === 0;
-    nextBtn.disabled = currentIndex === slides.length - 1;
-  }
-
-  prevBtn.addEventListener('click', () => {
-    if (currentIndex > 0) {
-      currentIndex--;
-      updateSlideDisplay();
-    }
-  });
-
-  nextBtn.addEventListener('click', () => {
-    if (currentIndex < slides.length - 1) {
-      currentIndex++;
-      updateSlideDisplay();
-    }
-  });
-
-  // Initial setup
-  updateSlideDisplay();
-</script>
+    
