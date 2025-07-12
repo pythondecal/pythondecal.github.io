@@ -171,8 +171,6 @@ best fit with errors, and analyzing the results.
 
 ---
 
-##
-
 ## Other Projects
 
 ### Shooting Game
@@ -237,7 +235,6 @@ button:disabled {
 </style>
 
 <script>
-    
 const slideIndexes = {};
 
 function showSlide(sliderId, index) {
@@ -256,12 +253,10 @@ function showSlide(sliderId, index) {
     status.textContent = `Slide ${slideIndexes[sliderId] + 1} of ${total}`;
   }
 
-  // Optional: disable buttons when at ends
-  const container = document.getElementById(sliderId);
-  const navContainer = container.nextElementSibling;  // Assumes .slider-nav follows .slider-container
-  const prevBtn = navContainer?.querySelector(".prev-btn");
-  const nextBtn = navContainer?.querySelector(".next-btn");
-  
+  // Updated: disable buttons when at ends using exact button lookup
+  const prevBtn = document.querySelector(`button[onclick="changeSlide('${sliderId}', -1)"]`);
+  const nextBtn = document.querySelector(`button[onclick="changeSlide('${sliderId}', 1)"]`);
+
   if (prevBtn) prevBtn.disabled = slideIndexes[sliderId] === 0;
   if (nextBtn) nextBtn.disabled = slideIndexes[sliderId] === total - 1;
 }
@@ -281,5 +276,4 @@ document.addEventListener("DOMContentLoaded", () => {
     showSlide(slider.id, 0);
   });
 });
-    
 </script>
