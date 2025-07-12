@@ -146,16 +146,28 @@ for the system. This will involve data generation, data analysis, finding a curv
 best fit with errors, and analyzing the results.
 
 <div class="slider-container" id="slider-max">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide6.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide1.jpg" class="slide-image active-slide">
+  <img src="/assets/projects/spring-2025/Aviva/slide2.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide3.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide4.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide5.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide6.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide7.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide8.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide9.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide10.jpg" class="slide-image">
+  <img src="/assets/projects/spring-2025/Aviva/slide11.jpg" class="slide-image">
 
   <div class="slider-status" id="slider-max-status">Slide 1 of 6</div>
 </div>
 
+---
+
+---
+
+---
+
+---
 
 ---
 
