@@ -24,6 +24,6 @@ putting it into an animation, based on the function parameter of time.
 
 
 <video width="100%" controls loop autoplay muted>
-  <source src="../../assets/projects/spring-2025/Deacon_Silvia.mov" type="video/mp4">
+  <source src="../../assets/projects/spring-2025/Deacon_Silvia/Deacon_Silvia.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
