@@ -16,7 +16,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 |                       | Instructor (Fall 2023 - Fall 2024)         |                              |
 |                       | Intern (Spring 2023)                       |                              |
 |-----------------------|--------------------------------------------|------------------------------|
-| Charlie Glenn Tolley  | Instructor (Spring 2025 - Present)         | ???                          |
+| Charlie Tolley        | Instructor (Spring 2025 - Present)         | ???                          |
 |                       | Head Instructor (Spring 2024 - Fall 2024)  |                              |
 |                       | Instructor (Spring 2023 - Fall 2024)       |                              |
 |                       | Intern (Fall 2022)                         |                              |
