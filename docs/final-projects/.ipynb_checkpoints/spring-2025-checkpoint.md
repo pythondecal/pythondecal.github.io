@@ -25,6 +25,8 @@ putting it into an animation, based on the function parameter of time.
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-deacon-status">Slide 1 of 7</div>
 </div>
 
 <div class="slider-nav">
@@ -44,7 +46,7 @@ putting it into an animation, based on the function parameter of time.
 
 ---
 
-### Mass-Radius Relations of Neutron Stars
+## Mass-Radius Relations of Neutron Stars
 **Group Members:** Eva Li, Serina Mummert
 
 This project investigates the mass-radius relationship found in neutron stars, the most
@@ -70,6 +72,8 @@ known theoretical predictions.
   <img src="/assets/projects/spring-2025/Eva_Serina/slide9.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide10.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Eva_Serina/slide11.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-eva-status">Slide 1 of 11</div>
 </div>
 
 <div class="slider-nav">
@@ -79,7 +83,7 @@ known theoretical predictions.
 
 ---
 
-### Dark Matter Distribution of a Quasar-Galaxy Lensing System
+## Dark Matter Distribution of a Quasar-Galaxy Lensing System
 **Group Members:** Charlie Beckner
 
 My project is focused on plotting the distribution of dark matter of the galaxy in the gravitational
@@ -98,6 +102,8 @@ have generated mock test data.
   <img src="/assets/projects/spring-2025/Charlie/slide4.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Charlie/slide5.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Charlie/slide6.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-charlie-status">Slide 1 of 6</div>
 </div>
 
 <div class="slider-nav">
@@ -107,7 +113,7 @@ have generated mock test data.
 
 ---
 
-### Rotation Curve of the Milky Way Evidence for Dark Matter Halos
+## Rotation Curve of the Milky Way Evidence for Dark Matter Halos
 **Group Members:** Max Velasquez and Xavier Silva
 
 This project aims to explore and simulate our galaxy’s rotation curve, comparing
@@ -122,6 +128,8 @@ curve, the project analyzes how star velocities behave at different galactic rad
   <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide5.jpg" class="slide-image">
   <img src="/assets/projects/spring-2025/Max_Xavier/slide6.jpg" class="slide-image">
+
+  <div class="slider-status" id="slider-max-status">Slide 1 of 6</div>
 </div>
 
 <div class="slider-nav">
@@ -130,6 +138,8 @@ curve, the project analyzes how star velocities behave at different galactic rad
 </div>
 
 ---
+
+##
 
 ## Other Projects
 
@@ -163,6 +173,19 @@ spaceships or just playing volleyballs.
   display: block;
 }
 
+.slider-status {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: sans-serif;
+  z-index: 10;
+}
+
 .slider-nav {
   text-align: center;
   margin-top: 10px;
@@ -181,10 +204,18 @@ const slideIndexes = {};
 
 function showSlide(sliderId, index) {
   const slides = document.querySelectorAll(`#${sliderId} .slide-image`);
-  slideIndexes[sliderId] = (index + slides.length) % slides.length;
+  const total = slides.length;
+  slideIndexes[sliderId] = (index + total) % total;
+
   slides.forEach((img, i) => {
     img.classList.toggle("active-slide", i === slideIndexes[sliderId]);
   });
+
+  // Update status element
+  const status = document.getElementById(`${sliderId}-status`);
+  if (status) {
+    status.textContent = `Slide ${slideIndexes[sliderId] + 1} of ${total}`;
+  }
 }
 
 function changeSlide(sliderId, direction) {
