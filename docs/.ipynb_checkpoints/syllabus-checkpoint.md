@@ -8,37 +8,37 @@ nav_order: 4
 ---
 
 ## Facilitators:
-Brianna Peck (bpeck114@berkeley.edu)
-Pranathi Kolla (pranathik@berkeley.edu)
-Mahum Khan (mahumkhan@berkeley.edu)
-Mira Bhatt (mirabhatt@berkeley.edu)
-Katherine Mora (katherinemora@berkeley.edu)
-Mariam Helal (mariam.helal@berkeley.edu)
-William Lee (williamlee8@berkeley.edu)
-Safia Barmada (sbarmada@berkeley.edu)
+- Brianna Peck (bpeck114@berkeley.edu)
+- Pranathi Kolla (pranathik@berkeley.edu)
+- Mahum Khan (mahumkhan@berkeley.edu)
+- Mira Bhatt (mirabhatt@berkeley.edu)
+- Katherine Mora (katherinemora@berkeley.edu)
+- Mariam Helal (mariam.helal@berkeley.edu)
+- William Lee (williamlee8@berkeley.edu)
+- Safia Barmada (sbarmada@berkeley.edu)
 
 ## Interns: 
-Milana Berhe (milana.berhe@berkeley.edu)
-Olivia Silva (olivia lsilva@berkeley.edu)
+- Milana Berhe (milana.berhe@berkeley.edu)
+- Olivia Silva (olivia lsilva@berkeley.edu)
 
 ## Faculty Sponsor:
-Aaron Parsons
+- Aaron Parsons
 
 ## Time & Location: 
-Mondays & Wednesdays, 4:00-5:00 PM
-131 Campbell Hall
+- Mondays & Wednesdays, 4:00-5:00 PM
+- 131 Campbell Hall
 
 ## Office Hours: 
-TBD (Posted by Week 2)
+- TBD (Posted by Week 2)
 
 ## Course Number:
-98
+- 98
 
 ## Course Code: 
-TBD
+- TBD
 
 ## Units: 
-2 units, P/NP
+- 2 units, P/NP
 
 ---
 
@@ -75,10 +75,10 @@ Students are expected to bring and use their own computers for this course. If y
 utilizing the STEP program, which offers semester-long computer rentals. If the STEP program is not a suitable option,
 please reach out to course staff so we can help arrange alternate accommodations.
 Course-related content will be available on our bCourses site. Unless otherwise noted:
-• Lecture notes and guides will be posted under the Pages section.
-• Homework and starter code will be found in the Files section. Occasionally homework may be posted on our GitHub
+- Lecture notes and guides will be posted under the Pages section.
+- Homework and starter code will be found in the Files section. Occasionally homework may be posted on our GitHub
 repository.
-• Important updates and reminders will be sent through the Announcements tab and cross-posted on EdStem
+- Important updates and reminders will be sent through the Announcements tab and cross-posted on EdStem
 
 EdStem is our main Q&A platform where you can ask questions and receive timely answers from course staff and peers.
 We highly recommend using EdStem over email, as it enables collaborative learning and quicker response times.
@@ -102,9 +102,9 @@ approach, office hours tend to get busier, so plan accordingly when seeking assi
 will be posted to bCourses by the end of the second week.
 
 ## Grading Breakdown
-**Participation 10%**
-**Homework 60%**
-**Final Project 30%**
+- **Participation 10%**
+- **Homework 60%**
+- **Final Project 30%**
 
 **A grade of 70% or above AND an attempt on the final project is required to pass this class.**
 
@@ -133,11 +133,11 @@ add to your workload like a full homework assignment.
 Homework is assigned weekly and due the following Monday at 11:59 PM on Gradescope via your GitHub repository.
 Homework will reinforce material from lectures and encourage hands-on exploration of new concepts.
 
-• There is no penalty for late submissions within a 2-week grace period from the original due date. If you
+- There is no penalty for late submissions within a 2-week grace period from the original due date. If you
 need even more time, please reach out for accommodations.
-• Homework is graded on effort and accuracy. You’ll earn most of the points as long as you show clear thought and
+- Homework is graded on effort and accuracy. You’ll earn most of the points as long as you show clear thought and
 honest attempts——even if your answers aren’t fully correct.
-• Collaboration is allowed, but each student must submit their own original work. Avoid direct use of AI-
+- Collaboration is allowed, but each student must submit their own original work. Avoid direct use of AI-
 generated answers to preserve your learning experience.
 
 Homework will be assigned weekly, covering topics discussed in lectures. Homework will be released on Tuesdays after class
@@ -166,18 +166,18 @@ You may work individually or in pairs (2 students max). Completion of the Final 
 presentation——is mandatory to pass this course.
 
 #### Timeline and Checkpoints:
-• **Week 7**: You will be assigned a staff mentor to support your project. You must attend at least one office hours of
+- **Week 7**: You will be assigned a staff mentor to support your project. You must attend at least one office hours of
 your mentor to complete a check-in assignment before submitting your project proposal to discuss your ideas and get
 feedback.
-• **Week 11**: Project Proposals will be due. Details and format will be released on bCourses.
-• **Weeks 12-14**: Ongoing second mentor check-ins. You’re expected to check-in at least once more with your mentor
+-  **Week 11**: Project Proposals will be due. Details and format will be released on bCourses.
+- **Weeks 12-14**: Ongoing second mentor check-ins. You’re expected to check-in at least once more with your mentor
 during the project development phase. Your mentor is your primary point of contact for support and feedback.
-• **Week 15**: Final Project Presentations! You will give a 1-3 minute presentation (with slides or visual aid) to
+- **Week 15**: Final Project Presentations! You will give a 1-3 minute presentation (with slides or visual aid) to
 share your project with the class.
 
 #### Expectations:
-• Projects should demonstrate your understanding of Python coding concepts, especially those covered in class.
-• You are encouraged to explore your academic interests, whether through astronomy datasets (e.g. FITS files),
+- Projects should demonstrate your understanding of Python coding concepts, especially those covered in class.
+- You are encouraged to explore your academic interests, whether through astronomy datasets (e.g. FITS files),
 simulations, or creative coding applications (like designing a video game).
 • We will provide example project ideas and offer brainstorming guidance in class and on EdStem.
 
