@@ -107,7 +107,7 @@ Each semester our students complete a Final Project and give a presentation in f
 
 <section class="tiles">
     <div class="tile">
-        <img src="assets/projects/spring-2025/creation.png" alt="Pillars of Creation">
+        <img src="../../assets/projects/spring-2025/creation.png" alt="Pillars of Creation">
         <div class="overlay"></div>
         <div class="text">
             <div class="title">Final Projects</div>

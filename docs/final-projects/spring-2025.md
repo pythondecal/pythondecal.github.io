@@ -8,7 +8,7 @@ nav_order: 1
 Please enjoy the final projects of students during the Spring 2025 semester.
 ---
 
-## Simulating Tidal Waves with Gravitational Physics (test)
+## Simulating Tidal Waves with Gravitational Physics
 **Group Members:** Deacon Carreon and Olivia Silvia
 
 The goal for this project was to model the tides of the Earth-Moon-Sun system. To do this, we
