@@ -108,7 +108,7 @@ test
 
 <section class="tiles">
     <div class="tile">
-        <img src="assets/images/creation.png" alt="Pillars of Creation">
+        <img src="/assets/images/creation.png" alt="Pillars of Creation">
         <div class="overlay"></div>
         <div class="text">
             <div class="title">Final Projects</div>
@@ -117,7 +117,7 @@ test
         </div>
     </div>
     <div class="tile">
-      <img src="assets/images/crab.jpg" alt="Crab Nebula">
+      <img src="/assets/images/crab.jpg" alt="Crab Nebula">
       <div class="overlay"></div>
       <div class="text">
         <div class="title">Final Projects</div>
@@ -126,7 +126,7 @@ test
       </div>
     </div>
     <div class="tile">
-      <img src="assets/images/hat.jpg" alt="Sombrero Galaxy">
+      <img src="/assets/images/hat.jpg" alt="Sombrero Galaxy">
       <div class="overlay"></div>
       <div class="text">
         <div class="title">Final Projects</div>
@@ -135,7 +135,7 @@ test
       </div>
     </div>
     <div class="tile">
-      <img src="assets/images/orion.jpg" alt="Galaxy 4">
+      <img src="/assets/images/orion.jpg" alt="Galaxy 4">
       <div class="overlay"></div>
       <div class="text">
         <div class="title">Final Projects</div>
