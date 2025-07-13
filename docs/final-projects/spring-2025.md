@@ -347,6 +347,32 @@ orbits.
 
 ---
 
+## HWC: ESI and CMF of Exoplanets
+**Group Members:** Brandon Pestoni 
+
+Within the Habitable Worlds Catalog (HWC), there are over 5000 exoplanets recorded with most
+having specific physical parameters cataloged that determine their specificity in terms of what
+kind of exoplanet it is and how it compared to planets that we know of in our own solar system.
+They have different data sets that are either reduced based on certain physical parameters but
+for the sake of this project, I decided to take the raw data set and do the filtering on my own,
+as we will see in the coming pages.
+
+<div class="slider" data-slider-id="slider1">
+    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Brandon/slide1.jpg" alt="1A">
+    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide2.jpg" alt="1B">
+    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide3.jpg" alt="1C">
+    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide4.jpg" alt="1D">
+    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide5.jpg" alt="1E">
+    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide6.jpg" alt="1F">
+    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide7.jpg" alt="1G">
+    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide8.jpg" alt="1H">
+    <div class="slider-controls">
+      <button class="prevBtn">Previous</button>
+      <button class="nextBtn">Next</button>
+    </div>
+</div>
+
+---
 
 
 ---
