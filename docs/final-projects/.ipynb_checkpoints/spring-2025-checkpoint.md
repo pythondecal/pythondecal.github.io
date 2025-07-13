@@ -72,20 +72,12 @@ and scale density which I will then use to plot the density as a function of rad
 of the galaxy to visualize the distribution. To confirm my model is properly fitting the data, I
 have generated mock test data. 
 
-<div class="slider-container" id="slider-charlie">
-  <img src="/assets/projects/spring-2025/Charlie/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Charlie/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Charlie/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Charlie/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Charlie/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Charlie/slide6.jpg" class="slide-image">
-
-  <div class="slider-status" id="slider-charlie-status">Slide 1 of 6</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-charlie', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-charlie', 1)">Next ⟶</button>
+<div class="slider" id="slider-charlie">
+  <img class="slide-img" src="/assets/projects/spring-2025/Charlie/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-charlie', -1)">Previous</button>
+  <button onclick="changeSlide('slider-charlie', 1)">Next</button>
+  <p id="slider-charlie-status">Slide 1 of 6</p>
 </div>
 
 ---
@@ -98,20 +90,12 @@ theoretical Keplerian models with observed velocity data to illustrate the need 
 matter. We used real data from Eilers et al. (2019) on the Milky Way’s circular velocity
 curve, the project analyzes how star velocities behave at different galactic radii.
 
-<div class="slider-container" id="slider-max">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Max_Xavier/slide6.jpg" class="slide-image">
-
-  <div class="slider-status" id="slider-max-status">Slide 1 of 6</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-max', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-max', 1)">Next ⟶</button>
+<div class="slider" id="slider-max">
+  <img class="slide-img" src="/assets/projects/spring-2025/Max_Xavier/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-max', -1)">Previous</button>
+  <button onclick="changeSlide('slider-max', 1)">Next</button>
+  <p id="slider-max-status">Slide 1 of 6</p>
 </div>
 
 ---
@@ -124,25 +108,12 @@ and then fit that data to different models to determine the best equation of mot
 for the system. This will involve data generation, data analysis, finding a curve of 
 best fit with errors, and analyzing the results.
 
-<div class="slider-container" id="slider-aviva">
-  <img src="/assets/projects/spring-2025/Aviva/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Aviva/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide6.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide7.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide8.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide9.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide10.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Aviva/slide11.jpg" class="slide-image">
-
-  <div class="slider-status" id="slider-aviva-status">Slide 1 of 11</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-aviva', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-aviva', 1)">Next ⟶</button>
+<div class="slider" id="slider-aviva">
+  <img class="slide-img" src="/assets/projects/spring-2025/Aviva/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-aviva', -1)">Previous</button>
+  <button onclick="changeSlide('slider-aviva', 1)">Next</button>
+  <p id="slider-aviva-status">Slide 1 of 11</p>
 </div>
 
 ---
@@ -396,7 +367,7 @@ spaceships or just playing volleyballs.
       "/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg",
       "/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg"
     ],
-    "slider-brandon": [
+    "slider-eva": [
       "/assets/projects/spring-2025/Eva_Serina/slide1.jpg",
       "/assets/projects/spring-2025/Eva_Serina/slide2.jpg",
       "/assets/projects/spring-2025/Eva_Serina/slide3.jpg",
@@ -408,7 +379,37 @@ spaceships or just playing volleyballs.
       "/assets/projects/spring-2025/Eva_Serina/slide9.jpg",
       "/assets/projects/spring-2025/Eva_Serina/slide10.jpg",
       "/assets/projects/spring-2025/Eva_Serina/slide11.jpg"
+    ],
+    "slide-charlie": [
+        "/assets/projects/spring-2025/Charlie/slide1.jpg",
+        "/assets/projects/spring-2025/Charlie/slide2.jpg",
+        "/assets/projects/spring-2025/Charlie/slide3.jpg",
+        "/assets/projects/spring-2025/Charlie/slide4.jpg",
+        "/assets/projects/spring-2025/Charlie/slide5.jpg",
+        "/assets/projects/spring-2025/Charlie/slide6.jpg"
+    ],
+    "slide-max": [
+        "/assets/projects/spring-2025/Max_Xavier/slide1.jpg",
+        "/assets/projects/spring-2025/Max_Xavier/slide2.jpg",
+        "/assets/projects/spring-2025/Max_Xavier/slide3.jpg",
+        "/assets/projects/spring-2025/Max_Xavier/slide4.jpg",
+        "/assets/projects/spring-2025/Max_Xavier/slide5.jpg",
+        "/assets/projects/spring-2025/Max_Xavier/slide6.jpg"
+    ],
+    "slide-aviva": [
+        "/assets/projects/spring-2025/Aviva/slide1.jpg",
+        "/assets/projects/spring-2025/Aviva/slide2.jpg",
+        "/assets/projects/spring-2025/Aviva/slide3.jpg",
+        "/assets/projects/spring-2025/Aviva/slide4.jpg",
+        "/assets/projects/spring-2025/Aviva/slide5.jpg",
+        "/assets/projects/spring-2025/Aviva/slide6.jpg",
+        "/assets/projects/spring-2025/Aviva/slide7.jpg",
+        "/assets/projects/spring-2025/Aviva/slide8.jpg",
+        "/assets/projects/spring-2025/Aviva/slide9.jpg",
+        "/assets/projects/spring-2025/Aviva/slide10.jpg",
+        "/assets/projects/spring-2025/Aviva/slide11.jpg"
     ]
+      
   };
 
   const slideIndexes = {};
