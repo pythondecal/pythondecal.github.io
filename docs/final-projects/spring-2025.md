@@ -252,6 +252,9 @@ implement it in a way that was user-friendly, fun to play, and even educational.
 
 ---
 
+## Analyzing Orbital Properties of KOI Systems
+**Group Members:** Kaitlyn Le
+
 ---
 
 ## Other Projects
