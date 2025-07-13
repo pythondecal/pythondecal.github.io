@@ -173,10 +173,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group11-status">Slide 1 of 13</p>
 </div>
 
-
-
 ---
-
 
 <script>
   const slideData = {
@@ -199,7 +196,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group2/slide5.jpg",
           "/assets/projects/fall-2022/Group2/slide6.jpg",
           "/assets/projects/fall-2022/Group2/slide7.jpg",
-          "/assets/projects/fall-2022/Group2/slide8.jpg",
+          "/assets/projects/fall-2022/Group2/slide8.jpg"
     ],
       "slider-group3": [
           "/assets/projects/fall-2022/Group3/slide1.jpg",
@@ -337,7 +334,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group10/slide24.jpg",
           "/assets/projects/fall-2022/Group10/slide25.jpg"
       ],
-      "slider-group10": [
+      "slider-group11": [
           "/assets/projects/fall-2022/Group11/slide1.jpg",
           "/assets/projects/fall-2022/Group11/slide2.jpg",
           "/assets/projects/fall-2022/Group11/slide3.jpg",
