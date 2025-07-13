@@ -107,50 +107,55 @@ test
 </style>
 
 <section class="tiles">
-    <div class="tile">
-        <img src="/assets/images/creation.png" alt="Pillars of Creation">
-        <div class="overlay"></div>
-        <div class="text">
-            <div class="title">Final Projects</div>
-            <div class="year">Spring 2025</div>
-            <div class="description">Take a look at our most recent spring showcase.</div>
-        </div>
+
+  <a href="/docs/final-projects/spring-2025" class="tile">
+    <img src="/assets/images/creation.png" alt="Pillars of Creation">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Spring 2025</div>
+      <div class="description">Take a look at our most recent spring showcase.</div>
     </div>
-    <div class="tile">
-      <img src="/assets/images/crab.jpg" alt="Crab Nebula">
-      <div class="overlay"></div>
-      <div class="text">
-        <div class="title">Final Projects</div>
-        <div class="year">Fall 2024</div>
-        <div class="description">Amazing work from undergraduates!</div>
-      </div>
+  </a>
+
+  <a href="/docs/final-projects/fall-2024" class="tile">
+    <img src="/assets/images/crab.jpg" alt="Crab Nebula">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Fall 2024</div>
+      <div class="description">Amazing work from undergraduates!</div>
     </div>
-    <div class="tile">
-      <img src="/assets/images/hat.jpg" alt="Sombrero Galaxy">
-      <div class="overlay"></div>
-      <div class="text">
-        <div class="title">Final Projects</div>
-        <div class="year">Spring 2024</div>
-        <div class="description">Projects exploring data, science, and creativity.</div>
-      </div>
+  </a>
+
+  <a href="/docs/final-projects/spring-2024" class="tile">
+    <img src="/assets/images/hat.jpg" alt="Sombrero Galaxy">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Spring 2024</div>
+      <div class="description">Projects exploring data, science, and creativity.</div>
     </div>
-    <div class="tile">
-      <img src="/assets/images/orion.jpg" alt="Galaxy 4">
-      <div class="overlay"></div>
-      <div class="text">
-        <div class="title">Final Projects</div>
-        <div class="year">Fall 2023</div>
-        <div class="description">More amazing student work from our class.</div>
-      </div>
+  </a>
+
+  <a href="/docs/final-projects/fall-2023" class="tile">
+    <img src="/assets/images/orion.jpg" alt="Orion Nebula">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Fall 2023</div>
+      <div class="description">More amazing student work from our class.</div>
     </div>
-    <div class="tile">
-      <img src="/assets/images/hubble.jpg" alt="Galaxy 4">
-      <div class="overlay"></div>
-      <div class="text">
-        <div class="title">Final Projects</div>
-        <div class="year">Spring 2023</div>
-        <div class="description">Amazing students. Amazing projects.</div>
-      </div>
+  </a>
+
+  <a href="/docs/final-projects/spring-2023" class="tile">
+    <img src="/assets/images/hubble.jpg" alt="Hubble Galaxy">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Spring 2023</div>
+      <div class="description">Amazing students. Amazing projects.</div>
     </div>
+  </a>
 
 </section>
