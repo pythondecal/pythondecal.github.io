@@ -98,6 +98,22 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 <img src="/assets/projects/fall-2022/Group6/Group6.gif" alt="Animated GIF" style="width: 100%;">
 <img src="/assets/projects/fall-2022/Group6/Group6_2.gif" alt="Animated GIF" style="width: 100%;">
 
+---
+
+## Modeling the Planetary System HD23472
+**Group Members:** Kazem, Nick, Quinn, Hope and Rhea
+
+<div class="slider" id="slider-group7">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group7/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group7', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group7', 1)">Next</button>
+  <p id="slider-group6-status">Slide 1 of 14</p>
+</div>
+
+---
+
+
 
 
 ---
@@ -189,6 +205,22 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group6/slide7.jpg",
           "/assets/projects/fall-2022/Group6/slide8.jpg",
           "/assets/projects/fall-2022/Group6/slide9.jpg"
+      ],
+      "slider-group7": [
+          "/assets/projects/fall-2022/Group7/slide1.jpg",
+          "/assets/projects/fall-2022/Group7/slide2.jpg",
+          "/assets/projects/fall-2022/Group7/slide3.jpg",
+          "/assets/projects/fall-2022/Group7/slide4.jpg",
+          "/assets/projects/fall-2022/Group7/slide5.jpg",
+          "/assets/projects/fall-2022/Group7/slide6.jpg",
+          "/assets/projects/fall-2022/Group7/slide7.jpg",
+          "/assets/projects/fall-2022/Group7/slide8.jpg",
+          "/assets/projects/fall-2022/Group7/slide9.jpg",
+          "/assets/projects/fall-2022/Group7/slide10.jpg",
+          "/assets/projects/fall-2022/Group7/slide11.jpg",
+          "/assets/projects/fall-2022/Group7/slide12.jpg",
+          "/assets/projects/fall-2022/Group7/slide13.jpg",
+          "/assets/projects/fall-2022/Group7/slide14.jpg"
       ]
       
   };
