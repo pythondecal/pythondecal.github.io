@@ -60,7 +60,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group1/slide8.jpg",
           "/assets/projects/fall-2022/Group1/slide9.jpg"
     ],
-      "slider-group1": [
+      "slider-group2": [
           "/assets/projects/fall-2022/Group2/slide1.jpg",
           "/assets/projects/fall-2022/Group2/slide2.jpg",
           "/assets/projects/fall-2022/Group2/slide3.jpg",
@@ -70,7 +70,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group2/slide7.jpg",
           "/assets/projects/fall-2022/Group2/slide8.jpg"
     ],
-      "slider-group1": [
+      "slider-group3": [
           "/assets/projects/fall-2022/Group3/slide1.jpg",
           "/assets/projects/fall-2022/Group3/slide2.jpg",
           "/assets/projects/fall-2022/Group3/slide3.jpg",

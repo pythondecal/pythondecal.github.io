@@ -139,8 +139,17 @@ test
       <div class="overlay"></div>
       <div class="text">
         <div class="title">Final Projects</div>
-        <div class="year">Fall 2024</div>
+        <div class="year">Fall 2023</div>
         <div class="description">More amazing student work from our class.</div>
+      </div>
+    </div>
+    <div class="tile">
+      <img src="/assets/images/hubble.jpg" alt="Galaxy 4">
+      <div class="overlay"></div>
+      <div class="text">
+        <div class="title">Final Projects</div>
+        <div class="year">Spring 2023</div>
+        <div class="description">Amazing students. Amazing projects.</div>
       </div>
     </div>
 
