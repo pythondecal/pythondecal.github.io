@@ -324,41 +324,44 @@ spaceships or just playing volleyballs.
 </style>
 
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const sliders = document.querySelectorAll(".slider");
+  document.addEventListener("DOMContentLoaded", function () {
+    const sliders = document.querySelectorAll(".slider");
 
-      sliders.forEach(slider => {
-        const slides = slider.querySelectorAll(".slide-image");
-        const prevBtn = slider.querySelector(".prevBtn");
-        const nextBtn = slider.querySelector(".nextBtn");
-        let currentIndex = 0;
+    sliders.forEach(slider => {
+      const slides = slider.querySelectorAll(".slide-image");
+      const prevBtn = slider.querySelector(".prevBtn");
+      const nextBtn = slider.querySelector(".nextBtn");
 
-        function updateSlides() {
-          slides.forEach((slide, index) => {
-            slide.classList.toggle("active-slide", index === currentIndex);
-          });
+      // ✅ Store index directly on the slider element
+      slider.currentIndex = 0;
 
-          prevBtn.disabled = currentIndex === 0;
-          nextBtn.disabled = currentIndex === slides.length - 1;
+      function updateSlides() {
+        slides.forEach((slide, index) => {
+          slide.classList.toggle("active-slide", index === slider.currentIndex);
+        });
+
+        prevBtn.disabled = slider.currentIndex === 0;
+        nextBtn.disabled = slider.currentIndex === slides.length - 1;
+      }
+
+      prevBtn.addEventListener("click", () => {
+        if (slider.currentIndex > 0) {
+          slider.currentIndex--;
+          updateSlides();
         }
-
-        prevBtn.addEventListener("click", () => {
-          if (currentIndex > 0) {
-            currentIndex--;
-            updateSlides();
-          }
-        });
-
-        nextBtn.addEventListener("click", () => {
-          if (currentIndex < slides.length - 1) {
-            currentIndex++;
-            updateSlides();
-          }
-        });
-
-        updateSlides(); // initialize
       });
+
+      nextBtn.addEventListener("click", () => {
+        if (slider.currentIndex < slides.length - 1) {
+          slider.currentIndex++;
+          updateSlides();
+        }
+      });
+
+      updateSlides(); // Initialize
     });
-</script>    
+  });
+</script>
+
 
     
