@@ -310,6 +310,43 @@ combine the data and take the average of the elemental fluxes.
 
 ---
 
+## Near Earth CometSimulator
+**Group Members:** Sareena Mann
+
+There are about 37,000 active Near Earth Objects, and about 2,500 of which are
+considered potentially hazardous (CNEOS). Therefore, understanding their orbits and how
+factors such as eccentricity affect their potential trajectories. In this project report, I outline the
+approach I took to analyze the trajectories of Near Earth comets. Near Earth objects are defined
+as objects with trajectories within 1.3 AU of the Sun and therefore within 0.3 AU of the Earth’s
+orbit (UNOOSA). I will use data provided by NASA’s Open Portal to animate the orbits of 160
+Near Earth Orbits and to simulate how including random noise in the data affects the predicted
+orbits.
+
+<div class="slider" data-slider-id="slider1">
+    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Sareena/slide1.jpg" alt="1A">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide2.jpg" alt="1B">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide3.jpg" alt="1C">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide4.jpg" alt="1D">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide5.jpg" alt="1E">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide6.jpg" alt="1F">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide7.jpg" alt="1G">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide8.jpg" alt="1H">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide9.jpg" alt="1I">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide10.jpg" alt="1J">
+    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide11.jpg" alt="1K">
+    <div class="slider-controls">
+      <button class="prevBtn">Previous</button>
+      <button class="nextBtn">Next</button>
+    </div>
+</div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2025/Sareena/Sareena.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## Other Projects
 
 ### Shooting Game
