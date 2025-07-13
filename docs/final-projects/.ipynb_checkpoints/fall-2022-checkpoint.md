@@ -22,6 +22,9 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 
 ---
 
+## Simulating Quantum
+**Group Members:** Vy La, Thien Kim Le and Yusaku Tanaka
+
 <div class="slider" id="slider-group2">
   <img class="slide-img" src="/assets/projects/fall-2022/Group2/slide1.jpg" style="max-width: 100%;">
   <br>
@@ -30,11 +33,18 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group2-status">Slide 1 of 8</p>
 </div>
 
-## Simulating Quantum
-**Group Members:** Vy La, Thien Kim Le and Yusaku Tanaka
-
 ---
 
+## Simulating a Spiral Galaxy
+**Group Members:** Navya Gupta, Neel Agrawal, Quintin Araghi, Mira Bhatt and Anthony Arata
+
+<div class="slider" id="slider-group3">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group3/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group3', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group3', 1)">Next</button>
+  <p id="slider-group3-status">Slide 1 of 13</p>
+</div>
 
 
 <script>
@@ -59,7 +69,22 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group2/slide6.jpg",
           "/assets/projects/fall-2022/Group2/slide7.jpg",
           "/assets/projects/fall-2022/Group2/slide8.jpg"
-    ] 
+    ],
+      "slider-group1": [
+          "/assets/projects/fall-2022/Group3/slide1.jpg",
+          "/assets/projects/fall-2022/Group3/slide2.jpg",
+          "/assets/projects/fall-2022/Group3/slide3.jpg",
+          "/assets/projects/fall-2022/Group3/slide4.jpg",
+          "/assets/projects/fall-2022/Group3/slide5.jpg",
+          "/assets/projects/fall-2022/Group3/slide6.jpg",
+          "/assets/projects/fall-2022/Group3/slide7.jpg",
+          "/assets/projects/fall-2022/Group3/slide8.jpg",
+          "/assets/projects/fall-2022/Group3/slide9.jpg",
+          "/assets/projects/fall-2022/Group3/slide10.jpg",
+          "/assets/projects/fall-2022/Group3/slide11.jpg",
+          "/assets/projects/fall-2022/Group3/slide12.jpg",
+          "/assets/projects/fall-2022/Group3/slide13.jpg"
+    ]
   };
 
   const slideIndexes = {};
