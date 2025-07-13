@@ -380,7 +380,7 @@ spaceships or just playing volleyballs.
       "/assets/projects/spring-2025/Eva_Serina/slide10.jpg",
       "/assets/projects/spring-2025/Eva_Serina/slide11.jpg"
     ],
-    "slide-charlie": [
+    "slider-charlie": [
         "/assets/projects/spring-2025/Charlie/slide1.jpg",
         "/assets/projects/spring-2025/Charlie/slide2.jpg",
         "/assets/projects/spring-2025/Charlie/slide3.jpg",
@@ -388,7 +388,7 @@ spaceships or just playing volleyballs.
         "/assets/projects/spring-2025/Charlie/slide5.jpg",
         "/assets/projects/spring-2025/Charlie/slide6.jpg"
     ],
-    "slide-max": [
+    "slider-max": [
         "/assets/projects/spring-2025/Max_Xavier/slide1.jpg",
         "/assets/projects/spring-2025/Max_Xavier/slide2.jpg",
         "/assets/projects/spring-2025/Max_Xavier/slide3.jpg",
@@ -396,7 +396,7 @@ spaceships or just playing volleyballs.
         "/assets/projects/spring-2025/Max_Xavier/slide5.jpg",
         "/assets/projects/spring-2025/Max_Xavier/slide6.jpg"
     ],
-    "slide-aviva": [
+    "slider-aviva": [
         "/assets/projects/spring-2025/Aviva/slide1.jpg",
         "/assets/projects/spring-2025/Aviva/slide2.jpg",
         "/assets/projects/spring-2025/Aviva/slide3.jpg",
