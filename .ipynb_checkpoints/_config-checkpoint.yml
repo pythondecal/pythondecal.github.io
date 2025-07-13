@@ -147,7 +147,7 @@ gh_edit_repository: "https://github.com/pythondecal/pythondecal.github.io" # the
 gh_edit_branch: "main" # the branch that your docs is served from
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: light
 
 callouts_level: quiet # or loud
 callouts:

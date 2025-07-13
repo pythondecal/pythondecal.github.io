@@ -17,6 +17,29 @@ Now accepting applications for the **Fall 2025 semester**!
 
 [Apply for Fall 2025](https://forms.gle/rrsHmvT1r6EB1xut8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+<button class="btn js-toggle-dark-mode">Toggle dark/light mode</button>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+  function updateButtonText() {
+    toggleDarkMode.textContent = jtd.getTheme() === 'dark'
+      ? 'Light mode'
+      : 'Dark mode';
+  }
+
+  jtd.addEvent(toggleDarkMode, 'click', function () {
+    const newTheme = jtd.getTheme() === 'dark' ? 'light' : 'dark';
+    jtd.setTheme(newTheme);
+    updateButtonText();
+  });
+
+  // Initialize button text
+  updateButtonText();
+});
+</script>
+
 ---
 
 ## About the Course
