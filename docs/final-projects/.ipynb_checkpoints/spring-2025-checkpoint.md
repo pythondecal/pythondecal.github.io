@@ -30,7 +30,7 @@ putting it into an animation, based on the function parameter of time.
       <button class="prevBtn">Previous</button>
       <button class="nextBtn">Next</button>
     </div>
-  </div>
+</div>
 
 <video width="100%" controls loop autoplay muted>
   <source src="/assets/projects/spring-2025/Deacon_Olivia/Deacon_Olivia.mp4" type="video/mp4">
@@ -254,6 +254,61 @@ implement it in a way that was user-friendly, fun to play, and even educational.
 
 ## Analyzing Orbital Properties of KOI Systems
 **Group Members:** Kaitlyn Le
+
+In this final project, I analyzed the relationship between orbital properties among the KOI
+planetary systems. The goal of this project was to discover trends with the relationships between
+planetary mass, radius, and orbital period by applying statistical methods, model fitting, and
+residual analysis. I explored the mass-period and radius-period relationships while utilizing
+power-law models to fit the data.
+
+<div class="slider" data-slider-id="slider1">
+    <h2>Slider 1</h2>
+    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Kaitlyn/slide1.jpg" alt="1A">
+    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide2.jpg" alt="1B">
+    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide3.jpg" alt="1C">
+    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide4.jpg" alt="1D">
+    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide5.jpg" alt="1E">
+    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide6.jpg" alt="1F">
+    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide7.jpg" alt="1G">
+    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide8.jpg" alt="1H">
+    <div class="slider-controls">
+      <button class="prevBtn">Previous</button>
+      <button class="nextBtn">Next</button>
+    </div>
+</div>
+
+---
+
+## Modeling The Relative Chemical Abundances From Type 1A Supernova Explosions
+**Group Members:** Shivani Kulkarni and Melanie Miu
+
+For this project, we used data from Type 1a supernova explosions taken from the Carnegie
+Supernova Project (see citation at the end) to create a model that will estimate the relative
+chemical abundances of a Type 1a supernovae. This project includes the use of graphing
+packages as well as isolating data to figure out which elements are being formed specifically in
+each explosion. We used this data to graph a single spectra for a single supernova explosion to
+see how we can extract information about the chemicals released in the explosion and then create
+our final model of the relative abundances of all the supernovae in our data collection. We did
+this by using python and python libraries (will go over in more detail in Methods section) to
+combine the data and take the average of the elemental fluxes.
+
+<div class="slider" data-slider-id="slider1">
+    <h2>Slider 1</h2>
+    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Shivani_Melanie/slide1.jpg" alt="1A">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide2.jpg" alt="1B">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide3.jpg" alt="1C">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide4.jpg" alt="1D">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide5.jpg" alt="1E">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide6.jpg" alt="1F">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide7.jpg" alt="1G">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide8.jpg" alt="1H">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide9.jpg" alt="1I">
+    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide10.jpg" alt="1J">
+    <div class="slider-controls">
+      <button class="prevBtn">Previous</button>
+      <button class="nextBtn">Next</button>
+    </div>
+</div>
 
 ---
 
