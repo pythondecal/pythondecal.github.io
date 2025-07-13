@@ -84,6 +84,20 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 
 ---
 
+## Exploring the Existence of Dark Matter
+**Group Members:** Benjamin, Brianna Peck, Hien, Joselin, Sonia
+
+<div class="slider" id="slider-group6">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group6/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group6', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group6', 1)">Next</button>
+  <p id="slider-group6-status">Slide 1 of 9</p>
+</div>
+
+<img src="/assets/projects/fall-2022/Group6/Group6.gif" alt="Animated GIF" style="width: 100%;">
+<img src="/assets/projects/fall-2022/Group6/Group6_2.gif" alt="Animated GIF" style="width: 100%;">
+
 
 
 ---
@@ -164,6 +178,17 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group5/slide11.jpg",
           "/assets/projects/fall-2022/Group5/slide12.jpg",
           "/assets/projects/fall-2022/Group5/slide13.jpg"
+      ],
+      "slider-group6": [
+          "/assets/projects/fall-2022/Group6/slide1.jpg",
+          "/assets/projects/fall-2022/Group6/slide2.jpg",
+          "/assets/projects/fall-2022/Group6/slide3.jpg",
+          "/assets/projects/fall-2022/Group6/slide4.jpg",
+          "/assets/projects/fall-2022/Group6/slide5.jpg",
+          "/assets/projects/fall-2022/Group6/slide6.jpg",
+          "/assets/projects/fall-2022/Group6/slide7.jpg",
+          "/assets/projects/fall-2022/Group6/slide8.jpg",
+          "/assets/projects/fall-2022/Group6/slide9.jpg"
       ]
       
   };
