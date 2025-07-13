@@ -457,43 +457,39 @@ spaceships or just playing volleyballs.
 </style>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const sliders = document.querySelectorAll(".slider");
+  const slides = [
+    "/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg",
+    "/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg"
+  ];
+  let currentIndex = 0;
 
-    sliders.forEach(slider => {
-      const slides = slider.querySelectorAll(".slide-image");
-      const prevBtn = slider.querySelector(".prevBtn");
-      const nextBtn = slider.querySelector(".nextBtn");
+  function updateSlide() {
+    const img = document.getElementById("slide-img");
+    const status = document.getElementById("status");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
 
-      // ✅ Store index directly on the slider element
-      slider.currentIndex = 0;
+    img.src = slides[currentIndex];
+    status.textContent = `Slide ${currentIndex + 1} of ${slides.length}`;
+    prevBtn.disabled = currentIndex === 0;
+    nextBtn.disabled = currentIndex === slides.length - 1;
+  }
 
-      function updateSlides() {
-        slides.forEach((slide, index) => {
-          slide.classList.toggle("active-slide", index === slider.currentIndex);
-        });
+  function nextSlide() {
+    if (currentIndex < slides.length - 1) {
+      currentIndex++;
+      updateSlide();
+    }
+  }
 
-        prevBtn.disabled = slider.currentIndex === 0;
-        nextBtn.disabled = slider.currentIndex === slides.length - 1;
-      }
+  function prevSlide() {
+    if (currentIndex > 0) {
+      currentIndex--;
+      updateSlide();
+    }
+  }
 
-      prevBtn.addEventListener("click", () => {
-        if (slider.currentIndex > 0) {
-          slider.currentIndex--;
-          updateSlides();
-        }
-      });
-
-      nextBtn.addEventListener("click", () => {
-        if (slider.currentIndex < slides.length - 1) {
-          slider.currentIndex++;
-          updateSlides();
-        }
-      });
-
-      updateSlides(); // Initialize
-    });
-  });
+  updateSlide(); // initialize on load
 </script>
 
 

@@ -4,47 +4,60 @@ parent: Final Projects
 nav_order: 2
 ---
 
-<div id="slider">
-  <img id="slide-img" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" style="max-width: 100%;">
+<!-- Slider 1 -->
+<div class="slider" id="slider-deacon">
+  <img class="slide-img" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" style="max-width: 100%;">
   <br>
-  <button id="prevBtn" onclick="prevSlide()">Previous</button>
-  <button id="nextBtn" onclick="nextSlide()">Next</button>
-  <p id="status">Slide 1 of 2</p>
+  <button onclick="changeSlide('slider-deacon', -1)">Previous</button>
+  <button onclick="changeSlide('slider-deacon', 1)">Next</button>
+  <p id="slider-deacon-status">Slide 1 of 2</p>
+</div>
+
+<!-- Slider 2 -->
+<div class="slider" id="slider-brandon">
+  <img class="slide-img" src="/assets/projects/spring-2025/Brandon/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-brandon', -1)">Previous</button>
+  <button onclick="changeSlide('slider-brandon', 1)">Next</button>
+  <p id="slider-brandon-status">Slide 1 of 2</p>
 </div>
 
 <script>
-  const slides = [
-    "/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg",
-    "/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg"
-  ];
-  let currentIndex = 0;
+  const slideData = {
+    "slider-deacon": [
+      "/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg",
+      "/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg"
+    ],
+    "slider-brandon": [
+      "/assets/projects/spring-2025/Brandon/slide1.jpg",
+      "/assets/projects/spring-2025/Brandon/slide2.jpg"
+    ]
+  };
 
-  function updateSlide() {
-    const img = document.getElementById("slide-img");
-    const status = document.getElementById("status");
-    const prevBtn = document.getElementById("prevBtn");
-    const nextBtn = document.getElementById("nextBtn");
+  const slideIndexes = {};
 
-    img.src = slides[currentIndex];
-    status.textContent = `Slide ${currentIndex + 1} of ${slides.length}`;
-    prevBtn.disabled = currentIndex === 0;
-    nextBtn.disabled = currentIndex === slides.length - 1;
+  function updateSlide(sliderId) {
+    const img = document.querySelector(`#${sliderId} .slide-img`);
+    const status = document.getElementById(`${sliderId}-status`);
+    const slides = slideData[sliderId];
+    const index = slideIndexes[sliderId];
+
+    img.src = slides[index];
+    status.textContent = `Slide ${index + 1} of ${slides.length}`;
   }
 
-  function nextSlide() {
-    if (currentIndex < slides.length - 1) {
-      currentIndex++;
-      updateSlide();
+  function changeSlide(sliderId, direction) {
+    const total = slideData[sliderId].length;
+    if (!(sliderId in slideIndexes)) {
+      slideIndexes[sliderId] = 0;
     }
+    slideIndexes[sliderId] = Math.max(0, Math.min(slideIndexes[sliderId] + direction, total - 1));
+    updateSlide(sliderId);
   }
 
-  function prevSlide() {
-    if (currentIndex > 0) {
-      currentIndex--;
-      updateSlide();
-    }
+  // Initialize all sliders on page load
+  for (const sliderId in slideData) {
+    slideIndexes[sliderId] = 0;
+    updateSlide(sliderId);
   }
-
-  updateSlide(); // initialize on load
 </script>
-
