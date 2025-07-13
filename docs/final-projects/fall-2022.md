@@ -58,7 +58,16 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 
 ---
 
+## Analysis of Galaxies at Various Redshifts
+**Group Members:** Tess Messerer, Serli Holluksever, Viktoriya Georgieva and Sangeeta Kumar
 
+<div class="slider" id="slider-group4">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group4/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group4', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group4', 1)">Next</button>
+  <p id="slider-group4-status">Slide 1 of 21</p>
+</div>
 
 ---
 
@@ -84,7 +93,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group2/slide5.jpg",
           "/assets/projects/fall-2022/Group2/slide6.jpg",
           "/assets/projects/fall-2022/Group2/slide7.jpg",
-          "/assets/projects/fall-2022/Group2/slide8.jpg"
+          "/assets/projects/fall-2022/Group2/slide8.jpg",
     ],
       "slider-group3": [
           "/assets/projects/fall-2022/Group3/slide1.jpg",
@@ -100,7 +109,31 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group3/slide11.jpg",
           "/assets/projects/fall-2022/Group3/slide12.jpg",
           "/assets/projects/fall-2022/Group3/slide13.jpg"
-    ]
+    ],
+      "slider-group4": [
+          "/assets/projects/fall-2022/Group4/slide1.jpg",
+          "/assets/projects/fall-2022/Group4/slide2.jpg",
+          "/assets/projects/fall-2022/Group4/slide3.jpg",
+          "/assets/projects/fall-2022/Group4/slide4.jpg",
+          "/assets/projects/fall-2022/Group4/slide5.jpg",
+          "/assets/projects/fall-2022/Group4/slide6.jpg",
+          "/assets/projects/fall-2022/Group4/slide7.jpg",
+          "/assets/projects/fall-2022/Group4/slide8.jpg",
+          "/assets/projects/fall-2022/Group4/slide9.jpg",
+          "/assets/projects/fall-2022/Group4/slide10.jpg",
+          "/assets/projects/fall-2022/Group4/slide11.jpg",
+          "/assets/projects/fall-2022/Group4/slide12.jpg",
+          "/assets/projects/fall-2022/Group4/slide13.jpg",
+          "/assets/projects/fall-2022/Group4/slide14.jpg",
+          "/assets/projects/fall-2022/Group4/slide15.jpg",
+          "/assets/projects/fall-2022/Group4/slide16.jpg",
+          "/assets/projects/fall-2022/Group4/slide17.jpg",
+          "/assets/projects/fall-2022/Group4/slide18.jpg",
+          "/assets/projects/fall-2022/Group4/slide19.jpg",
+          "/assets/projects/fall-2022/Group4/slide20.jpg",
+          "/assets/projects/fall-2022/Group4/slide21.jpg"
+      ]
+      
   };
 
   const slideIndexes = {};
