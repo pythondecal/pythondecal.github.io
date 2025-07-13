@@ -11,12 +11,6 @@ Each semester our students complete a Final Project and give a presentation in f
 
 
 <style>
-    body {
-        margin: 0;
-        font-family: 'Source Sans Pro', sans-serif;
-        background: #f4f4f4;
-    }
-
     .tiles {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
