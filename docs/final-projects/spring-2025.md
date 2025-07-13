@@ -347,7 +347,21 @@ orbits.
 
 ---
 
+
+
+---
+
 ## Other Projects
+
+
+### Metabolic Guessing Game: Progression to Type 2 Diabetes
+**Group Members:** Tushita Wadhawan
+**GitHub:** https://github.com/twadhawan0001/tushita decal
+For my final project, I developed a Python-based interactive guessing game that teaches users about the
+progression of metabolic diseases, specifically focusing on type 2 diabetes. This project combines educational
+biology content with programming to create an engaging and interactive experience. The game prompts users
+to guess key biology terms related to the disease timeline and rewards correct or completed guesses with
+visual animations that illustrate the physiological changes occurring in the body
 
 ### Shooting Game
 **Group Members:** Yuang Li
