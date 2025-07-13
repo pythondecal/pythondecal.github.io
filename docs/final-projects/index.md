@@ -9,6 +9,7 @@ permalink: /docs/final-projects/
 
 Each semester our students complete a Final Project and give a presentation in front of the class. To view student work from previous years, please see below.
 
+test
 
 <style>
     .tiles {
@@ -107,7 +108,7 @@ Each semester our students complete a Final Project and give a presentation in f
 
 <section class="tiles">
     <div class="tile">
-        <img src="../../assets/projects/spring-2025/creation.png" alt="Pillars of Creation">
+        <img src="assets/images/creation.png" alt="Pillars of Creation">
         <div class="overlay"></div>
         <div class="text">
             <div class="title">Final Projects</div>
@@ -116,7 +117,7 @@ Each semester our students complete a Final Project and give a presentation in f
         </div>
     </div>
     <div class="tile">
-      <img src="assets/projects/fall-2024/crab.jpg" alt="Crab Nebula">
+      <img src="assets/images/crab.jpg" alt="Crab Nebula">
       <div class="overlay"></div>
       <div class="text">
         <div class="title">Final Projects</div>
@@ -125,7 +126,7 @@ Each semester our students complete a Final Project and give a presentation in f
       </div>
     </div>
     <div class="tile">
-      <img src="assets/projects/spring-2024/hat.jpg" alt="Sombrero Galaxy">
+      <img src="assets/images/hat.jpg" alt="Sombrero Galaxy">
       <div class="overlay"></div>
       <div class="text">
         <div class="title">Final Projects</div>
@@ -134,7 +135,7 @@ Each semester our students complete a Final Project and give a presentation in f
       </div>
     </div>
     <div class="tile">
-      <img src="assets/projects/fall-2024/orion.jpg" alt="Galaxy 4">
+      <img src="assets/images/orion.jpg" alt="Galaxy 4">
       <div class="overlay"></div>
       <div class="text">
         <div class="title">Final Projects</div>
