@@ -271,11 +271,241 @@ as we will see in the coming pages.
 
 ---
 
+## Solar Spectral Irradiance with blackbody radiation and Plank’s law
+**Group Members:** Moe Shinkawa
+
+For this project, I focus on investigating the solar spectrum by considering it as a
+blackbody and using Plank’s function. I utilize a data archive of solar spectral irradiance (SSI)
+measured from a wavelength range from 200 nm to 2400 nm provided by University of
+Colorado’s Laboratory for Atmospheric and Space Physics and obtained by its Total and Spectral
+Solar Irradiance Sensor (TSIS-1) ¹. I choose the daily (24h) SIM data.
+
+<div class="slider" id="slider-moe">
+  <img class="slide-img" src="/assets/projects/spring-2025/Moe/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-moe', -1)">Previous</button>
+  <button onclick="changeSlide('slider-moe', 1)">Next</button>
+  <p id="slider-moe-status">Slide 1 of 9</p>
+</div>
 
 ---
 
+## Awesome Arches: Exploring the Life & Luminosity of Stars
+**Group Members:** Meghan Ke
+
+Because the CMD shows virtually no cool, red giants and the H–R diagram places almost all stars
+on the upper main sequence, the cluster must be very young—younger than about 3 Myr. The
+hottest members, sitting near log T ≈4.5 and log L/L⊙ >5, are massive O- and B-type stars whose
+entire life-spans are only ∼ 2–10 Myr. Their presence, together with the absence of evolved cooler
+stars, implies the Arches cluster formed recently and that many of these massive stars are still in the
+hydrogen-burning phase.
+
+The constant-radius lines in the H–R diagram further tell us that most stars are presently no
+larger than about 10−20 R⊙; as they exhaust core hydrogen they will quickly climb above the 20 R⊙
+line, becoming blue super-giants and, soon after, supernovae. Hence we predict that within a few
+million years the cluster will begin to experience its first supernova explosions and strong stellar-wind
+feedback, dramatically reshaping its internal gas and halting further star-formation.
+
+<div class="slider" id="slider-meghan">
+  <img class="slide-img" src="/assets/projects/spring-2025/Meghan/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-meghan', -1)">Previous</button>
+  <button onclick="changeSlide('slider-meghan', 1)">Next</button>
+  <p id="slider-meghan-status">Slide 1 of 8</p>
+</div>
+
+---
+
+## Patterns of Weather
+**Group Members:** Shadman Khan
+
+To see if there really was a pattern in weather as other sources claim. See if there is a difference 
+for places with various factors such as population and location.
+
+<div class="slider" id="slider-shadman">
+  <img class="slide-img" src="/assets/projects/spring-2025/Shadman/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-shadman', -1)">Previous</button>
+  <button onclick="changeSlide('slider-shadman', 1)">Next</button>
+  <p id="slider-shadman-status">Slide 1 of 10</p>
+</div>
+
+---
+
+## Simulating Electric Fields in Electric Fish
+**Group Members:** Diana Collier and Luke McGinn
+
+We created a synthetic dataset that mimics the electric organ discharge of a wave-type fish.
+Modeled how signal changes when an object is nearby. We simulated the electric field using 
+the finite difference method to solve Laplace’s equation
+
+<div class="slider" id="slider-diana">
+  <img class="slide-img" src="/assets/projects/spring-2025/Diana_Luke/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-diana', -1)">Previous</button>
+  <button onclick="changeSlide('slider-diana', 1)">Next</button>
+  <p id="slider-diana-status">Slide 1 of 8</p>
+</div>
+
+---
+
+## Solar System PERSPECTIVE CHANGE
+**Group Members:** Chienyu Sun 
+
+The objective of this project is to create an animation of the solar system, viewed from the
+perspective of a planet. The choice of planet is based on user input. The final result is a 2d
+animation of the system, coded in Jupyter Notebook and saved as a gif. The project is split into
+two parts: the solar system and the perspective change.
+
+<div class="slider" id="slider-chienyu">
+  <img class="slide-img" src="/assets/projects/spring-2025/Chienyu/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-chienyu', -1)">Previous</button>
+  <button onclick="changeSlide('slider-chienyu', 1)">Next</button>
+  <p id="slider-chienyu-status">Slide 1 of 7</p>
+</div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2025/Chienyu/Chienyu.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Determining the Value of the Hubble Constant
+**Group Members:** Forrest Johnson and Elliot Dutnall
+
+Our objective for this project was to take data regarding the apparent recessional
+velocities and proper distances of celestial objects to calculate the Hubble Constant, using data
+gathered from the NASA/IPAC Extragalactic Database Master List of Galaxy Distances. To do
+this we decided to reformat the data to a Google Sheet, which we then downloaded as a .csv file,
+which we then imported into a pandas dataframe, where we could apply a quality filter to the
+data and be able to use matplotlib.pyplot to graph the data with a curve fit. We worked with two
+datasets, one having data from galaxies with recessional velocities less than one eighth the speed
+of light, and the other with recessional velocities greater. After sorting through and cleaning the
+data, we graphed and curve fitted each of the data frames individually using scipy.optimize,
+before combining them and taking the curve fit of both. This led to us producing three separate
+graphs of our data to present. In addition, we used scipy.statistics to calculate the Pearson
+correlation coefficient (R2), which enabled us to determine how well our data fits a linear line of
+best fit.
+
+<div class="slider" id="slider-forrest">
+  <img class="slide-img" src="/assets/projects/spring-2025/Forrest_Elliot/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-forrest', -1)">Previous</button>
+  <button onclick="changeSlide('slider-forrest', 1)">Next</button>
+  <p id="slider-forrest-status">Slide 1 of 5</p>
+</div>
+
+---
+
+## Michaelis–Menten Kinetics
+**Group Members:** Sarai Garcia
+
+To start off, the base of my project is Michaelis- Menten kinetics in biochemistry. 
+
+<div class="slider" id="slider-sarai">
+  <img class="slide-img" src="/assets/projects/spring-2025/Sarai/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-sarai', -1)">Previous</button>
+  <button onclick="changeSlide('slider-sarai', 1)">Next</button>
+  <p id="slider-sarai-status">Slide 1 of 4</p>
+</div>
+
+---
+
+## Space Puzzle Game
+**Group Members:** Jordan Gomez
+
+For my final project I chose to create a game using the pygame library, a library built for
+creating games in python. My project can be described as a puzzle game where the player uses
+keyboard inputs in order to change the position of environmental objects such as platforms and
+enemies.
+
+<div class="slider" id="slider-jordan">
+  <img class="slide-img" src="/assets/projects/spring-2025/Jordan/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-jordan', -1)">Previous</button>
+  <button onclick="changeSlide('slider-jordan', 1)">Next</button>
+  <p id="slider-jordan-status">Slide 1 of 7</p>
+</div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2025/Jordan/Jordan.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Double Pendulum Simulation 
+**Group Members:** Michael Birmingham
+
+The Double Pendulum is a famous nonlinear dynamical system which exhibits chaotic motion
+from slight adjustments in starting conditions. I accurately simulated and animated a double
+pendulum using python and numerical methods to track its motion. I used different libraries in
+order to instantaneously solve differential equations that govern the system. The visualization
+shed light on the concepts of the conservation of energy, periodic motion, chaotic motion, and
+more.
+
+<div class="slider" id="slider-michael">
+  <img class="slide-img" src="/assets/projects/spring-2025/Michael/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-michael', -1)">Previous</button>
+  <button onclick="changeSlide('slider-michael', 1)">Next</button>
+  <p id="slider-michael-status">Slide 1 of 7</p>
+</div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2025/Michael/Michael.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Verifying G using Exoplanet Data
+**Group Members:** Elizabeth Hung and Mustafa Abuzahriyeh
+
+The purpose of this project was to find multiple values of G using Kepler’s Third Law for
+different exoplanets and see how this compares to the established value of G. The values of the
+force of gravity were also plotted in an attempt to see how this compares to the established force
+being proportional to 1/𝑥^2.
+
+<div class="slider" id="slider-mustafa">
+  <img class="slide-img" src="/assets/projects/spring-2025/Mustafa_Elizabeth/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-mustafa', -1)">Previous</button>
+  <button onclick="changeSlide('slider-mustafa', 1)">Next</button>
+  <p id="slider-mustafa-status">Slide 1 of 8</p>
+</div>
+
+---
+
+## Mapping Large-Scale Structure of the Universe Using DESI Data
+**Group Members:** Aryan Gupta
+
+The goal of this project was to analyze the large-scale structure of the universe using publicly
+available data from the Dark Energy Spectroscopic Instrument (DESI) First Data Release (DR1).
+The project involved generating synthetic galaxy data, applying quality filtering to real DESI
+galaxies, model fitting, and interpreting the results. I used Python throughout the project, relying
+mainly on NumPy, Pandas, Matplotlib, SciPy, and Astropy libraries.
+
+<div class="slider" id="slider-aryan">
+  <img class="slide-img" src="/assets/projects/spring-2025/Aryan/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-aryan', -1)">Previous</button>
+  <button onclick="changeSlide('slider-aryan', 1)">Next</button>
+  <p id="slider-aryan-status">Slide 1 of 9</p>
+</div>
+
+---
+
+
+
+
 ## Other Projects
 
+### Visualizing Baryon Acoustic Oscillations (BAOs)
+**Group Members:** Amelia Cahill
 
 ### Metabolic Guessing Game: Progression to Type 2 Diabetes
 **Group Members:** Tushita Wadhawan
@@ -294,8 +524,31 @@ have to also avoid obstacles from getting HP down. You get scores by destroying 
 There’s also a time limit. Win/lose condition: win by survive, lose if you’re not. It could be
 spaceships or just playing volleyballs.
 
+## Interactive Simulation
+**Group Members:** Arshia Tomar
+**GitHub:** https://github.com/a-tomar9/arshia_decal
+
+For my Python Decal Final Project, I wanted to create an interactive simulation, structured with simple
+visuals, that allows users to design planetary parameters to explore what conditions would be on said planet,
+exploring possibilities of life. The simulation combines core scientific ideas that are derived from
+astrobiology, planetary science, and astronomy, all combining into one Python file. I wanted this project to
+be both engaging and educational, with tools that help visualize and interact with certain habitability
+parameters of a fictional planet orbiting around a star of the user's choosing.
+
+## Untitled
+**Group Members:** Mia Hernandez-Peng
+
+For my final project, I downloaded data from NASA’s exoplanet archive, chose 3 pairs of
+traits to plot and analyze, then fitted each plot to a curve. I then added error bars and represented
+the data trends I saw using sound. Finally, I generated random test data and calculated the
+chi-squared values for my equations to evaluate the fit. To complete this, I used numpy,
+matplotlib, pandas, and musicpy.
+
 ### Power Output 
 **Group Members:** Giancarlo Ursellii
+
+## Variations in Black hole mass
+**Group Members:** Xochilt Arrioja
 
 <script>
   const slideData = {
@@ -419,6 +672,110 @@ spaceships or just playing volleyballs.
         "/assets/projects/spring-2025/Brandon/slide6.jpg",
         "/assets/projects/spring-2025/Brandon/slide7.jpg",
         "/assets/projects/spring-2025/Brandon/slide8.jpg"
+    ],
+    "slider-moe": [
+        "/assets/projects/spring-2025/Moe/slide1.jpg",
+        "/assets/projects/spring-2025/Moe/slide2.jpg",
+        "/assets/projects/spring-2025/Moe/slide3.jpg",
+        "/assets/projects/spring-2025/Moe/slide4.jpg",
+        "/assets/projects/spring-2025/Moe/slide5.jpg",
+        "/assets/projects/spring-2025/Moe/slide6.jpg",
+        "/assets/projects/spring-2025/Moe/slide7.jpg",
+        "/assets/projects/spring-2025/Moe/slide8.jpg",
+        "/assets/projects/spring-2025/Moe/slide9.jpg"
+    ],
+    "slide-meghan": [
+        "/assets/projects/spring-2025/Meghan/slide1.jpg",
+        "/assets/projects/spring-2025/Meghan/slide2.jpg",
+        "/assets/projects/spring-2025/Meghan/slide3.jpg",
+        "/assets/projects/spring-2025/Meghan/slide4.jpg",
+        "/assets/projects/spring-2025/Meghan/slide5.jpg",
+        "/assets/projects/spring-2025/Meghan/slide6.jpg",
+        "/assets/projects/spring-2025/Meghan/slide7.jpg",
+        "/assets/projects/spring-2025/Meghan/slide8.jpg"
+    ],
+    "slider-shadman": [
+        "/assets/projects/spring-2025/Shadman/slide1.jpg",
+        "/assets/projects/spring-2025/Shadman/slide2.jpg",
+        "/assets/projects/spring-2025/Shadman/slide3.jpg",
+        "/assets/projects/spring-2025/Shadman/slide4.jpg",
+        "/assets/projects/spring-2025/Shadman/slide5.jpg",
+        "/assets/projects/spring-2025/Shadman/slide6.jpg",
+        "/assets/projects/spring-2025/Shadman/slide7.jpg",
+        "/assets/projects/spring-2025/Shadman/slide8.jpg",
+        "/assets/projects/spring-2025/Shadman/slide9.jpg",
+        "/assets/projects/spring-2025/Shadman/slide10.jpg"
+    ],
+    "slider-diana": [
+        "/assets/projects/spring-2025/Diana_Luke/slide1.jpg",
+        "/assets/projects/spring-2025/Diana_Luke/slide2.jpg",
+        "/assets/projects/spring-2025/Diana_Luke/slide3.jpg",
+        "/assets/projects/spring-2025/Diana_Luke/slide4.jpg",
+        "/assets/projects/spring-2025/Diana_Luke/slide5.jpg",
+        "/assets/projects/spring-2025/Diana_Luke/slide6.jpg",
+        "/assets/projects/spring-2025/Diana_Luke/slide7.jpg",
+        "/assets/projects/spring-2025/Diana_Luke/slide8.jpg"
+    ],
+    "slider-chienyu": [
+        "/assets/projects/spring-2025/Chienyu/slide1.jpg",
+        "/assets/projects/spring-2025/Chienyu/slide2.jpg",
+        "/assets/projects/spring-2025/Chienyu/slide3.jpg",
+        "/assets/projects/spring-2025/Chienyu/slide4.jpg",
+        "/assets/projects/spring-2025/Chienyu/slide5.jpg",
+        "/assets/projects/spring-2025/Chienyu/slide6.jpg",
+        "/assets/projects/spring-2025/Chienyu/slide7.jpg"
+    ],
+    "slider-forrest": [
+        "/assets/projects/spring-2025/Forrest_Elliot/slide1.jpg",
+        "/assets/projects/spring-2025/Forrest_Elliot/slide2.jpg",
+        "/assets/projects/spring-2025/Forrest_Elliot/slide3.jpg",
+        "/assets/projects/spring-2025/Forrest_Elliot/slide4.jpg",
+        "/assets/projects/spring-2025/Forrest_Elliot/slide5.jpg"
+    ],
+    "slider-sarai": [
+        "/assets/projects/spring-2025/Sarai/slide1.jpg",
+        "/assets/projects/spring-2025/Sarai/slide2.jpg",
+        "/assets/projects/spring-2025/Sarai/slide3.jpg",
+        "/assets/projects/spring-2025/Sarai/slide4.jpg"
+    ],
+    "slider-jordan": [
+        "/assets/projects/spring-2025/Jordan/slide1.jpg",
+        "/assets/projects/spring-2025/Jordan/slide2.jpg",
+        "/assets/projects/spring-2025/Jordan/slide3.jpg",
+        "/assets/projects/spring-2025/Jordan/slide4.jpg",
+        "/assets/projects/spring-2025/Jordan/slide5.jpg",
+        "/assets/projects/spring-2025/Jordan/slide6.jpg",
+        "/assets/projects/spring-2025/Jordan/slide7.jpg"
+    ],
+    "slider-michael": [
+        "/assets/projects/spring-2025/Michael/slide1.jpg",
+        "/assets/projects/spring-2025/Michael/slide2.jpg",
+        "/assets/projects/spring-2025/Michael/slide3.jpg",
+        "/assets/projects/spring-2025/Michael/slide4.jpg",
+        "/assets/projects/spring-2025/Michael/slide5.jpg",
+        "/assets/projects/spring-2025/Michael/slide6.jpg",
+        "/assets/projects/spring-2025/Michael/slide7.jpg"
+    ],
+    "slider-mustafa": [
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide1.jpg",
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide2.jpg",
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide3.jpg",
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide4.jpg",
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide5.jpg",
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide6.jpg",
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide7.jpg",
+        "/assets/projects/spring-2025/Mustafa_Elizabeth/slide8.jpg"
+    ],
+    "slider-aryan": [
+        "/assets/projects/spring-2025/Aryan/slide1.jpg",
+        "/assets/projects/spring-2025/Aryan/slide2.jpg",
+        "/assets/projects/spring-2025/Aryan/slide3.jpg",
+        "/assets/projects/spring-2025/Aryan/slide4.jpg",
+        "/assets/projects/spring-2025/Aryan/slide5.jpg",
+        "/assets/projects/spring-2025/Aryan/slide6.jpg",
+        "/assets/projects/spring-2025/Aryan/slide7.jpg",
+        "/assets/projects/spring-2025/Aryan/slide8.jpg",
+        "/assets/projects/spring-2025/Aryan/slide9.jpg"
     ]
       
   };
