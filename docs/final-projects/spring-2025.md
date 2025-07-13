@@ -18,7 +18,6 @@ distances we simulated the tidal wave heights at any inputted latitude on the Ea
 putting it into an animation, based on the function parameter of time.
 
 <div class="slider" data-slider-id="slider1">
-    <h2>Slider 1</h2>
     <img class="slide-image active-slide" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" alt="1A">
     <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" alt="1B">
     <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" alt="1C">
@@ -293,7 +292,6 @@ this by using python and python libraries (will go over in more detail in Method
 combine the data and take the average of the elemental fluxes.
 
 <div class="slider" data-slider-id="slider1">
-    <h2>Slider 1</h2>
     <img class="slide-image active-slide" src="/assets/projects/spring-2025/Shivani_Melanie/slide1.jpg" alt="1A">
     <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide2.jpg" alt="1B">
     <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide3.jpg" alt="1C">
