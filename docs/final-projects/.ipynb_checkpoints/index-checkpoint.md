@@ -9,8 +9,6 @@ permalink: /docs/final-projects/
 
 Each semester our students complete a Final Project and give a presentation in front of the class. To view student work from previous years, please see below.
 
-test2
-
 <style>
     .tiles {
       display: grid;
@@ -160,6 +158,56 @@ test2
       <div class="title">Final Projects</div>
       <div class="year">Spring 2023</div>
       <div class="description">Amazing students. Amazing projects.</div>
+    </div>
+  </a>
+
+  <a href="/docs/final-projects/fall-2022" class="tile">
+    <img src="/assets/images/moon.jpg" alt="Hubble Galaxy">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Fall 2022</div>
+      <div class="description">Check out the Fall 2022 gallery of work.</div>
+    </div>
+  </a>
+
+  <a href="/docs/final-projects/spring-2022" class="tile">
+    <img src="/assets/images/jupiter.jpg" alt="Hubble Galaxy">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Spring 2022</div>
+      <div class="description">Check out the Spring 2022 gallery of work.</div>
+    </div>
+  </a>
+
+  <a href="/docs/final-projects/fall-2021" class="tile">
+    <img src="/assets/images/keck.jpg" alt="Hubble Galaxy">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Fall 2021</div>
+      <div class="description">Check out the Fall 2021 gallery of work.</div>
+    </div>
+  </a>
+
+  <a href="/docs/final-projects/spring-2021" class="tile">
+    <img src="/assets/images/milky.jpeg" alt="Hubble Galaxy">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Spring 2021</div>
+      <div class="description">Check out the Spring 2021 gallery of work.</div>
+    </div>
+  </a>
+
+  <a href="/docs/final-projects/fall-2020" class="tile">
+    <img src="/assets/images/bh.jpg" alt="Hubble Galaxy">
+    <div class="overlay"></div>
+    <div class="text">
+      <div class="title">Final Projects</div>
+      <div class="year">Fall 2020</div>
+      <div class="description">Check out the Fall 2020 gallery of work.</div>
     </div>
   </a>
 
