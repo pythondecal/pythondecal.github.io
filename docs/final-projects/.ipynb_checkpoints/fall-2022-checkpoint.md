@@ -20,7 +20,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group1-status">Slide 1 of 9</p>
 </div>
 
-<img src="/assets/projects/spring-2025/Group1/Group1.gif" alt="Animated GIF" style="width: 100%;">
+<img src="/assets/projects/fall-2022/Group1/Group1.gif" alt="Animated GIF" style="width: 100%;">
 
 ---
 
@@ -35,8 +35,8 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group2-status">Slide 1 of 8</p>
 </div>
 
-<img src="/assets/projects/spring-2025/Group2/Group2.gif" alt="Animated GIF" style="width: 100%;">
-<img src="/assets/projects/spring-2025/Group2/Group2_2.gif" alt="Animated GIF" style="width: 100%;">
+<img src="/assets/projects/fall-2022/Group2/Group2.gif" alt="Animated GIF" style="width: 100%;">
+<img src="/assets/projects/fall-2022/Group2/Group2_2.gif" alt="Animated GIF" style="width: 100%;">
 
 ---
 
@@ -52,7 +52,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 </div>
 
 <video width="100%" controls loop autoplay muted>
-  <source src="/assets/projects/spring-2025/Group3/Group3.mp4" type="video/mp4">
+  <source src="/assets/projects/fall-2022/Group3/Group3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -68,6 +68,23 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <button onclick="changeSlide('slider-group4', 1)">Next</button>
   <p id="slider-group4-status">Slide 1 of 21</p>
 </div>
+
+---
+
+## DART N-Body Simulation
+**Group Members:** Gabriel Loyola, Minsung An, Yuan-Ming Hsu, Catherine Xu and Mark Karimi
+
+<div class="slider" id="slider-group5">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group5/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group5', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group5', 1)">Next</button>
+  <p id="slider-group5-status">Slide 1 of 13</p>
+</div>
+
+---
+
+
 
 ---
 
@@ -132,6 +149,21 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group4/slide19.jpg",
           "/assets/projects/fall-2022/Group4/slide20.jpg",
           "/assets/projects/fall-2022/Group4/slide21.jpg"
+      ],
+      "slider-group5": [
+          "/assets/projects/fall-2022/Group5/slide1.jpg",
+          "/assets/projects/fall-2022/Group5/slide2.jpg",
+          "/assets/projects/fall-2022/Group5/slide3.jpg",
+          "/assets/projects/fall-2022/Group5/slide4.jpg",
+          "/assets/projects/fall-2022/Group5/slide5.jpg",
+          "/assets/projects/fall-2022/Group5/slide6.jpg",
+          "/assets/projects/fall-2022/Group5/slide7.jpg",
+          "/assets/projects/fall-2022/Group5/slide8.jpg",
+          "/assets/projects/fall-2022/Group5/slide9.jpg",
+          "/assets/projects/fall-2022/Group5/slide10.jpg",
+          "/assets/projects/fall-2022/Group5/slide11.jpg",
+          "/assets/projects/fall-2022/Group5/slide12.jpg",
+          "/assets/projects/fall-2022/Group5/slide13.jpg"
       ]
       
   };
