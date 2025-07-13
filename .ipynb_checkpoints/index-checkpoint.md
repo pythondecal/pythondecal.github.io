@@ -15,34 +15,7 @@ permalink: /
 Now accepting applications for the **Fall 2025 semester**!
 {: .fs-6 .fw-300 }
 
-<div class="d-flex flex-wrap align-items-center gap-2 mb-4">
-
 [Apply for Fall 2025](https://forms.gle/rrsHmvT1r6EB1xut8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-</div>
-
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
 
 ---
 
