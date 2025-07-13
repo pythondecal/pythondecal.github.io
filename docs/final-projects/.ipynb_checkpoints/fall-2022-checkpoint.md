@@ -20,6 +20,8 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group1-status">Slide 1 of 9</p>
 </div>
 
+<img src="/assets/projects/spring-2025/Group1/Group1.gif" alt="Animated GIF" style="width: 100%;">
+
 ---
 
 ## Simulating Quantum
@@ -33,6 +35,9 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group2-status">Slide 1 of 8</p>
 </div>
 
+<img src="/assets/projects/spring-2025/Group2/Group2.gif" alt="Animated GIF" style="width: 100%;">
+<img src="/assets/projects/spring-2025/Group2/Group2_2.gif" alt="Animated GIF" style="width: 100%;">
+
 ---
 
 ## Simulating a Spiral Galaxy
@@ -45,6 +50,17 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <button onclick="changeSlide('slider-group3', 1)">Next</button>
   <p id="slider-group3-status">Slide 1 of 13</p>
 </div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2025/Group3/Group3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+
+
+---
 
 
 <script>

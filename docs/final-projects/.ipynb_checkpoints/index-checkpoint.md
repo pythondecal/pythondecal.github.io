@@ -9,7 +9,7 @@ permalink: /docs/final-projects/
 
 Each semester our students complete a Final Project and give a presentation in front of the class. To view student work from previous years, please see below.
 
-test
+test2
 
 <style>
     .tiles {
@@ -92,6 +92,11 @@ test
       font-size: 1rem;
       margin-top: 1.2rem;
       max-width: 85%;
+    }
+
+    a.tile {
+        text-decoration: none;
+        color: inherit;
     }
 
     .tile:hover .description {
