@@ -91,11 +91,11 @@ Please enjoy the final projects of students during the Spring 2022 semester.
 **Group Members:** Max Fomin, Gautum Srinivas, and Jonah Han
 
 <div class="slider" id="slider-group6">
-  <img class="slide-img" src="/assets/projects/spring-2022/Group6/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/spring-2022/Group7/slide1.jpg" style="max-width: 100%;">
   <br>
-  <button onclick="changeSlide('slider-group6', -1)">Previous</button>
-  <button onclick="changeSlide('slider-group6', 1)">Next</button>
-  <p id="slider-group6-status">Slide 1 of 26</p>
+  <button onclick="changeSlide('slider-group7', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group7', 1)">Next</button>
+  <p id="slider-group7-status">Slide 1 of 24</p>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -231,7 +231,17 @@ Please enjoy the final projects of students during the Spring 2022 semester.
           "/assets/projects/fall-2022/Group7/slide11.jpg",
           "/assets/projects/fall-2022/Group7/slide12.jpg",
           "/assets/projects/fall-2022/Group7/slide13.jpg",
-          "/assets/projects/fall-2022/Group7/slide14.jpg"
+          "/assets/projects/fall-2022/Group7/slide14.jpg",
+          "/assets/projects/fall-2022/Group7/slide15.jpg",
+          "/assets/projects/fall-2022/Group7/slide16.jpg",
+          "/assets/projects/fall-2022/Group7/slide17.jpg",
+          "/assets/projects/fall-2022/Group7/slide18.jpg",
+          "/assets/projects/fall-2022/Group7/slide19.jpg",
+          "/assets/projects/fall-2022/Group7/slide20.jpg",
+          "/assets/projects/fall-2022/Group7/slide21.jpg",
+          "/assets/projects/fall-2022/Group7/slide22.jpg",
+          "/assets/projects/fall-2022/Group7/slide23.jpg",
+          "/assets/projects/fall-2022/Group7/slide24.jpg"
       ],
       "slider-group8": [
           "/assets/projects/fall-2022/Group8/slide1.jpg",
