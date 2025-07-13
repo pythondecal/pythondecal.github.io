@@ -31,7 +31,7 @@ Each semester our students complete a Final Project and give a presentation in f
 }
 
 .card * {
-  color: white !important; /* Ensure all text stays white */
+  color: white !important; /* Ensure all nested text stays white */
 }
 
 .card:hover {
@@ -44,6 +44,7 @@ Each semester our students complete a Final Project and give a presentation in f
   inset: 0;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   opacity: 0.8;
   transition: opacity 0.3s ease;
   z-index: 0;
@@ -57,13 +58,27 @@ Each semester our students complete a Final Project and give a presentation in f
   position: relative;
   z-index: 1;
   padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
 }
 
 .card-2025s::before {
   background-image: url('/assets/projects/spring-2025/creation.png');
 }
-    
 </style>
+
+<div class="card-grid">
+
+  <a href="/docs/final-projects/spring-2025" class="card card-2025s">
+    <div class="card-content">
+      <h3>FINAL PROJECTS<br>Spring 2025</h3>
+      <p>Take a look at student work from our recent spring showcase.</p>
+    </div>
+  </a>
+
+</div>
 
 <div class="card-grid">
 

@@ -121,20 +121,12 @@ best fit with errors, and analyzing the results.
 ## 3D Snake with Laser Guns
 **Group Members:** Carsen Dunn and Mark Moreno
 
-<div class="slider-container" id="slider-carsen">
-  <img src="/assets/projects/spring-2025/Carsen_Mark/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Carsen_Mark/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Carsen_Mark/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Carsen_Mark/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Carsen_Mark/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Carsen_Mark/slide6.jpg" class="slide-image">
-
-  <div class="slider-status" id="slider-carsen-status">Slide 1 of 6</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-carsen', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-carsen', 1)">Next ⟶</button>
+<div class="slider" id="slider-carsen">
+  <img class="slide-img" src="/assets/projects/spring-2025/Carsen_Mark/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-carsen', -1)">Previous</button>
+  <button onclick="changeSlide('slider-carsen', 1)">Next</button>
+  <p id="slider-carsen-status">Slide 1 of 6</p>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -157,20 +149,12 @@ Lightkurve was used to search for and download the data, filter the data and rem
 stitch the data into actual light curves. Batman was used to import the Mandel and Agol transit
 model that was used to fit the data.
 
-<div class="slider-container" id="slider-colin">
-  <img src="/assets/projects/spring-2025/Colin/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Colin/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Colin/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Colin/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Colin/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Colin/slide6.jpg" class="slide-image">
-
-  <div class="slider-status" id="slider-colin-status">Slide 1 of 6</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-colin', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-colin', 1)">Next ⟶</button>
+<div class="slider" id="slider-colin">
+  <img class="slide-img" src="/assets/projects/spring-2025/Colin/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-colin', -1)">Previous</button>
+  <button onclick="changeSlide('slider-colin', 1)">Next</button>
+  <p id="slider-colin-status">Slide 1 of 6</p>
 </div>
 
 ---
@@ -188,21 +172,12 @@ with an opposing force, a simple physics concept that most players should be fam
 implemented in a challenging way. Once we had the concept for our game, our main goal was to
 implement it in a way that was user-friendly, fun to play, and even educational.
 
-<div class="slider-container" id="slider-jean">
-  <img src="/assets/projects/spring-2025/Jean_Audrey/slide1.jpg" class="slide-image active-slide">
-  <img src="/assets/projects/spring-2025/Jean_Audrey/slide2.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Jean_Audrey/slide3.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Jean_Audrey/slide4.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Jean_Audrey/slide5.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Jean_Audrey/slide6.jpg" class="slide-image">
-  <img src="/assets/projects/spring-2025/Jean_Audrey/slide7.jpg" class="slide-image">
-
-  <div class="slider-status" id="slider-colin-status">Slide 1 of 7</div>
-</div>
-
-<div class="slider-nav">
-  <button class="prev-btn" onclick="changeSlide('slider-jean', -1)">⟵ Prev</button>
-  <button class="next-btn" onclick="changeSlide('slider-jean', 1)">Next ⟶</button>
+<div class="slider" id="slider-jean">
+  <img class="slide-img" src="/assets/projects/spring-2025/Jean_Audrey/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-jean', -1)">Previous</button>
+  <button onclick="changeSlide('slider-jean', 1)">Next</button>
+  <p id="slider-jean-status">Slide 1 of 7</p>
 </div>
 
 ---
@@ -216,20 +191,12 @@ planetary mass, radius, and orbital period by applying statistical methods, mode
 residual analysis. I explored the mass-period and radius-period relationships while utilizing
 power-law models to fit the data.
 
-<div class="slider" data-slider-id="slider1">
-    <h2>Slider 1</h2>
-    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Kaitlyn/slide1.jpg" alt="1A">
-    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide2.jpg" alt="1B">
-    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide3.jpg" alt="1C">
-    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide4.jpg" alt="1D">
-    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide5.jpg" alt="1E">
-    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide6.jpg" alt="1F">
-    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide7.jpg" alt="1G">
-    <img class="slide-image" src="/assets/projects/spring-2025/Kaitlyn/slide8.jpg" alt="1H">
-    <div class="slider-controls">
-      <button class="prevBtn">Previous</button>
-      <button class="nextBtn">Next</button>
-    </div>
+<div class="slider" id="slider-kaitlyn">
+  <img class="slide-img" src="/assets/projects/spring-2025/Kaitlyn/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-kaitlyn', -1)">Previous</button>
+  <button onclick="changeSlide('slider-kaitlyn', 1)">Next</button>
+  <p id="slider-kaitlyn-status">Slide 1 of 8</p>
 </div>
 
 ---
@@ -247,21 +214,12 @@ our final model of the relative abundances of all the supernovae in our data col
 this by using python and python libraries (will go over in more detail in Methods section) to
 combine the data and take the average of the elemental fluxes.
 
-<div class="slider" data-slider-id="slider1">
-    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Shivani_Melanie/slide1.jpg" alt="1A">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide2.jpg" alt="1B">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide3.jpg" alt="1C">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide4.jpg" alt="1D">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide5.jpg" alt="1E">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide6.jpg" alt="1F">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide7.jpg" alt="1G">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide8.jpg" alt="1H">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide9.jpg" alt="1I">
-    <img class="slide-image" src="/assets/projects/spring-2025/Shivani_Melanie/slide10.jpg" alt="1J">
-    <div class="slider-controls">
-      <button class="prevBtn">Previous</button>
-      <button class="nextBtn">Next</button>
-    </div>
+<div class="slider" id="slider-shivani">
+  <img class="slide-img" src="/assets/projects/spring-2025/Shivani_Melanie/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-shivani', -1)">Previous</button>
+  <button onclick="changeSlide('slider-shivani', 1)">Next</button>
+  <p id="slider-shivani-status">Slide 1 of 10</p>
 </div>
 
 ---
@@ -278,22 +236,12 @@ orbit (UNOOSA). I will use data provided by NASA’s Open Portal to animate the 
 Near Earth Orbits and to simulate how including random noise in the data affects the predicted
 orbits.
 
-<div class="slider" data-slider-id="slider1">
-    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Sareena/slide1.jpg" alt="1A">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide2.jpg" alt="1B">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide3.jpg" alt="1C">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide4.jpg" alt="1D">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide5.jpg" alt="1E">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide6.jpg" alt="1F">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide7.jpg" alt="1G">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide8.jpg" alt="1H">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide9.jpg" alt="1I">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide10.jpg" alt="1J">
-    <img class="slide-image" src="/assets/projects/spring-2025/Sareena/slide11.jpg" alt="1K">
-    <div class="slider-controls">
-      <button class="prevBtn">Previous</button>
-      <button class="nextBtn">Next</button>
-    </div>
+<div class="slider" id="slider-sareena">
+  <img class="slide-img" src="/assets/projects/spring-2025/Sareena/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-sareena', -1)">Previous</button>
+  <button onclick="changeSlide('slider-sareena', 1)">Next</button>
+  <p id="slider-sareena-status">Slide 1 of 11</p>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -313,19 +261,12 @@ They have different data sets that are either reduced based on certain physical 
 for the sake of this project, I decided to take the raw data set and do the filtering on my own,
 as we will see in the coming pages.
 
-<div class="slider" data-slider-id="slider1">
-    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Brandon/slide1.jpg" alt="1A">
-    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide2.jpg" alt="1B">
-    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide3.jpg" alt="1C">
-    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide4.jpg" alt="1D">
-    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide5.jpg" alt="1E">
-    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide6.jpg" alt="1F">
-    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide7.jpg" alt="1G">
-    <img class="slide-image" src="/assets/projects/spring-2025/Brandon/slide8.jpg" alt="1H">
-    <div class="slider-controls">
-      <button class="prevBtn">Previous</button>
-      <button class="nextBtn">Next</button>
-    </div>
+<div class="slider" id="slider-brandon">
+  <img class="slide-img" src="/assets/projects/spring-2025/Brandon/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-brandon', -1)">Previous</button>
+  <button onclick="changeSlide('slider-brandon', 1)">Next</button>
+  <p id="slider-brandon-status">Slide 1 of 8</p>
 </div>
 
 ---
@@ -408,6 +349,76 @@ spaceships or just playing volleyballs.
         "/assets/projects/spring-2025/Aviva/slide9.jpg",
         "/assets/projects/spring-2025/Aviva/slide10.jpg",
         "/assets/projects/spring-2025/Aviva/slide11.jpg"
+    ],
+    "slider-carsen": [
+        "/assets/projects/spring-2025/Carsen_Mark/slide1.jpg",
+        "/assets/projects/spring-2025/Carsen_Mark/slide2.jpg",
+        "/assets/projects/spring-2025/Carsen_Mark/slide3.jpg",
+        "/assets/projects/spring-2025/Carsen_Mark/slide4.jpg",
+        "/assets/projects/spring-2025/Carsen_Mark/slide5.jpg",
+        "/assets/projects/spring-2025/Carsen_Mark/slide6.jpg"
+    ],
+    "slider-colin": [
+        "/assets/projects/spring-2025/Colin/slide1.jpg",
+        "/assets/projects/spring-2025/Colin/slide2.jpg",
+        "/assets/projects/spring-2025/Colin/slide3.jpg",
+        "/assets/projects/spring-2025/Colin/slide4.jpg",
+        "/assets/projects/spring-2025/Colin/slide5.jpg",
+        "/assets/projects/spring-2025/Colin/slide6.jpg"
+    ],
+    "slider-jean": [
+        "/assets/projects/spring-2025/Jean_Audrey/slide1.jpg",
+        "/assets/projects/spring-2025/Jean_Audrey/slide2.jpg",
+        "/assets/projects/spring-2025/Jean_Audrey/slide3.jpg",
+        "/assets/projects/spring-2025/Jean_Audrey/slide4.jpg",
+        "/assets/projects/spring-2025/Jean_Audrey/slide5.jpg",
+        "/assets/projects/spring-2025/Jean_Audrey/slide6.jpg",
+        "/assets/projects/spring-2025/Jean_Audrey/slide7.jpg"
+    ],
+    "slider-kaitlyn": [
+      "/assets/projects/spring-2025/Kaitlyn/slide1.jpg",
+      "/assets/projects/spring-2025/Kaitlyn/slide2.jpg",
+      "/assets/projects/spring-2025/Kaitlyn/slide3.jpg",
+      "/assets/projects/spring-2025/Kaitlyn/slide4.jpg",
+      "/assets/projects/spring-2025/Kaitlyn/slide5.jpg",
+      "/assets/projects/spring-2025/Kaitlyn/slide6.jpg",
+      "/assets/projects/spring-2025/Kaitlyn/slide7.jpg",
+      "/assets/projects/spring-2025/Kaitlyn/slide8.jpg"
+    ],
+    "slider-shivani": [
+        "/assets/projects/spring-2025/Shivani_Melanie/slide1.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide2.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide3.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide4.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide5.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide6.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide7.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide8.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide9.jpg",
+        "/assets/projects/spring-2025/Shivani_Melanie/slide10.jpg",
+    ],
+    "slider-sareena": [
+        "/assets/projects/spring-2025/Sareena/slide1.jpg",
+        "/assets/projects/spring-2025/Sareena/slide2.jpg",
+        "/assets/projects/spring-2025/Sareena/slide3.jpg",
+        "/assets/projects/spring-2025/Sareena/slide4.jpg",
+        "/assets/projects/spring-2025/Sareena/slide5.jpg",
+        "/assets/projects/spring-2025/Sareena/slide6.jpg",
+        "/assets/projects/spring-2025/Sareena/slide7.jpg",
+        "/assets/projects/spring-2025/Sareena/slide8.jpg",
+        "/assets/projects/spring-2025/Sareena/slide9.jpg",
+        "/assets/projects/spring-2025/Sareena/slide10.jpg",
+        "/assets/projects/spring-2025/Sareena/slide11.jpg"
+    ],
+    "slider-brandon": [
+        "/assets/projects/spring-2025/Brandon/slide1.jpg",
+        "/assets/projects/spring-2025/Brandon/slide2.jpg",
+        "/assets/projects/spring-2025/Brandon/slide3.jpg",
+        "/assets/projects/spring-2025/Brandon/slide4.jpg",
+        "/assets/projects/spring-2025/Brandon/slide5.jpg",
+        "/assets/projects/spring-2025/Brandon/slide6.jpg",
+        "/assets/projects/spring-2025/Brandon/slide7.jpg",
+        "/assets/projects/spring-2025/Brandon/slide8.jpg"
     ]
       
   };
