@@ -113,8 +113,52 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 
 ---
 
+## Simulating a 3D double pendulum!
+**Group Members:** Christopher Loewenthal, Cameron Colleran, Izzy Arcoleo, Akhil Korupolu, and Jacqueline Frame
 
+<div class="slider" id="slider-group8">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group8/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group8', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group8', 1)">Next</button>
+  <p id="slider-group6-status">Slide 1 of 15</p>
+</div>
 
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/fall-2022/Group8/Group8.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Ultimate Rock Paper Scissors
+**Group Members:** Chris Ortiz Arias, Neil Frydendal, Sierra Klemann, Emily Putnam and Alvi Sreya
+
+<div class="slider" id="slider-group9">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group9/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group9', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group9', 1)">Next</button>
+  <p id="slider-group9-status">Slide 1 of 10</p>
+</div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/fall-2022/Group9/Group9.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Covid-19 Pandemic: Analyzing severity of the pandemic and how the world can improve for the future
+**Group Members:** Kerem, Gizell, Joseph, Joshua
+
+<div class="slider" id="slider-group9">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group9/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group9', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group9', 1)">Next</button>
+  <p id="slider-group9-status">Slide 1 of 10</p>
+</div>
 
 ---
 
@@ -221,6 +265,35 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group7/slide12.jpg",
           "/assets/projects/fall-2022/Group7/slide13.jpg",
           "/assets/projects/fall-2022/Group7/slide14.jpg"
+      ],
+      "slider-group8": [
+          "/assets/projects/fall-2022/Group8/slide1.jpg",
+          "/assets/projects/fall-2022/Group8/slide2.jpg",
+          "/assets/projects/fall-2022/Group8/slide3.jpg",
+          "/assets/projects/fall-2022/Group8/slide4.jpg",
+          "/assets/projects/fall-2022/Group8/slide5.jpg",
+          "/assets/projects/fall-2022/Group8/slide6.jpg",
+          "/assets/projects/fall-2022/Group8/slide7.jpg",
+          "/assets/projects/fall-2022/Group8/slide8.jpg",
+          "/assets/projects/fall-2022/Group8/slide9.jpg",
+          "/assets/projects/fall-2022/Group8/slide10.jpg",
+          "/assets/projects/fall-2022/Group8/slide11.jpg",
+          "/assets/projects/fall-2022/Group8/slide12.jpg",
+          "/assets/projects/fall-2022/Group8/slide13.jpg",
+          "/assets/projects/fall-2022/Group8/slide14.jpg",
+          "/assets/projects/fall-2022/Group8/slide15.jpg"
+      ],
+      "slider-group9": [
+          "/assets/projects/fall-2022/Group9/slide1.jpg",
+          "/assets/projects/fall-2022/Group9/slide2.jpg",
+          "/assets/projects/fall-2022/Group9/slide3.jpg",
+          "/assets/projects/fall-2022/Group9/slide4.jpg",
+          "/assets/projects/fall-2022/Group9/slide5.jpg",
+          "/assets/projects/fall-2022/Group9/slide6.jpg",
+          "/assets/projects/fall-2022/Group9/slide7.jpg",
+          "/assets/projects/fall-2022/Group9/slide8.jpg",
+          "/assets/projects/fall-2022/Group9/slide9.jpg",
+          "/assets/projects/fall-2022/Group9/slide10.jpg"
       ]
       
   };
