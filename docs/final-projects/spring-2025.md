@@ -6,10 +6,9 @@ nav_order: 1
 
 # Spring 2025 Final Projects
 Please enjoy the final projects of students during the Spring 2025 semester.
-test
 ---
 
-## Simulating Tidal Waves with Gravitational Physics 
+## Simulating Tidal Waves with Gravitational Physics (test)
 **Group Members:** Deacon Carreon and Olivia Silvia
 
 The goal for this project was to model the tides of the Earth-Moon-Sun system. To do this, we
@@ -17,18 +16,12 @@ simulated the positions of all three objects using equations of gravity and mech
 distances we simulated the tidal wave heights at any inputted latitude on the Earth, ultimately
 putting it into an animation, based on the function parameter of time.
 
-<div class="slider" data-slider-id="slider1">
-    <img class="slide-image active-slide" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" alt="1A">
-    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg" alt="1B">
-    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg" alt="1C">
-    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg" alt="1D">
-    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg" alt="1E">
-    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg" alt="1F">
-    <img class="slide-image" src="/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg" alt="1G">
-    <div class="slider-controls">
-      <button class="prevBtn">Previous</button>
-      <button class="nextBtn">Next</button>
-    </div>
+<div class="slider" id="slider-deacon">
+  <img class="slide-img" src="/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-deacon', -1)">Previous</button>
+  <button onclick="changeSlide('slider-deacon', 1)">Next</button>
+  <p id="slider-deacon-status">Slide 1 of 7</p>
 </div>
 
 <video width="100%" controls loop autoplay muted>
@@ -57,20 +50,12 @@ pulsars, x-ray binaries, and gravitational wave events. The goal is to enhance o
 understanding of and find meaningful connections between observed neutron stars and
 known theoretical predictions.
 
-<div class="slider-container" id="slider-eva">
-  <img class="slide-image active-slide" src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" alt="Slide 1">
-  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide2.jpg" alt="Slide 2">
-  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide3.jpg" alt="Slide 3">
-  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide4.jpg" alt="Slide 4">
-  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide5.jpg" alt="Slide 5">
-  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide6.jpg" alt="Slide 6">
-  <img class="slide-image" src="/assets/projects/spring-2025/Eva_Serina/slide7.jpg" alt="Slide 7">
-
-  <div class="slider-controls">
-    <button id="prev-btn">Previous</button>
-    <span id="slider-status">Slide 1 of 7</span>
-    <button id="next-btn">Next</button>
-  </div>
+<div class="slider" id="slider-eva">
+  <img class="slide-img" src="/assets/projects/spring-2025/Eva_Serina/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-eva', -1)">Previous</button>
+  <button onclick="changeSlide('slider-eva', 1)">Next</button>
+  <p id="slider-eva-status">Slide 1 of 11</p>
 </div>
 
 ---
@@ -400,97 +385,56 @@ spaceships or just playing volleyballs.
 ### Power Output 
 **Group Members:** Giancarlo Ursellii
 
-
-<style>
-    body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-        background-color: #f9f9f9;
-        padding: 40px;
-        color: #222;
-    }
-    .slider {
-        margin-bottom: 50px;
-        text-align: center;
-    }
-
-    .slide-image {
-        display: none;
-        width: 100%;
-        max-width: 800px;
-        border-radius: 10px;
-        border: 1px solid #ddd;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    }
-
-    .active-slide {
-        display: block;
-    }
-
-    .slider-controls {
-        margin-top: 16px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 12px;
-    }
-
-    button {
-        padding: 10px 20px;
-        font-size: 15px;
-        border-radius: 6px;
-        border: 1px solid #d0d0d0;
-        background-color: #fff;
-        color: #333;
-        cursor: pointer;
-        transition: all 0.2s ease;
-    }
-
-    button:hover:not(:disabled) {
-        border-color: #bbb;
-        background-color: #f0f0f0;
-    }
-
-    button:disabled {
-        opacity: 0.4;
-        cursor: not-allowed;
-    }
-</style>
-
 <script>
-  const slides = [
-    "/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg",
-    "/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg"
-  ];
-  let currentIndex = 0;
+  const slideData = {
+    "slider-deacon": [
+      "/assets/projects/spring-2025/Deacon_Olivia/slide1.jpg",
+      "/assets/projects/spring-2025/Deacon_Olivia/slide2.jpg",
+      "/assets/projects/spring-2025/Deacon_Olivia/slide3.jpg",
+      "/assets/projects/spring-2025/Deacon_Olivia/slide4.jpg",
+      "/assets/projects/spring-2025/Deacon_Olivia/slide5.jpg",
+      "/assets/projects/spring-2025/Deacon_Olivia/slide6.jpg",
+      "/assets/projects/spring-2025/Deacon_Olivia/slide7.jpg"
+    ],
+    "slider-brandon": [
+      "/assets/projects/spring-2025/Eva_Serina/slide1.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide2.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide3.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide4.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide5.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide6.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide7.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide8.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide9.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide10.jpg",
+      "/assets/projects/spring-2025/Eva_Serina/slide11.jpg"
+    ]
+  };
 
-  function updateSlide() {
-    const img = document.getElementById("slide-img");
-    const status = document.getElementById("status");
-    const prevBtn = document.getElementById("prevBtn");
-    const nextBtn = document.getElementById("nextBtn");
+  const slideIndexes = {};
 
-    img.src = slides[currentIndex];
-    status.textContent = `Slide ${currentIndex + 1} of ${slides.length}`;
-    prevBtn.disabled = currentIndex === 0;
-    nextBtn.disabled = currentIndex === slides.length - 1;
+  function updateSlide(sliderId) {
+    const img = document.querySelector(`#${sliderId} .slide-img`);
+    const status = document.getElementById(`${sliderId}-status`);
+    const slides = slideData[sliderId];
+    const index = slideIndexes[sliderId];
+
+    img.src = slides[index];
+    status.textContent = `Slide ${index + 1} of ${slides.length}`;
   }
 
-  function nextSlide() {
-    if (currentIndex < slides.length - 1) {
-      currentIndex++;
-      updateSlide();
+  function changeSlide(sliderId, direction) {
+    const total = slideData[sliderId].length;
+    if (!(sliderId in slideIndexes)) {
+      slideIndexes[sliderId] = 0;
     }
+    slideIndexes[sliderId] = Math.max(0, Math.min(slideIndexes[sliderId] + direction, total - 1));
+    updateSlide(sliderId);
   }
 
-  function prevSlide() {
-    if (currentIndex > 0) {
-      currentIndex--;
-      updateSlide();
-    }
+  // Initialize all sliders on page load
+  for (const sliderId in slideData) {
+    slideIndexes[sliderId] = 0;
+    updateSlide(sliderId);
   }
-
-  updateSlide(); // initialize on load
 </script>
-
-
-    
