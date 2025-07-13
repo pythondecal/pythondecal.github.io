@@ -9,89 +9,144 @@ permalink: /docs/final-projects/
 
 Each semester our students complete a Final Project and give a presentation in front of the class. To view student work from previous years, please see below.
 
-<section class="card-grid">
 
-  <a href="docs/final-projects/spring_2025" class="card">
-    <img src="assets/projects/spring-2025/creation.png" alt="Tile 1">
-    <div class="card-content">
-      <h2>Final Projects Spring 2025</h2>
-      <p>Take a gander at the fantastic final projects from our first semester running the course.</p>
-    </div>
-  </a>
+<style>
+    body {
+        margin: 0;
+        font-family: 'Source Sans Pro', sans-serif;
+        background: #f4f4f4;
+    }
 
-  <a href="docs/final-projects/fall_2024" class="card">
-    <img src="assets/projects/spring-2025/creation.png" alt="Tile 2">
-    <div class="card-content">
-      <h2>Final Projects Fall 2024</h2>
-      <p>Wonderful projects made by students of the course last semester!</p>
-    </div>
-  </a>
+    .tiles {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      padding: 2rem;
+      justify-items: center;
+    }
 
-  <a href="docs/final-projects/fall_2020" class="card">
-    <img src="assets/projects/spring-2025/creation.png" alt="Tile 3">
-    <div class="card-content">
-      <h2>Final Projects Fall 2020</h2>
-      <p>Some amazing and diverse projects for your pleasure!</p>
+    .tile {
+      position: relative;
+      width: 100%;
+      max-width: 300px;
+      height: 300px;
+      border-radius: 10px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .tile:hover {
+      max-width: 320px;
+      height: 320px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    }
+
+    .tile img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: filter 0.3s ease;
+      filter: brightness(50%);
+    }
+
+    .tile:hover img {
+      filter: brightness(100%);
+    }
+
+    .overlay {
+      position: absolute;
+      inset: 0;
+      background-color: rgba(255, 192, 203, 0.5); /* pink */
+      transition: opacity 0.3s ease;
+      z-index: 1;
+    }
+
+    .tile:hover .overlay {
+      opacity: 0;
+    }
+
+    .text {
+      position: absolute;
+      inset: 0;
+      color: white;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    .title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      line-height: 1.2;
+    }
+
+    .year {
+      font-size: 1.2rem;
+      margin-top: 0.25rem;
+    }
+
+    .description {
+      opacity: 0;
+      transition: opacity 0.3s ease 0.1s;
+      font-size: 1rem;
+      margin-top: 1.2rem;
+      max-width: 85%;
+    }
+
+    .tile:hover .description {
+      opacity: 1;
+    }
+
+    @media (max-width: 700px) {
+      .tile:hover {
+        max-width: 100%;
+        height: 320px;
+      }
+    }
+</style>
+
+<section class="tiles">
+    <div class="tile">
+        <img src="assets/projects/spring-2025/creation.png" alt="Pillars of Creation">
+        <div class="overlay"></div>
+        <div class="text">
+            <div class="title">Final Projects</div>
+            <div class="year">Spring 2025</div>
+            <div class="description">Take a look at our most recent spring showcase.</div>
+        </div>
     </div>
-  </a>
+    <div class="tile">
+      <img src="assets/projects/fall-2024/crab.jpg" alt="Crab Nebula">
+      <div class="overlay"></div>
+      <div class="text">
+        <div class="title">Final Projects</div>
+        <div class="year">Fall 2024</div>
+        <div class="description">Amazing work from undergraduates!</div>
+      </div>
+    </div>
+    <div class="tile">
+      <img src="assets/projects/spring-2024/hat.jpg" alt="Sombrero Galaxy">
+      <div class="overlay"></div>
+      <div class="text">
+        <div class="title">Final Projects</div>
+        <div class="year">Spring 2024</div>
+        <div class="description">Projects exploring data, science, and creativity.</div>
+      </div>
+    </div>
+    <div class="tile">
+      <img src="assets/projects/fall-2024/orion.jpg" alt="Galaxy 4">
+      <div class="overlay"></div>
+      <div class="text">
+        <div class="title">Final Projects</div>
+        <div class="year">Fall 2024</div>
+        <div class="description">More amazing student work from our class.</div>
+      </div>
+    </div>
 
 </section>
-
-
-<style>.card-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
-}
-
-.card {
-  position: relative;
-  width: 300px;
-  height: 300px;
-  border-radius: 10px;
-  overflow: hidden;
-  text-align: center;
-  font-family: sans-serif;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  transition: transform 0.3s ease;
-  background: black;
-  color: white;
-}
-
-.card:hover {
-  transform: scale(1.03);
-}
-
-.card img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0.8;
-}
-
-.card-content {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  padding: 1.5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  background: rgba(0, 0, 0, 0.4); /* dark overlay */
-  color: white;
-  z-index: 1;
-}
-
-.card-content h2 {
-  margin: 0 0 0.5rem 0;
-  font-size: 1.5rem;
-}
-
-.card-content p {
-  margin: 0;
-  font-size: 1rem;
-}
-</style>
