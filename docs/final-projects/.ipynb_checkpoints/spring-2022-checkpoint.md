@@ -90,7 +90,7 @@ Please enjoy the final projects of students during the Spring 2022 semester.
 ## Simulating an N-body Gravitational System
 **Group Members:** Max Fomin, Gautum Srinivas, and Jonah Han
 
-<div class="slider" id="slider-group6">
+<div class="slider" id="slider-group7">
   <img class="slide-img" src="/assets/projects/spring-2022/Group7/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group7', -1)">Previous</button>
