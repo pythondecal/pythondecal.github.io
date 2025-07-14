@@ -185,3 +185,15 @@ simulations, or creative coding applications (like designing a video game).
 As with all classes, cheating, plagiarism, and other forms of academic dishonesty will not be tolerated. First violations will
 result in a zero on the assignment, and any subsequent violations may result in administrative action in accordance with
 the UC Berkeley Astronomy Department Policy on Academic Misconduct.
+
+---
+
+### Syllabus from Previous Semesters
+
+[Spring 2025 Syllabus](../../assets/syllabus/spring-2025.pdf)
+[Fall 2024 Syllabus](../../assets/syllabus/fall-2024.pdf)
+[Spring 2024 Syllabus](../../assets/syllabus/spring-2024.pdf)
+[Spring 2023 Syllabus](../../assets/syllabus/spring-2023.pdf)
+[Fall 2022 Syllabus](../../assets/syllabus/fall-2022.pdf)
+[Spring 2022 Syllabus](../../assets/syllabus/spring-2022.pdf)
+[Fall 2021 Syllabus](../../assets/syllabus/fall-2021.pdf)
