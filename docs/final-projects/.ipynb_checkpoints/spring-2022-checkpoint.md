@@ -17,7 +17,7 @@ Please enjoy the final projects of students during the Spring 2022 semester.
   <br>
   <button onclick="changeSlide('slider-group1', -1)">Previous</button>
   <button onclick="changeSlide('slider-group1', 1)">Next</button>
-  <p id="slider-group1-status">Slide 1 of 9</p>
+  <p id="slider-group1-status">Slide 1 of 7</p>
 </div>
 
 ---
@@ -143,13 +143,6 @@ Please enjoy the final projects of students during the Spring 2022 semester.
   <button onclick="changeSlide('slider-group9', 1)">Next</button>
   <p id="slider-group9-status">Slide 1 of 11</p>
 </div>
-
-
-
-
-
-
-
 
 <script>
   const slideData = {
