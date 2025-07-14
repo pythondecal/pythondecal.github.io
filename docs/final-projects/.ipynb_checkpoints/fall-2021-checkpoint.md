@@ -10,7 +10,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 ---
 
 ## Mandelbrot Set Animation
-**Group Members:** 
+**Group Members:** Frenly Espino, Bennett Austin and Junlajak Jongpipattanakul
 
 <div class="slider" id="slider-group1">
   <img class="slide-img" src="/assets/projects/fall-2022/Group1/slide1.jpg" style="max-width: 100%;">
@@ -27,10 +27,16 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 
 ---
 
-## 
+## GRAVITATIONAL LENSING
+**Group Members:** Diego Bonilla, Kate Bostow, Annie McCutcheon and Edgar Vidal
 
-
-
+<div class="slider" id="slider-group2">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group2/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group2', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group2', 1)">Next</button>
+  <p id="slider-group1-status">Slide 1 of 15</p>
+</div>
 
 
 
@@ -69,7 +75,10 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group2/slide9.jpg",
           "/assets/projects/fall-2022/Group2/slide10.jpg",
           "/assets/projects/fall-2022/Group2/slide11.jpg",
-          "/assets/projects/fall-2022/Group2/slide12.jpg"
+          "/assets/projects/fall-2022/Group2/slide12.jpg",
+          "/assets/projects/fall-2022/Group2/slide13.jpg",
+          "/assets/projects/fall-2022/Group2/slide14.jpg",
+          "/assets/projects/fall-2022/Group2/slide15.jpg"
     ],
       "slider-group3": [
           "/assets/projects/fall-2022/Group3/slide1.jpg",
