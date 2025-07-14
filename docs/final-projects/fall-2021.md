@@ -210,11 +210,25 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group12-status">Slide 1 of 8</p>
 </div>
 
+--- 
 
+## THE VOYAGER GOLDEN RECORD
+**Group Members:** Brandon Park, William Yau and Lakshman Peri
 
+<div class="slider" id="slider-group13">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group13/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group13', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group13', 1)">Next</button>
+  <p id="slider-group13-status">Slide 1 of 19</p>
+</div>
 
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/fall-2021/Group13/Group13.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-
+---
 
 <script>
   const slideData = {
@@ -401,6 +415,27 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group12/slide6.jpg",
           "/assets/projects/fall-2022/Group12/slide7.jpg",
           "/assets/projects/fall-2022/Group12/slide8.jpg"
+      ],
+      "slider-group13": [
+          "/assets/projects/fall-2022/Group13/slide1.jpg",
+          "/assets/projects/fall-2022/Group13/slide2.jpg",
+          "/assets/projects/fall-2022/Group13/slide3.jpg",
+          "/assets/projects/fall-2022/Group13/slide4.jpg",
+          "/assets/projects/fall-2022/Group13/slide5.jpg",
+          "/assets/projects/fall-2022/Group13/slide6.jpg",
+          "/assets/projects/fall-2022/Group13/slide7.jpg",
+          "/assets/projects/fall-2022/Group13/slide8.jpg",
+          "/assets/projects/fall-2022/Group13/slide9.jpg",
+          "/assets/projects/fall-2022/Group13/slide10.jpg",
+          "/assets/projects/fall-2022/Group13/slide11.jpg",
+          "/assets/projects/fall-2022/Group13/slide12.jpg",
+          "/assets/projects/fall-2022/Group13/slide13.jpg",
+          "/assets/projects/fall-2022/Group13/slide14.jpg",
+          "/assets/projects/fall-2022/Group13/slide15.jpg",
+          "/assets/projects/fall-2022/Group13/slide16.jpg",
+          "/assets/projects/fall-2022/Group13/slide17.jpg",
+          "/assets/projects/fall-2022/Group13/slide18.jpg",
+          "/assets/projects/fall-2022/Group13/slide19.jpg"
       ]
   };
 
