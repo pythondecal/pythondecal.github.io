@@ -115,15 +115,22 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 ## Orbital Mechanics
 **Group Members:** Roger Yu, Boyu Fan and Neil Pichay
 
-<div class="slider" id="slider-group6">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group6/slide1.jpg" style="max-width: 100%;">
+<div class="slider" id="slider-group7">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group7/slide1.jpg" style="max-width: 100%;">
   <br>
-  <button onclick="changeSlide('slider-group6', -1)">Previous</button>
-  <button onclick="changeSlide('slider-group6', 1)">Next</button>
-  <p id="slider-group6-status">Slide 1 of 15</p>
+  <button onclick="changeSlide('slider-group7', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group7', 1)">Next</button>
+  <p id="slider-group7-status">Slide 1 of 9</p>
 </div>
 
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/fall-2021/Group7/Group7.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
+
+## 
 
 
 
@@ -240,22 +247,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group7/slide6.jpg",
           "/assets/projects/fall-2022/Group7/slide7.jpg",
           "/assets/projects/fall-2022/Group7/slide8.jpg",
-          "/assets/projects/fall-2022/Group7/slide9.jpg",
-          "/assets/projects/fall-2022/Group7/slide10.jpg",
-          "/assets/projects/fall-2022/Group7/slide11.jpg",
-          "/assets/projects/fall-2022/Group7/slide12.jpg",
-          "/assets/projects/fall-2022/Group7/slide13.jpg",
-          "/assets/projects/fall-2022/Group7/slide14.jpg",
-          "/assets/projects/fall-2022/Group7/slide15.jpg",
-          "/assets/projects/fall-2022/Group7/slide16.jpg",
-          "/assets/projects/fall-2022/Group7/slide17.jpg",
-          "/assets/projects/fall-2022/Group7/slide18.jpg",
-          "/assets/projects/fall-2022/Group7/slide19.jpg",
-          "/assets/projects/fall-2022/Group7/slide20.jpg",
-          "/assets/projects/fall-2022/Group7/slide21.jpg",
-          "/assets/projects/fall-2022/Group7/slide22.jpg",
-          "/assets/projects/fall-2022/Group7/slide23.jpg",
-          "/assets/projects/fall-2022/Group7/slide24.jpg"
+          "/assets/projects/fall-2022/Group7/slide9.jpg"
       ],
       "slider-group8": [
           "/assets/projects/fall-2022/Group8/slide1.jpg",
