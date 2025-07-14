@@ -113,9 +113,23 @@ Please enjoy the final projects of students during the Spring 2022 semester.
   Your browser does not support the video tag.
 </video>
 
+---
 
+## Planetary Orbit Simulation Generator
+**Group Members:** Chen-You Tang, Charlie Tolley, Aria Tomar and Blake Grantham
 
+<div class="slider" id="slider-group8">
+  <img class="slide-img" src="/assets/projects/spring-2022/Group8/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group8', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group8', 1)">Next</button>
+  <p id="slider-group8-status">Slide 1 of 13</p>
+</div>
 
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/spring-2022/Group8/Group8.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
@@ -256,9 +270,7 @@ Please enjoy the final projects of students during the Spring 2022 semester.
           "/assets/projects/fall-2022/Group8/slide10.jpg",
           "/assets/projects/fall-2022/Group8/slide11.jpg",
           "/assets/projects/fall-2022/Group8/slide12.jpg",
-          "/assets/projects/fall-2022/Group8/slide13.jpg",
-          "/assets/projects/fall-2022/Group8/slide14.jpg",
-          "/assets/projects/fall-2022/Group8/slide15.jpg"
+          "/assets/projects/fall-2022/Group8/slide13.jpg"
       ],
       "slider-group9": [
           "/assets/projects/fall-2022/Group9/slide1.jpg",
