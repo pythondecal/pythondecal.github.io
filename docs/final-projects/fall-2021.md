@@ -38,9 +38,18 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group1-status">Slide 1 of 15</p>
 </div>
 
+---
 
+## Hertzsprung-Russell Diagram Simulation
+**Group Members:** Justin Yu, Rio Hayakawa and Alicia Roberts
 
-
+<div class="slider" id="slider-group3">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group3/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group3', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group3', 1)">Next</button>
+  <p id="slider-group3-status">Slide 1 of 16</p>
+</div>
 
 
 
@@ -91,7 +100,12 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group3/slide8.jpg",
           "/assets/projects/fall-2022/Group3/slide9.jpg",
           "/assets/projects/fall-2022/Group3/slide10.jpg",
-          "/assets/projects/fall-2022/Group3/slide11.jpg"
+          "/assets/projects/fall-2022/Group3/slide11.jpg",
+          "/assets/projects/fall-2022/Group3/slide12.jpg",
+          "/assets/projects/fall-2022/Group3/slide13.jpg",
+          "/assets/projects/fall-2022/Group3/slide14.jpg",
+          "/assets/projects/fall-2022/Group3/slide15.jpg",
+          "/assets/projects/fall-2022/Group3/slide16.jpg"
     ],
       "slider-group4": [
           "/assets/projects/fall-2022/Group4/slide1.jpg",
