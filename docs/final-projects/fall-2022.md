@@ -1,7 +1,7 @@
 ---
 title: Fall 2022
 parent: Final Projects
-nav_order: 6
+nav_order: 2
 ---
 
 # Fall 2022 Final Projects

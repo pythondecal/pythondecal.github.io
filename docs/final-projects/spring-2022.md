@@ -1,7 +1,7 @@
 ---
 title: Spring 2022
 parent: Final Projects
-nav_order: 7
+nav_order: 3
 ---
 
 # Spring 2022 Final Projects

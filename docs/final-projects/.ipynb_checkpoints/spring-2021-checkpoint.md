@@ -1,7 +1,7 @@
 ---
 title: Spring 2021
 parent: Final Projects
-nav_order: 9
+nav_order: 5
 ---
 
 # Spring 2021 Final Projects

@@ -1,6 +1,6 @@
 ---
 title: Syllabus     
-nav_order: 4                    
+nav_order: 3                    
 ---
 
 # ASTRON 98: Introduction to Python For Astronomers (Fall 2025)

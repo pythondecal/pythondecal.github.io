@@ -1,7 +1,7 @@
 ---
 title: Fall 2020
 parent: Final Projects
-nav_order: 10
+nav_order: 6
 ---
 
 # Fall 2020 Final Projects
