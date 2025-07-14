@@ -5,7 +5,7 @@ nav_order: 8
 ---
 
 # Fall 2021 Final Projects
-Please enjoy the final projects of students during the Fall 2022 semester.
+Please enjoy the final projects of students during the Fall 2021 semester.
 
 ---
 
@@ -13,7 +13,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Frenly Espino, Bennett Austin and Junlajak Jongpipattanakul
 
 <div class="slider" id="slider-group1">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group1/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group1/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group1', -1)">Previous</button>
   <button onclick="changeSlide('slider-group1', 1)">Next</button>
@@ -31,7 +31,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Diego Bonilla, Kate Bostow, Annie McCutcheon and Edgar Vidal
 
 <div class="slider" id="slider-group2">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group2/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group2/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group2', -1)">Previous</button>
   <button onclick="changeSlide('slider-group2', 1)">Next</button>
@@ -44,7 +44,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Justin Yu, Rio Hayakawa and Alicia Roberts
 
 <div class="slider" id="slider-group3">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group3/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group3/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group3', -1)">Previous</button>
   <button onclick="changeSlide('slider-group3', 1)">Next</button>
@@ -57,7 +57,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Yiwei Yu and Nicolas Albiani
 
 <div class="slider" id="slider-group4">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group4/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group4/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group4', -1)">Previous</button>
   <button onclick="changeSlide('slider-group4', 1)">Next</button>
@@ -75,7 +75,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Dexter Clyburn, Timothy Paule and Zoë Zawol
 
 <div class="slider" id="slider-group5">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group5/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group5/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group5', -1)">Previous</button>
   <button onclick="changeSlide('slider-group5', 1)">Next</button>
@@ -88,7 +88,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:**  Mathias A., Sitan C. and Dillon G.
 
 <div class="slider" id="slider-group6">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group6/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group6/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group6', -1)">Previous</button>
   <button onclick="changeSlide('slider-group6', 1)">Next</button>
@@ -116,7 +116,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Roger Yu, Boyu Fan and Neil Pichay
 
 <div class="slider" id="slider-group7">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group7/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group7/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group7', -1)">Previous</button>
   <button onclick="changeSlide('slider-group7', 1)">Next</button>
@@ -134,7 +134,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Claire Chen, Josh Bonivert, Eve Mango and Sofia Daubert
 
 <div class="slider" id="slider-group8">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group8/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group8/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group8', -1)">Previous</button>
   <button onclick="changeSlide('slider-group8', 1)">Next</button>
@@ -152,7 +152,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Xinze Guo, Angela Beatty, David Pham and Alexey Krivega
 
 <div class="slider" id="slider-group9">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group9/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group9/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group9', -1)">Previous</button>
   <button onclick="changeSlide('slider-group9', 1)">Next</button>
@@ -167,7 +167,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Bryce Benun, Calvin Smedshammer and Connor King-Ries
 
 <div class="slider" id="slider-group10">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group10/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group10/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group10', -1)">Previous</button>
   <button onclick="changeSlide('slider-group10', 1)">Next</button>
@@ -185,7 +185,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Jeffrey Martinez, Yoomee Zeng and Alma Erika Garcia
 
 <div class="slider" id="slider-group11">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group11/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group11/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group11', -1)">Previous</button>
   <button onclick="changeSlide('slider-group11', 1)">Next</button>
@@ -203,7 +203,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Lucia Goldberg, Mahum Khan, Ellie Mak
 
 <div class="slider" id="slider-group12">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group12/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group12/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group12', -1)">Previous</button>
   <button onclick="changeSlide('slider-group12', 1)">Next</button>
@@ -216,7 +216,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 **Group Members:** Brandon Park, William Yau and Lakshman Peri
 
 <div class="slider" id="slider-group13">
-  <img class="slide-img" src="/assets/projects/fall-2022/Group13/slide1.jpg" style="max-width: 100%;">
+  <img class="slide-img" src="/assets/projects/fall-2021/Group13/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group13', -1)">Previous</button>
   <button onclick="changeSlide('slider-group13', 1)">Next</button>
@@ -233,209 +233,209 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 <script>
   const slideData = {
       "slider-group1": [
-          "/assets/projects/fall-2022/Group1/slide1.jpg",
-          "/assets/projects/fall-2022/Group1/slide2.jpg",
-          "/assets/projects/fall-2022/Group1/slide3.jpg",
-          "/assets/projects/fall-2022/Group1/slide4.jpg",
-          "/assets/projects/fall-2022/Group1/slide5.jpg",
-          "/assets/projects/fall-2022/Group1/slide6.jpg",
-          "/assets/projects/fall-2022/Group1/slide7.jpg",
-          "/assets/projects/fall-2022/Group1/slide8.jpg"
+          "/assets/projects/fall-2021/Group1/slide1.jpg",
+          "/assets/projects/fall-2021/Group1/slide2.jpg",
+          "/assets/projects/fall-2021/Group1/slide3.jpg",
+          "/assets/projects/fall-2021/Group1/slide4.jpg",
+          "/assets/projects/fall-2021/Group1/slide5.jpg",
+          "/assets/projects/fall-2021/Group1/slide6.jpg",
+          "/assets/projects/fall-2021/Group1/slide7.jpg",
+          "/assets/projects/fall-2021/Group1/slide8.jpg"
     ],
       "slider-group2": [
-          "/assets/projects/fall-2022/Group2/slide1.jpg",
-          "/assets/projects/fall-2022/Group2/slide2.jpg",
-          "/assets/projects/fall-2022/Group2/slide3.jpg",
-          "/assets/projects/fall-2022/Group2/slide4.jpg",
-          "/assets/projects/fall-2022/Group2/slide5.jpg",
-          "/assets/projects/fall-2022/Group2/slide6.jpg",
-          "/assets/projects/fall-2022/Group2/slide7.jpg",
-          "/assets/projects/fall-2022/Group2/slide8.jpg",
-          "/assets/projects/fall-2022/Group2/slide9.jpg",
-          "/assets/projects/fall-2022/Group2/slide10.jpg",
-          "/assets/projects/fall-2022/Group2/slide11.jpg",
+          "/assets/projects/fall-2021/Group2/slide1.jpg",
+          "/assets/projects/fall-2021/Group2/slide2.jpg",
+          "/assets/projects/fall-2021/Group2/slide3.jpg",
+          "/assets/projects/fall-2021/Group2/slide4.jpg",
+          "/assets/projects/fall-2021/Group2/slide5.jpg",
+          "/assets/projects/fall-2021/Group2/slide6.jpg",
+          "/assets/projects/fall-2021/Group2/slide7.jpg",
+          "/assets/projects/fall-2021/Group2/slide8.jpg",
+          "/assets/projects/fall-2021/Group2/slide9.jpg",
+          "/assets/projects/fall-2021/Group2/slide10.jpg",
+          "/assets/projects/fall-2021/Group2/slide11.jpg",
           "/assets/projects/fall-2022/Group2/slide12.jpg",
-          "/assets/projects/fall-2022/Group2/slide13.jpg",
-          "/assets/projects/fall-2022/Group2/slide14.jpg",
-          "/assets/projects/fall-2022/Group2/slide15.jpg"
+          "/assets/projects/fall-2021/Group2/slide13.jpg",
+          "/assets/projects/fall-2021/Group2/slide14.jpg",
+          "/assets/projects/fall-2021/Group2/slide15.jpg"
     ],
       "slider-group3": [
-          "/assets/projects/fall-2022/Group3/slide1.jpg",
-          "/assets/projects/fall-2022/Group3/slide2.jpg",
-          "/assets/projects/fall-2022/Group3/slide3.jpg",
-          "/assets/projects/fall-2022/Group3/slide4.jpg",
-          "/assets/projects/fall-2022/Group3/slide5.jpg",
-          "/assets/projects/fall-2022/Group3/slide6.jpg",
-          "/assets/projects/fall-2022/Group3/slide7.jpg",
-          "/assets/projects/fall-2022/Group3/slide8.jpg",
-          "/assets/projects/fall-2022/Group3/slide9.jpg",
-          "/assets/projects/fall-2022/Group3/slide10.jpg",
-          "/assets/projects/fall-2022/Group3/slide11.jpg",
-          "/assets/projects/fall-2022/Group3/slide12.jpg",
-          "/assets/projects/fall-2022/Group3/slide13.jpg",
-          "/assets/projects/fall-2022/Group3/slide14.jpg",
-          "/assets/projects/fall-2022/Group3/slide15.jpg",
-          "/assets/projects/fall-2022/Group3/slide16.jpg"
+          "/assets/projects/fall-2021/Group3/slide1.jpg",
+          "/assets/projects/fall-2021/Group3/slide2.jpg",
+          "/assets/projects/fall-2021/Group3/slide3.jpg",
+          "/assets/projects/fall-2021/Group3/slide4.jpg",
+          "/assets/projects/fall-2021/Group3/slide5.jpg",
+          "/assets/projects/fall-2021/Group3/slide6.jpg",
+          "/assets/projects/fall-2021/Group3/slide7.jpg",
+          "/assets/projects/fall-2021/Group3/slide8.jpg",
+          "/assets/projects/fall-2021/Group3/slide9.jpg",
+          "/assets/projects/fall-2021/Group3/slide10.jpg",
+          "/assets/projects/fall-2021/Group3/slide11.jpg",
+          "/assets/projects/fall-2021/Group3/slide12.jpg",
+          "/assets/projects/fall-2021/Group3/slide13.jpg",
+          "/assets/projects/fall-2021/Group3/slide14.jpg",
+          "/assets/projects/fall-2021/Group3/slide15.jpg",
+          "/assets/projects/fall-2021/Group3/slide16.jpg"
     ],
       "slider-group4": [
-          "/assets/projects/fall-2022/Group4/slide1.jpg",
-          "/assets/projects/fall-2022/Group4/slide2.jpg",
-          "/assets/projects/fall-2022/Group4/slide3.jpg",
-          "/assets/projects/fall-2022/Group4/slide4.jpg",
-          "/assets/projects/fall-2022/Group4/slide5.jpg",
-          "/assets/projects/fall-2022/Group4/slide6.jpg",
-          "/assets/projects/fall-2022/Group4/slide7.jpg",
-          "/assets/projects/fall-2022/Group4/slide8.jpg",
-          "/assets/projects/fall-2022/Group4/slide9.jpg",
-          "/assets/projects/fall-2022/Group4/slide10.jpg",
-          "/assets/projects/fall-2022/Group4/slide11.jpg",
-          "/assets/projects/fall-2022/Group4/slide12.jpg",
-          "/assets/projects/fall-2022/Group4/slide13.jpg",
-          "/assets/projects/fall-2022/Group4/slide14.jpg",
-          "/assets/projects/fall-2022/Group4/slide15.jpg",
-          "/assets/projects/fall-2022/Group4/slide16.jpg",
-          "/assets/projects/fall-2022/Group4/slide17.jpg",
-          "/assets/projects/fall-2022/Group4/slide18.jpg",
-          "/assets/projects/fall-2022/Group4/slide19.jpg",
-          "/assets/projects/fall-2022/Group4/slide20.jpg",
-          "/assets/projects/fall-2022/Group4/slide21.jpg"
+          "/assets/projects/fall-2021/Group4/slide1.jpg",
+          "/assets/projects/fall-2021/Group4/slide2.jpg",
+          "/assets/projects/fall-2021/Group4/slide3.jpg",
+          "/assets/projects/fall-2021/Group4/slide4.jpg",
+          "/assets/projects/fall-2021/Group4/slide5.jpg",
+          "/assets/projects/fall-2021/Group4/slide6.jpg",
+          "/assets/projects/fall-2021/Group4/slide7.jpg",
+          "/assets/projects/fall-2021/Group4/slide8.jpg",
+          "/assets/projects/fall-2021/Group4/slide9.jpg",
+          "/assets/projects/fall-2021/Group4/slide10.jpg",
+          "/assets/projects/fall-2021/Group4/slide11.jpg",
+          "/assets/projects/fall-2021/Group4/slide12.jpg",
+          "/assets/projects/fall-2021/Group4/slide13.jpg",
+          "/assets/projects/fall-2021/Group4/slide14.jpg",
+          "/assets/projects/fall-2021/Group4/slide15.jpg",
+          "/assets/projects/fall-2021/Group4/slide16.jpg",
+          "/assets/projects/fall-2021/Group4/slide17.jpg",
+          "/assets/projects/fall-2021/Group4/slide18.jpg",
+          "/assets/projects/fall-2021/Group4/slide19.jpg",
+          "/assets/projects/fall-2021/Group4/slide20.jpg",
+          "/assets/projects/fall-2021/Group4/slide21.jpg"
       ],
       "slider-group5": [
-          "/assets/projects/fall-2022/Group5/slide1.jpg",
-          "/assets/projects/fall-2022/Group5/slide2.jpg",
-          "/assets/projects/fall-2022/Group5/slide3.jpg",
-          "/assets/projects/fall-2022/Group5/slide4.jpg",
-          "/assets/projects/fall-2022/Group5/slide5.jpg",
-          "/assets/projects/fall-2022/Group5/slide6.jpg",
-          "/assets/projects/fall-2022/Group5/slide7.jpg",
-          "/assets/projects/fall-2022/Group5/slide8.jpg",
-          "/assets/projects/fall-2022/Group5/slide9.jpg",
-          "/assets/projects/fall-2022/Group5/slide10.jpg",
-          "/assets/projects/fall-2022/Group5/slide11.jpg"
+          "/assets/projects/fall-2021/Group5/slide1.jpg",
+          "/assets/projects/fall-2021/Group5/slide2.jpg",
+          "/assets/projects/fall-2021/Group5/slide3.jpg",
+          "/assets/projects/fall-2021/Group5/slide4.jpg",
+          "/assets/projects/fall-2021/Group5/slide5.jpg",
+          "/assets/projects/fall-2021/Group5/slide6.jpg",
+          "/assets/projects/fall-2021/Group5/slide7.jpg",
+          "/assets/projects/fall-2021/Group5/slide8.jpg",
+          "/assets/projects/fall-2021/Group5/slide9.jpg",
+          "/assets/projects/fall-2021/Group5/slide10.jpg",
+          "/assets/projects/fall-2021/Group5/slide11.jpg"
       ],
       "slider-group6": [
-          "/assets/projects/fall-2022/Group6/slide1.jpg",
-          "/assets/projects/fall-2022/Group6/slide2.jpg",
-          "/assets/projects/fall-2022/Group6/slide3.jpg",
-          "/assets/projects/fall-2022/Group6/slide4.jpg",
-          "/assets/projects/fall-2022/Group6/slide5.jpg",
-          "/assets/projects/fall-2022/Group6/slide6.jpg",
-          "/assets/projects/fall-2022/Group6/slide7.jpg",
-          "/assets/projects/fall-2022/Group6/slide8.jpg",
-          "/assets/projects/fall-2022/Group6/slide9.jpg",
-          "/assets/projects/fall-2022/Group6/slide10.jpg",
-          "/assets/projects/fall-2022/Group6/slide11.jpg",
-          "/assets/projects/fall-2022/Group6/slide12.jpg",
-          "/assets/projects/fall-2022/Group6/slide13.jpg",
-          "/assets/projects/fall-2022/Group6/slide14.jpg",
-          "/assets/projects/fall-2022/Group6/slide15.jpg"
+          "/assets/projects/fall-2021/Group6/slide1.jpg",
+          "/assets/projects/fall-2021/Group6/slide2.jpg",
+          "/assets/projects/fall-2021/Group6/slide3.jpg",
+          "/assets/projects/fall-2021/Group6/slide4.jpg",
+          "/assets/projects/fall-2021/Group6/slide5.jpg",
+          "/assets/projects/fall-2021/Group6/slide6.jpg",
+          "/assets/projects/fall-2021/Group6/slide7.jpg",
+          "/assets/projects/fall-2021/Group6/slide8.jpg",
+          "/assets/projects/fall-2021/Group6/slide9.jpg",
+          "/assets/projects/fall-2021/Group6/slide10.jpg",
+          "/assets/projects/fall-2021/Group6/slide11.jpg",
+          "/assets/projects/fall-2021/Group6/slide12.jpg",
+          "/assets/projects/fall-2021/Group6/slide13.jpg",
+          "/assets/projects/fall-2021/Group6/slide14.jpg",
+          "/assets/projects/fall-2021/Group6/slide15.jpg"
       ],
       "slider-group7": [
-          "/assets/projects/fall-2022/Group7/slide1.jpg",
-          "/assets/projects/fall-2022/Group7/slide2.jpg",
-          "/assets/projects/fall-2022/Group7/slide3.jpg",
-          "/assets/projects/fall-2022/Group7/slide4.jpg",
-          "/assets/projects/fall-2022/Group7/slide5.jpg",
-          "/assets/projects/fall-2022/Group7/slide6.jpg",
-          "/assets/projects/fall-2022/Group7/slide7.jpg",
-          "/assets/projects/fall-2022/Group7/slide8.jpg",
-          "/assets/projects/fall-2022/Group7/slide9.jpg"
+          "/assets/projects/fall-2021/Group7/slide1.jpg",
+          "/assets/projects/fall-2021/Group7/slide2.jpg",
+          "/assets/projects/fall-2021/Group7/slide3.jpg",
+          "/assets/projects/fall-2021/Group7/slide4.jpg",
+          "/assets/projects/fall-2021/Group7/slide5.jpg",
+          "/assets/projects/fall-2021/Group7/slide6.jpg",
+          "/assets/projects/fall-2021/Group7/slide7.jpg",
+          "/assets/projects/fall-2021/Group7/slide8.jpg",
+          "/assets/projects/fall-2021/Group7/slide9.jpg"
       ],
       "slider-group8": [
-          "/assets/projects/fall-2022/Group8/slide1.jpg",
-          "/assets/projects/fall-2022/Group8/slide2.jpg",
-          "/assets/projects/fall-2022/Group8/slide3.jpg",
-          "/assets/projects/fall-2022/Group8/slide4.jpg",
-          "/assets/projects/fall-2022/Group8/slide5.jpg",
-          "/assets/projects/fall-2022/Group8/slide6.jpg",
-          "/assets/projects/fall-2022/Group8/slide7.jpg",
-          "/assets/projects/fall-2022/Group8/slide8.jpg",
-          "/assets/projects/fall-2022/Group8/slide9.jpg",
-          "/assets/projects/fall-2022/Group8/slide10.jpg",
-          "/assets/projects/fall-2022/Group8/slide11.jpg",
-          "/assets/projects/fall-2022/Group8/slide12.jpg",
-          "/assets/projects/fall-2022/Group8/slide13.jpg",
-          "/assets/projects/fall-2022/Group8/slide14.jpg",
-          "/assets/projects/fall-2022/Group8/slide15.jpg",
-          "/assets/projects/fall-2022/Group8/slide16.jpg",
-          "/assets/projects/fall-2022/Group8/slide17.jpg",
-          "/assets/projects/fall-2022/Group8/slide18.jpg",
-          "/assets/projects/fall-2022/Group8/slide19.jpg",
-          "/assets/projects/fall-2022/Group8/slide20.jpg"
+          "/assets/projects/fall-2021/Group8/slide1.jpg",
+          "/assets/projects/fall-2021/Group8/slide2.jpg",
+          "/assets/projects/fall-2021/Group8/slide3.jpg",
+          "/assets/projects/fall-2021/Group8/slide4.jpg",
+          "/assets/projects/fall-2021/Group8/slide5.jpg",
+          "/assets/projects/fall-2021/Group8/slide6.jpg",
+          "/assets/projects/fall-2021/Group8/slide7.jpg",
+          "/assets/projects/fall-2021/Group8/slide8.jpg",
+          "/assets/projects/fall-2021/Group8/slide9.jpg",
+          "/assets/projects/fall-2021/Group8/slide10.jpg",
+          "/assets/projects/fall-2021/Group8/slide11.jpg",
+          "/assets/projects/fall-2021/Group8/slide12.jpg",
+          "/assets/projects/fall-2021/Group8/slide13.jpg",
+          "/assets/projects/fall-2021/Group8/slide14.jpg",
+          "/assets/projects/fall-2021/Group8/slide15.jpg",
+          "/assets/projects/fall-2021/Group8/slide16.jpg",
+          "/assets/projects/fall-2021/Group8/slide17.jpg",
+          "/assets/projects/fall-2021/Group8/slide18.jpg",
+          "/assets/projects/fall-2021/Group8/slide19.jpg",
+          "/assets/projects/fall-2021/Group8/slide20.jpg"
       ],
       "slider-group9": [
-          "/assets/projects/fall-2022/Group9/slide1.jpg",
-          "/assets/projects/fall-2022/Group9/slide2.jpg",
-          "/assets/projects/fall-2022/Group9/slide3.jpg",
-          "/assets/projects/fall-2022/Group9/slide4.jpg",
-          "/assets/projects/fall-2022/Group9/slide5.jpg",
-          "/assets/projects/fall-2022/Group9/slide6.jpg",
-          "/assets/projects/fall-2022/Group9/slide7.jpg",
-          "/assets/projects/fall-2022/Group9/slide8.jpg",
-          "/assets/projects/fall-2022/Group9/slide9.jpg",
-          "/assets/projects/fall-2022/Group9/slide10.jpg",
-          "/assets/projects/fall-2022/Group9/slide11.jpg",
-          "/assets/projects/fall-2022/Group9/slide12.jpg",
-          "/assets/projects/fall-2022/Group9/slide13.jpg",
-          "/assets/projects/fall-2022/Group9/slide14.jpg",
-          "/assets/projects/fall-2022/Group9/slide15.jpg"
+          "/assets/projects/fall-2021/Group9/slide1.jpg",
+          "/assets/projects/fall-2021/Group9/slide2.jpg",
+          "/assets/projects/fall-2021/Group9/slide3.jpg",
+          "/assets/projects/fall-2021/Group9/slide4.jpg",
+          "/assets/projects/fall-2021/Group9/slide5.jpg",
+          "/assets/projects/fall-2021/Group9/slide6.jpg",
+          "/assets/projects/fall-2021/Group9/slide7.jpg",
+          "/assets/projects/fall-2021/Group9/slide8.jpg",
+          "/assets/projects/fall-2021/Group9/slide9.jpg",
+          "/assets/projects/fall-2021/Group9/slide10.jpg",
+          "/assets/projects/fall-2021/Group9/slide11.jpg",
+          "/assets/projects/fall-2021/Group9/slide12.jpg",
+          "/assets/projects/fall-2021/Group9/slide13.jpg",
+          "/assets/projects/fall-2021/Group9/slide14.jpg",
+          "/assets/projects/fall-2021/Group9/slide15.jpg"
       ],
       "slider-group10": [
-          "/assets/projects/fall-2022/Group10/slide1.jpg",
-          "/assets/projects/fall-2022/Group10/slide2.jpg",
-          "/assets/projects/fall-2022/Group10/slide3.jpg",
-          "/assets/projects/fall-2022/Group10/slide4.jpg",
-          "/assets/projects/fall-2022/Group10/slide5.jpg",
-          "/assets/projects/fall-2022/Group10/slide6.jpg",
-          "/assets/projects/fall-2022/Group10/slide7.jpg",
-          "/assets/projects/fall-2022/Group10/slide8.jpg",
-          "/assets/projects/fall-2022/Group10/slide9.jpg",
-          "/assets/projects/fall-2022/Group10/slide10.jpg",
-          "/assets/projects/fall-2022/Group10/slide11.jpg"
+          "/assets/projects/fall-2021/Group10/slide1.jpg",
+          "/assets/projects/fall-2021/Group10/slide2.jpg",
+          "/assets/projects/fall-2021/Group10/slide3.jpg",
+          "/assets/projects/fall-2021/Group10/slide4.jpg",
+          "/assets/projects/fall-2021/Group10/slide5.jpg",
+          "/assets/projects/fall-2021/Group10/slide6.jpg",
+          "/assets/projects/fall-2021/Group10/slide7.jpg",
+          "/assets/projects/fall-2021/Group10/slide8.jpg",
+          "/assets/projects/fall-2021/Group10/slide9.jpg",
+          "/assets/projects/fall-2021/Group10/slide10.jpg",
+          "/assets/projects/fall-2021/Group10/slide11.jpg"
       ],
       "slider-group11": [
-          "/assets/projects/fall-2022/Group11/slide1.jpg",
-          "/assets/projects/fall-2022/Group11/slide2.jpg",
-          "/assets/projects/fall-2022/Group11/slide3.jpg",
-          "/assets/projects/fall-2022/Group11/slide4.jpg",
-          "/assets/projects/fall-2022/Group11/slide5.jpg",
-          "/assets/projects/fall-2022/Group11/slide6.jpg",
-          "/assets/projects/fall-2022/Group11/slide7.jpg",
-          "/assets/projects/fall-2022/Group11/slide8.jpg",
-          "/assets/projects/fall-2022/Group11/slide9.jpg",
-          "/assets/projects/fall-2022/Group11/slide10.jpg",
-          "/assets/projects/fall-2022/Group11/slide11.jpg"
+          "/assets/projects/fall-2021/Group11/slide1.jpg",
+          "/assets/projects/fall-2021/Group11/slide2.jpg",
+          "/assets/projects/fall-2021/Group11/slide3.jpg",
+          "/assets/projects/fall-2021/Group11/slide4.jpg",
+          "/assets/projects/fall-2021/Group11/slide5.jpg",
+          "/assets/projects/fall-2021/Group11/slide6.jpg",
+          "/assets/projects/fall-2021/Group11/slide7.jpg",
+          "/assets/projects/fall-2021/Group11/slide8.jpg",
+          "/assets/projects/fall-2021/Group11/slide9.jpg",
+          "/assets/projects/fall-2021/Group11/slide10.jpg",
+          "/assets/projects/fall-2021/Group11/slide11.jpg"
       ],
       "slider-group12": [
-          "/assets/projects/fall-2022/Group12/slide1.jpg",
-          "/assets/projects/fall-2022/Group12/slide2.jpg",
-          "/assets/projects/fall-2022/Group12/slide3.jpg",
-          "/assets/projects/fall-2022/Group12/slide4.jpg",
-          "/assets/projects/fall-2022/Group12/slide5.jpg",
-          "/assets/projects/fall-2022/Group12/slide6.jpg",
-          "/assets/projects/fall-2022/Group12/slide7.jpg",
-          "/assets/projects/fall-2022/Group12/slide8.jpg"
+          "/assets/projects/fall-2021/Group12/slide1.jpg",
+          "/assets/projects/fall-2021/Group12/slide2.jpg",
+          "/assets/projects/fall-2021/Group12/slide3.jpg",
+          "/assets/projects/fall-2021/Group12/slide4.jpg",
+          "/assets/projects/fall-2021/Group12/slide5.jpg",
+          "/assets/projects/fall-2021/Group12/slide6.jpg",
+          "/assets/projects/fall-2021/Group12/slide7.jpg",
+          "/assets/projects/fall-2021/Group12/slide8.jpg"
       ],
       "slider-group13": [
-          "/assets/projects/fall-2022/Group13/slide1.jpg",
-          "/assets/projects/fall-2022/Group13/slide2.jpg",
-          "/assets/projects/fall-2022/Group13/slide3.jpg",
-          "/assets/projects/fall-2022/Group13/slide4.jpg",
-          "/assets/projects/fall-2022/Group13/slide5.jpg",
-          "/assets/projects/fall-2022/Group13/slide6.jpg",
-          "/assets/projects/fall-2022/Group13/slide7.jpg",
-          "/assets/projects/fall-2022/Group13/slide8.jpg",
-          "/assets/projects/fall-2022/Group13/slide9.jpg",
-          "/assets/projects/fall-2022/Group13/slide10.jpg",
-          "/assets/projects/fall-2022/Group13/slide11.jpg",
-          "/assets/projects/fall-2022/Group13/slide12.jpg",
-          "/assets/projects/fall-2022/Group13/slide13.jpg",
-          "/assets/projects/fall-2022/Group13/slide14.jpg",
-          "/assets/projects/fall-2022/Group13/slide15.jpg",
-          "/assets/projects/fall-2022/Group13/slide16.jpg",
-          "/assets/projects/fall-2022/Group13/slide17.jpg",
-          "/assets/projects/fall-2022/Group13/slide18.jpg",
-          "/assets/projects/fall-2022/Group13/slide19.jpg"
+          "/assets/projects/fall-2021/Group13/slide1.jpg",
+          "/assets/projects/fall-2021/Group13/slide2.jpg",
+          "/assets/projects/fall-2021/Group13/slide3.jpg",
+          "/assets/projects/fall-2021/Group13/slide4.jpg",
+          "/assets/projects/fall-2021/Group13/slide5.jpg",
+          "/assets/projects/fall-2021/Group13/slide6.jpg",
+          "/assets/projects/fall-2021/Group13/slide7.jpg",
+          "/assets/projects/fall-2021/Group13/slide8.jpg",
+          "/assets/projects/fall-2021/Group13/slide9.jpg",
+          "/assets/projects/fall-2021/Group13/slide10.jpg",
+          "/assets/projects/fall-2021/Group13/slide11.jpg",
+          "/assets/projects/fall-2021/Group13/slide12.jpg",
+          "/assets/projects/fall-2021/Group13/slide13.jpg",
+          "/assets/projects/fall-2021/Group13/slide14.jpg",
+          "/assets/projects/fall-2021/Group13/slide15.jpg",
+          "/assets/projects/fall-2021/Group13/slide16.jpg",
+          "/assets/projects/fall-2021/Group13/slide17.jpg",
+          "/assets/projects/fall-2021/Group13/slide18.jpg",
+          "/assets/projects/fall-2021/Group13/slide19.jpg"
       ]
   };
 
