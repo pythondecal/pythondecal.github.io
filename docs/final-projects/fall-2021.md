@@ -141,8 +141,30 @@ Please enjoy the final projects of students during the Fall 2022 semester.
   <p id="slider-group8-status">Slide 1 of 20</p>
 </div>
 
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/fall-2021/Group8/Group8.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
+## Spectra 
+**Group Members:** Xinze Guo, Angela Beatty, David Pham and Alexey Krivega
+
+<div class="slider" id="slider-group7">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group9/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group9', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group9', 1)">Next</button>
+  <p id="slider-group9-status">Slide 1 of 15</p>
+</div>
+
+<img src="/assets/projects/fall-2022/Group9/Group9.gif" alt="Animated GIF" style="width: 100%;">
+
+---
+
+## Sudoku Solver
+**Group Members:** Bryce Benun, Calvin Smedshammer and Connor King-Ries
 
 
 
@@ -296,7 +318,11 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group9/slide8.jpg",
           "/assets/projects/fall-2022/Group9/slide9.jpg",
           "/assets/projects/fall-2022/Group9/slide10.jpg",
-          "/assets/projects/fall-2022/Group9/slide11.jpg"
+          "/assets/projects/fall-2022/Group9/slide11.jpg",
+          "/assets/projects/fall-2022/Group9/slide12.jpg",
+          "/assets/projects/fall-2022/Group9/slide13.jpg",
+          "/assets/projects/fall-2022/Group9/slide14.jpg",
+          "/assets/projects/fall-2022/Group9/slide15.jpg"
       ]
   };
 

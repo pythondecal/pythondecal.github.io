@@ -85,6 +85,8 @@ Please enjoy the final projects of students during the Spring 2022 semester.
   <p id="slider-group6-status">Slide 1 of 26</p>
 </div>
 
+<img src="/assets/projects/fall-2022/Group9/Group9.gif" alt="Animated GIF" style="width: 100%;">
+
 ---
 
 ## Simulating an N-body Gravitational System
