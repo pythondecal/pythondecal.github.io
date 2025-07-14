@@ -5,8 +5,8 @@ nav_order: 2
 ---
 # Previous Instructors and Interns
 
-| Last Semester | Name               | Position(s)                   | Length   | Current Affiliation                  |
-|---------------|--------------------|-------------------------------|----------|--------------------------------------|
+| Last Semester | Name               | Position(s)           | Length   | Current Affiliation                          |
+|---------------|--------------------|-----------------------|----------|----------------------------------------------|
 | Spring 2025   | Mahum Khan         | Intern → Instructor   | 3 yrs    | —                                            |
 | Fall 2024     | Yuhan Chen         | Intern                | <1 yr    | —                                            |
 | Spring 2024   | Megan Ann Joseph   | Instructor → Head     | 3 yrs    | —                                            |
