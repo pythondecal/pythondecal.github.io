@@ -131,9 +131,18 @@ Please enjoy the final projects of students during the Spring 2022 semester.
   Your browser does not support the video tag.
 </video>
 
+---
 
+## DIFFERENTIATION OF HUMAN T-CELLS IN THE THYMUS
+**Group Members:** Lillian Andreasyan, Egle Jurgaityte, Jovi Lim and Rinda Shen
 
-
+<div class="slider" id="slider-group9">
+  <img class="slide-img" src="/assets/projects/spring-2022/Group9/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group9', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group9', 1)">Next</button>
+  <p id="slider-group9-status">Slide 1 of 11</p>
+</div>
 
 
 
@@ -282,51 +291,9 @@ Please enjoy the final projects of students during the Spring 2022 semester.
           "/assets/projects/fall-2022/Group9/slide7.jpg",
           "/assets/projects/fall-2022/Group9/slide8.jpg",
           "/assets/projects/fall-2022/Group9/slide9.jpg",
-          "/assets/projects/fall-2022/Group9/slide10.jpg"
-      ],
-      "slider-group10": [
-          "/assets/projects/fall-2022/Group10/slide1.jpg",
-          "/assets/projects/fall-2022/Group10/slide2.jpg",
-          "/assets/projects/fall-2022/Group10/slide3.jpg",
-          "/assets/projects/fall-2022/Group10/slide4.jpg",
-          "/assets/projects/fall-2022/Group10/slide5.jpg",
-          "/assets/projects/fall-2022/Group10/slide6.jpg",
-          "/assets/projects/fall-2022/Group10/slide7.jpg",
-          "/assets/projects/fall-2022/Group10/slide8.jpg",
-          "/assets/projects/fall-2022/Group10/slide9.jpg",
-          "/assets/projects/fall-2022/Group10/slide10.jpg",
-          "/assets/projects/fall-2022/Group10/slide11.jpg",
-          "/assets/projects/fall-2022/Group10/slide12.jpg",
-          "/assets/projects/fall-2022/Group10/slide13.jpg",
-          "/assets/projects/fall-2022/Group10/slide14.jpg",
-          "/assets/projects/fall-2022/Group10/slide15.jpg",
-          "/assets/projects/fall-2022/Group10/slide16.jpg",
-          "/assets/projects/fall-2022/Group10/slide17.jpg",
-          "/assets/projects/fall-2022/Group10/slide18.jpg",
-          "/assets/projects/fall-2022/Group10/slide19.jpg",
-          "/assets/projects/fall-2022/Group10/slide20.jpg",
-          "/assets/projects/fall-2022/Group10/slide21.jpg",
-          "/assets/projects/fall-2022/Group10/slide22.jpg",
-          "/assets/projects/fall-2022/Group10/slide23.jpg",
-          "/assets/projects/fall-2022/Group10/slide24.jpg",
-          "/assets/projects/fall-2022/Group10/slide25.jpg"
-      ],
-      "slider-group11": [
-          "/assets/projects/fall-2022/Group11/slide1.jpg",
-          "/assets/projects/fall-2022/Group11/slide2.jpg",
-          "/assets/projects/fall-2022/Group11/slide3.jpg",
-          "/assets/projects/fall-2022/Group11/slide4.jpg",
-          "/assets/projects/fall-2022/Group11/slide5.jpg",
-          "/assets/projects/fall-2022/Group11/slide6.jpg",
-          "/assets/projects/fall-2022/Group11/slide7.jpg",
-          "/assets/projects/fall-2022/Group11/slide8.jpg",
-          "/assets/projects/fall-2022/Group11/slide9.jpg",
-          "/assets/projects/fall-2022/Group11/slide10.jpg",
-          "/assets/projects/fall-2022/Group11/slide11.jpg",
-          "/assets/projects/fall-2022/Group11/slide12.jpg",
-          "/assets/projects/fall-2022/Group11/slide13.jpg"
+          "/assets/projects/fall-2022/Group9/slide10.jpg",
+          "/assets/projects/fall-2022/Group9/slide11.jpg"
       ]
-      
   };
 
   const slideIndexes = {};
