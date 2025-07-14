@@ -10,26 +10,29 @@ nav_order: 6
 <div class="faq-container">
     <div class="faq-item">
         <div class="faq-question">How many units is the Python DeCal (ASTRON 98)?</div>
-        <div class="faq-answer">The Python DeCal is a **2-unit** Pass/No Pass class. </div>
+        <div class="faq-answer">The Python DeCal is a <strong>2-unit</strong> Pass/No Pass class.</div>
 </div>
 
 <div class="faq-container">
     <div class="faq-item">
         <div class="faq-question">Do I need coding experience before taking the Python DeCal?</div>
-        <div class="faq-answer">No! We are very welcoming to beginners :) in fact we actually target students with **zero** coding experience.
-        If you taken previous Java classes or feel confident in your Python skills, then the Python DeCal might not be the best option for you 
-        as it might be too easy. However, if you would like to explore data analysis skills related to fields of astronomy, physics and math
-        then feel free to join in on the fun. 
+        <div class="faq-answer">No! We are very welcoming to beginners :) in fact we actually target 
+            students with <strong>zero</strong> coding experience. If you have taken previous Java 
+            classes or feel confident in your Python skills, then the Python DeCal might not be the 
+            best option for you, as it might be too easy. However, if you would like to explore data 
+            analysis skills related to fields such as astronomy, physics, and math, then feel free to 
+            join in on the fun.
         </div>
 </div>
 
 <div class="faq-container">
     <div class="faq-item">
         <div class="faq-question">How many hours a week will I have to spend on the Python DeCal?</div>
-        <div class="faq-answer">Most students spend about 5 hours outside of class a week on homework and other
-        assignments for the Python DeCal. However, some students spend as little as 2 and as much as 10, it is 
-        very much up to the individual student and their individual experience with coding. Expect a slightly higher workload
-        during the weeks of preparing for the Final Project?
+        <div class="faq-answer">Most students spend about 5 hours outside of class a week on homework 
+            and other assignments for the Python DeCal. However, some students spend as little as 2 
+            and as much as 10; it is very much up to the individual student and their individual 
+            experience with coding. Expect a slightly higher workload during the weeks leading up to 
+            the Final Project.
         </div>
 </div>
 
