@@ -112,7 +112,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 
 ---
 
-## Orbital Mechanics
+## Orbital Mechanics: Solar Wind
 **Group Members:** Roger Yu, Boyu Fan and Neil Pichay
 
 <div class="slider" id="slider-group7">
@@ -130,7 +130,21 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 
 ---
 
-## 
+## Simulating Solar Systems
+**Group Members:** Claire Chen, Josh Bonivert, Eve Mango and Sofia Daubert
+
+<div class="slider" id="slider-group7">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group8/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group8', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group8', 1)">Next</button>
+  <p id="slider-group8-status">Slide 1 of 20</p>
+</div>
+
+---
+
+
+
 
 
 
@@ -262,7 +276,14 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group8/slide10.jpg",
           "/assets/projects/fall-2022/Group8/slide11.jpg",
           "/assets/projects/fall-2022/Group8/slide12.jpg",
-          "/assets/projects/fall-2022/Group8/slide13.jpg"
+          "/assets/projects/fall-2022/Group8/slide13.jpg",
+          "/assets/projects/fall-2022/Group8/slide14.jpg",
+          "/assets/projects/fall-2022/Group8/slide15.jpg",
+          "/assets/projects/fall-2022/Group8/slide16.jpg",
+          "/assets/projects/fall-2022/Group8/slide17.jpg",
+          "/assets/projects/fall-2022/Group8/slide18.jpg",
+          "/assets/projects/fall-2022/Group8/slide19.jpg",
+          "/assets/projects/fall-2022/Group8/slide20.jpg"
       ],
       "slider-group9": [
           "/assets/projects/fall-2022/Group9/slide1.jpg",
