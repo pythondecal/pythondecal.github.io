@@ -133,7 +133,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 ## Simulating Solar Systems
 **Group Members:** Claire Chen, Josh Bonivert, Eve Mango and Sofia Daubert
 
-<div class="slider" id="slider-group7">
+<div class="slider" id="slider-group8">
   <img class="slide-img" src="/assets/projects/fall-2022/Group8/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group8', -1)">Previous</button>
@@ -151,7 +151,7 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 ## Spectra 
 **Group Members:** Xinze Guo, Angela Beatty, David Pham and Alexey Krivega
 
-<div class="slider" id="slider-group7">
+<div class="slider" id="slider-group9">
   <img class="slide-img" src="/assets/projects/fall-2022/Group9/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group9', -1)">Previous</button>
@@ -166,7 +166,49 @@ Please enjoy the final projects of students during the Fall 2022 semester.
 ## Sudoku Solver
 **Group Members:** Bryce Benun, Calvin Smedshammer and Connor King-Ries
 
+<div class="slider" id="slider-group10">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group10/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group10', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group10', 1)">Next</button>
+  <p id="slider-group10-status">Slide 1 of 11</p>
+</div>
 
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/fall-2021/Group10/Group10.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## TOI-561 System
+**Group Members:** Jeffrey Martinez, Yoomee Zeng and Alma Erika Garcia
+
+<div class="slider" id="slider-group11">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group11/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group11', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group11', 1)">Next</button>
+  <p id="slider-group11-status">Slide 1 of 11</p>
+</div>
+
+<video width="100%" controls loop autoplay muted>
+  <source src="/assets/projects/fall-2021/Group11/Group11.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## The Exoplanet Transit Method
+**Group Members:** Lucia Goldberg, Mahum Khan, Ellie Mak
+
+<div class="slider" id="slider-group12">
+  <img class="slide-img" src="/assets/projects/fall-2022/Group12/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group12', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group12', 1)">Next</button>
+  <p id="slider-group12-status">Slide 1 of 8</p>
+</div>
 
 
 
@@ -323,6 +365,42 @@ Please enjoy the final projects of students during the Fall 2022 semester.
           "/assets/projects/fall-2022/Group9/slide13.jpg",
           "/assets/projects/fall-2022/Group9/slide14.jpg",
           "/assets/projects/fall-2022/Group9/slide15.jpg"
+      ],
+      "slider-group10": [
+          "/assets/projects/fall-2022/Group10/slide1.jpg",
+          "/assets/projects/fall-2022/Group10/slide2.jpg",
+          "/assets/projects/fall-2022/Group10/slide3.jpg",
+          "/assets/projects/fall-2022/Group10/slide4.jpg",
+          "/assets/projects/fall-2022/Group10/slide5.jpg",
+          "/assets/projects/fall-2022/Group10/slide6.jpg",
+          "/assets/projects/fall-2022/Group10/slide7.jpg",
+          "/assets/projects/fall-2022/Group10/slide8.jpg",
+          "/assets/projects/fall-2022/Group10/slide9.jpg",
+          "/assets/projects/fall-2022/Group10/slide10.jpg",
+          "/assets/projects/fall-2022/Group10/slide11.jpg"
+      ],
+      "slider-group11": [
+          "/assets/projects/fall-2022/Group11/slide1.jpg",
+          "/assets/projects/fall-2022/Group11/slide2.jpg",
+          "/assets/projects/fall-2022/Group11/slide3.jpg",
+          "/assets/projects/fall-2022/Group11/slide4.jpg",
+          "/assets/projects/fall-2022/Group11/slide5.jpg",
+          "/assets/projects/fall-2022/Group11/slide6.jpg",
+          "/assets/projects/fall-2022/Group11/slide7.jpg",
+          "/assets/projects/fall-2022/Group11/slide8.jpg",
+          "/assets/projects/fall-2022/Group11/slide9.jpg",
+          "/assets/projects/fall-2022/Group11/slide10.jpg",
+          "/assets/projects/fall-2022/Group11/slide11.jpg"
+      ],
+      "slider-group12": [
+          "/assets/projects/fall-2022/Group12/slide1.jpg",
+          "/assets/projects/fall-2022/Group12/slide2.jpg",
+          "/assets/projects/fall-2022/Group12/slide3.jpg",
+          "/assets/projects/fall-2022/Group12/slide4.jpg",
+          "/assets/projects/fall-2022/Group12/slide5.jpg",
+          "/assets/projects/fall-2022/Group12/slide6.jpg",
+          "/assets/projects/fall-2022/Group12/slide7.jpg",
+          "/assets/projects/fall-2022/Group12/slide8.jpg"
       ]
   };
 
