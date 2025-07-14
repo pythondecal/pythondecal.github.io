@@ -121,6 +121,7 @@ Each semester our students complete a Final Project and give a presentation in f
     </div>
   </a>
 
+<!--
   <a href="/docs/final-projects/fall-2024" class="tile">
     <img src="/assets/images/crab.jpg" alt="Crab Nebula">
     <div class="overlay"></div>
@@ -160,6 +161,7 @@ Each semester our students complete a Final Project and give a presentation in f
       <div class="description">Amazing students. Amazing projects.</div>
     </div>
   </a>
+-->
 
   <a href="/docs/final-projects/fall-2022" class="tile">
     <img src="/assets/images/moon.jpg" alt="Hubble Galaxy">
