@@ -12,22 +12,24 @@ The following is a list of current instructors and interns on the Python DeCal s
 
 | Name           | Position(s)                                                         | Favorite Astronomical Object |
 |----------------|---------------------------------------------------------------------|------------------------------|
-| Brianna Peck   | Head Instructor (Spring 2025 – Present)<br>Instructor (Fall 2023 – Fall 2024)<br>Intern (Spring 2023) | Massive Population III Stars |
-| Charlie Tolley| Instructor (Spring 2025 – Present)<br>Head Instructor (Spring 2024 – Fall 2024)<br>Instructor (Spring 2023 – Fall 2024)<br>Intern (Fall 2022) | ???                          |
-| Pranathi Kolla| Instructor (Spring 2023 – Present)<br>Intern (Fall 2022)             | ???                          |
-| Mira Bhatt    | Instructor (Fall 2023 – Present)<br>Intern (Spring 2023)             | ???                          |
-| Katie Mora    | Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)             | ???                          |
-| Mariam Helal  | Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)             | ???                          |
-| William Lee   | Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)             | ???                          |
-| Safia Barmada| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)              | ???                          |
+| Brianna Peck<br>(bpeck114@berkeley.edu)| Head Instructor (Spring 2025 – Present)<br>Instructor (Fall 2023 – Fall 2024)<br>Intern (Spring 2023) | Massive Population III Stars|
+| Charlie Tolley<br>(tolley412@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Head Instructor (Spring 2024 – Fall 2024)<br>Instructor (Spring 2023 – Fall 2024)<br>Intern (Fall 2022)|???|
+| Pranathi Kolla<br>(pranathik@berkeley.edu)| Instructor (Spring 2023 – Present)<br>Intern (Fall 2022)|???|
+| Mira Bhatt<br>(mirabhatt@berkeley.edu)| Instructor (Fall 2023 – Present)<br>Intern (Spring 2023)|???|
+| Katie Mora<br>(katherinemora@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)|???|
+| Mariam Helal<br>(mariam.helal@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)|???|
+| William Lee<br>(williamlee8@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)|???|
+| Safia Barmada<br>(sbarmada@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)|???|
 
 ## Interns
 
 | Name          | Position(s)        | Favorite Astronomical Object |
 |---------------|--------------------|------------------------------|
-| Milana Berhe | Intern (Fall 2025)  | ???                          |
-| Olivia Silvia | Intern (Fall 2025)  | ???                          |
+| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)|???|
+| Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Intern (Fall 2025)|???|
 
 ## Faculty Sponsor
 
-Aaron Parsons
+Aaron Parsons (aparsons@berkeley.edu)
+
+<img src="assets/images/aaron-parsons.png" alt="Description of image" width="250">

@@ -19,7 +19,7 @@ nav_order: 3
 
 ## Interns: 
 - Milana Berhe (milana.berhe@berkeley.edu)
-- Olivia Silva (olivia lsilva@berkeley.edu)
+- Olivia Silva (olivia_lsilva@berkeley.edu)
 
 ## Faculty Sponsor:
 - Aaron Parsons
