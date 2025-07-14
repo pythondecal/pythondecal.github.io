@@ -22,20 +22,32 @@ Please enjoy the final projects of students during the Fall 2021 semester.
 ## Animated 3D Color-Magnitude Diagram of Messier 4 Globular Cluster
 **Group Members:** Kingsley Ehrich and Riley Clark
 
-
 <div class="slider" id="slider-group2">
   <img class="slide-img" src="/assets/projects/fall-2020/Group2/slide1.jpg" style="max-width: 100%;">
   <br>
   <button onclick="changeSlide('slider-group2', -1)">Previous</button>
   <button onclick="changeSlide('slider-group2', 1)">Next</button>
-  <p id="slider-group2-status">Slide 1 of 8</p>
+  <p id="slider-group2-status">Slide 1 of 12</p>
 </div>
 
+---
 
+## ANIMATED HR DIAGRAM
+**Group Members:** Victor Cruz Ramos and Nadia Laswi
+
+<div class="slider" id="slider-group3">
+  <img class="slide-img" src="/assets/projects/fall-2020/Group3/slide1.jpg" style="max-width: 100%;">
+  <br>
+  <button onclick="changeSlide('slider-group3', -1)">Previous</button>
+  <button onclick="changeSlide('slider-group3', 1)">Next</button>
+  <p id="slider-group3-status">Slide 1 of 10</p>
+</div>
+
+---
 
 <script>
   const slideData = {
-      "slider-group1": [
+      "slider-group2": [
           "/assets/projects/fall-2020/Group2/slide1.jpg",
           "/assets/projects/fall-2020/Group2/slide2.jpg",
           "/assets/projects/fall-2020/Group2/slide3.jpg",
@@ -43,7 +55,23 @@ Please enjoy the final projects of students during the Fall 2021 semester.
           "/assets/projects/fall-2020/Group2/slide5.jpg",
           "/assets/projects/fall-2020/Group2/slide6.jpg",
           "/assets/projects/fall-2020/Group2/slide7.jpg",
-          "/assets/projects/fall-2020/Group2/slide8.jpg"
+          "/assets/projects/fall-2020/Group2/slide8.jpg",
+          "/assets/projects/fall-2020/Group2/slide9.jpg",
+          "/assets/projects/fall-2020/Group2/slide10.jpg",
+          "/assets/projects/fall-2020/Group2/slide11.jpg",
+          "/assets/projects/fall-2020/Group2/slide12.jpg"
+    ],
+      "slider-group3": [
+          "/assets/projects/fall-2020/Group3/slide1.jpg",
+          "/assets/projects/fall-2020/Group3/slide2.jpg",
+          "/assets/projects/fall-2020/Group3/slide3.jpg",
+          "/assets/projects/fall-2020/Group3/slide4.jpg",
+          "/assets/projects/fall-2020/Group3/slide5.jpg",
+          "/assets/projects/fall-2020/Group3/slide6.jpg",
+          "/assets/projects/fall-2020/Group3/slide7.jpg",
+          "/assets/projects/fall-2020/Group3/slide8.jpg",
+          "/assets/projects/fall-2020/Group3/slide9.jpg",
+          "/assets/projects/fall-2020/Group3/slide10.jpg"
     ]
   };
 
