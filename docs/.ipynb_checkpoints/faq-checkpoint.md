@@ -1,6 +1,6 @@
 ---
 title: FAQ     
-nav_order: 6                    
+nav_order: 7                    
 ---
 
 # Frequently Asked Questions
@@ -38,11 +38,12 @@ nav_order: 6
 
 <div class="faq-container">
     <div class="faq-item">
-        <div class="faq-question">I want to keep learning Python, what class should I take after the Python DeCal?</div>
-        <div class="faq-answer">After the Python DeCal we recommend exploring classes like Data 8, CS 61A and Physics 77 for other
-            introductory coding classes. However, we believe CS 61A contains material beyond what is needed for the astrophysics major
-            at UC Berkeley but if you are interested in learning deeper about computer science feel free to take the class. For more advanced
-            courses we recommend Data 100, any of the upper-division Astrophysics labs (ASTRON 120, 121, 128) and EPS 109.
+        <div class="faq-question">I want to keep learning Python. What class should I take after the Python DeCal?</div>
+        <div class="faq-answer">After the Python DeCal, we recommend exploring classes like Data 8, CS 61A, and Physics 
+            77 for other introductory coding classes. However, we believe CS 61A contains material beyond what is 
+            needed for the astrophysics major at UC Berkeley, but if you are interested in learning more about computer 
+            science, feel free to take the class. For more advanced courses, we recommend Data 100, any of the upper-division 
+            Astrophysics labs (ASTRON 120, 121, 128), and EPS 109.
         </div>
 </div>
 
