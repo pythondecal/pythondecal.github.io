@@ -15,3 +15,4 @@ Schedule for Fall 2025, subject to change.
 | 5 | 9/22<br> 9/24 | Lecture: Lists + Dictionaries<br> Discussion: Lists + Discussions | 
 | 6 | 9/29<br> 10/1 | Introduce Final Projects + Review Session<br> Review Session + Debugging | 
 | 7 | 10/6<br> 10/8 | Lecture: Jupyter Notebooks + NumPy Arrays<br> Discussion: NumPy Arrays |
+| 8 | 10/13<br> 10/15 | Lecture: Matplotlib<br> Discussion: Matplotlib |
