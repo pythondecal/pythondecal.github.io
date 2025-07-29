@@ -16,3 +16,11 @@ Schedule for Fall 2025, subject to change.
 | 6 | 9/29<br> 10/1 | Introduce Final Projects + Review Session<br> Review Session + Debugging | 
 | 7 | 10/6<br> 10/8 | Lecture: Jupyter Notebooks + NumPy Arrays<br> Discussion: NumPy Arrays |
 | 8 | 10/13<br> 10/15 | Lecture: Matplotlib<br> Discussion: Matplotlib |
+| 9 | 10/20<br> 10/22 | Lecture: Pandas<br> Discussion: Pandas |
+| 10 | | |
+| 11 | | |
+| 12 | | |
+| 13 | | | 
+| 14 | | | 
+| 15 | | |
+| 16 | | | 
