@@ -17,10 +17,11 @@ Schedule for Fall 2025, subject to change.
 | 7 | 10/6<br> 10/8 | Lecture: Jupyter Notebooks + NumPy Arrays<br> Discussion: NumPy Arrays |
 | 8 | 10/13<br> 10/15 | Lecture: Matplotlib<br> Discussion: Matplotlib |
 | 9 | 10/20<br> 10/22 | Lecture: Pandas<br> Discussion: Pandas |
-| 10 | | |
-| 11 | | |
-| 12 | | |
-| 13 | | | 
-| 14 | | | 
-| 15 | | |
-| 16 | | | 
+| 10 | 10/27<br> 10/29 | Lecture: Scipy<br> Discussion: Scipy |
+| 11 | 11/3<br> 11/5 | Lecture: Astropy<br> Discussion: Astropy |
+| 12 | 11/10<br> 11/12 | Final Project Proposal Feedback + Review Session |
+| 13 | 11/17<br> 11/19 | Animation<br> Object-Oriented Programming | 
+| 14 | 11/24<br> 11/26 | Final Project Work Day<br> No Class (Thanksgiving Break) | 
+| 15 | 12/1<br> 12/3 | Final Project Presentations! Day 1<br> Final Project Presentations! Day 2 |
+| 16 | 12/8<br> 12/10 | No Class (RRR Week)<br> No Class (RRR Week) |
+| 17 | 12/15<br> 12/17 | No Class (Good luck on Finals!)<br>  No Class (Good luck on Finals!) |
