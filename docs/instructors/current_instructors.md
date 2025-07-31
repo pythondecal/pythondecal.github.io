@@ -17,7 +17,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 | Pranathi Kolla<br>(pranathik@berkeley.edu)| Instructor (Spring 2023 – Present)<br>Intern (Fall 2022)| Pillars of Creation |
 | Mira Bhatt<br>(mirabhatt@berkeley.edu)| Instructor (Fall 2023 – Present)<br>Intern (Spring 2023)| The Moon |
 | Katie Mora<br>(katherinemora@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)| ??? |
-| Mariam Helal<br>(mariam.helal@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| IO |
+| Mariam Helal<br>(mariam.helal@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Io |
 | William Lee<br>(williamlee8@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| ??? |
 | Safia Barmada<br>(sbarmada@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| ??? |
 
