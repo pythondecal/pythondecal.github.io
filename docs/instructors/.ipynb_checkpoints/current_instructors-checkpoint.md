@@ -19,13 +19,13 @@ The following is a list of current instructors and interns on the Python DeCal s
 | Katie Mora<br>(katherinemora@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)| ??? |
 | Mariam Helal<br>(mariam.helal@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Io |
 | William Lee<br>(williamlee8@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| ??? |
-| Safia Barmada<br>(sbarmada@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| ??? |
+| Safia Barmada<br>(sbarmada@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| The Moon |
 
 ## Interns
 
 | Name          | Position(s)        | Favorite Astronomical Object |
 |---------------|--------------------|------------------------------|
-| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| ??? |
+| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| Jupiter |
 | Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Intern (Fall 2025)| Sirius A |
 
 ## Faculty Sponsor
