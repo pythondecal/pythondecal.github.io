@@ -1,7 +1,7 @@
 ---
 title: Previous Instructors and Interns
 parent: Instructors
-nav_order: 2
+nav_order: 1
 ---
 # Previous Instructors and Interns
 
