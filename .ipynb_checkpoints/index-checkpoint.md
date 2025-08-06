@@ -12,7 +12,7 @@ permalink: /
 
 ## Introduction to Python for UC Berkeley astrophysics students
 {: .fs-6 style="margin-top: 0;" }
- {: .fs-9 } -->
+<!-- {: .fs-9 } -->
 
 Now accepting applications for the **Fall 2025 semester**!
 {: .fs-6 .fw-300 style="margin-top: 0;" }
