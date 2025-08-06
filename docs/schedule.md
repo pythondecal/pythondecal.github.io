@@ -1,5 +1,6 @@
 ---
-title: Weekly Schedule     
+title: Weekly Schedule    
+description: Week-by-week schedule of lectures and discusions for Fall 2025. 
 nav_order: 4                    
 ---
 

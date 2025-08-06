@@ -1,5 +1,6 @@
 ---
-title: Syllabus     
+title: Syllabus 
+description: Overview of learning goals, grading, and policies for the Python DeCal.
 nav_order: 3                    
 ---
 

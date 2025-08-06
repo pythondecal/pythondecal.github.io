@@ -8,15 +8,12 @@ permalink: /
 
 # ASTRON 98: Python DeCal
 {: .fs-9 style="margin-bottom: 0.25rem;" }
-<!-- {: .fs-9 } -->
 
 ## Introduction to Python for UC Berkeley astrophysics students
-{: .fs-6 style="margin-top: 0;" }
-<!-- {: .fs-9 } -->
+{: .fs-6 style="margin-top: 0; margin-bottom: 0.75rem;" }
 
 Now accepting applications for the **Fall 2025 semester**!
 {: .fs-6 .fw-300 style="margin-top: 0;" }
-<!-- {: .fs-6 .fw-300 } -->
 
 [Apply for Fall 2025](https://forms.gle/rrsHmvT1r6EB1xut8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 

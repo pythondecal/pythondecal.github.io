@@ -1,5 +1,6 @@
 ---
-title: FAQ     
+title: FAQ    
+description: Frequently asked questions about the Python DeCal course, enrollment, and requirements.
 nav_order: 7                    
 ---
 
