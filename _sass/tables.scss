@@ -5,13 +5,19 @@
   display: block;
   width: 100%;
   max-width: 100%;
-  margin-top: 0;
+  margin-top: 0 !important;
   margin-bottom: 0;
   overflow-x: auto;
   border-radius: $border-radius;
   box-shadow:
     0 1px 2px rgba(0, 0, 0, 0.12),
     0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+// Fixes vertical spacing between heading and table
+h2 + .table-wrapper,
+h3 + .table-wrapper {
+  margin-top: 0 !important;
 }
 
 table {
@@ -30,7 +36,7 @@ thead {
     padding: $sp-2 $sp-3;
     background-color: $grey-lt-100;
     text-align: left;
-    border: 1px solid #999; // darker border
+    border: 1px solid #666; // darker border
   }
 }
 
@@ -41,14 +47,14 @@ tbody {
     }
 
     &:hover {
-      background-color: lighten($grey-lt-000, 5%);
+      background-color: lighten($grey-lt-000, 10%);
       transition: background-color 0.2s ease;
     }
 
     &:last-of-type {
       td {
         padding-bottom: $sp-3;
-        border-bottom: 1px solid #999; // ensure final row ends cleanly
+        border-bottom: 1px solid #666; // ensure final row ends cleanly
       }
     }
   }
