@@ -5,7 +5,8 @@
   display: block;
   width: 100%;
   max-width: 100%;
-  margin-bottom: $sp-5;
+  margin-top: 0;
+  margin-bottom: 0;
   overflow-x: auto;
   border-radius: $border-radius;
   box-shadow:
@@ -18,7 +19,7 @@ table {
   border-collapse: collapse;
   font-size: 1rem;
   margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 thead {
@@ -26,10 +27,10 @@ thead {
 
   th {
     font-weight: bold;
-    border: 1px solid $border-color;
     padding: $sp-2 $sp-3;
     background-color: $grey-lt-100;
     text-align: left;
+    border: 1px solid #999; // darker border
   }
 }
 
@@ -39,10 +40,15 @@ tbody {
       background-color: $grey-lt-000;
     }
 
+    &:hover {
+      background-color: lighten($grey-lt-000, 5%);
+      transition: background-color 0.2s ease;
+    }
+
     &:last-of-type {
       td {
-        border-bottom: 1px solid $border-color;
         padding-bottom: $sp-3;
+        border-bottom: 1px solid #999; // ensure final row ends cleanly
       }
     }
   }
@@ -52,13 +58,13 @@ th,
 td {
   min-width: 7rem;
   padding: $sp-2 $sp-3;
-  border: 1px solid $border-color;
+  border: 1px solid #aaa; // darker lines for rows/cols
   background-color: $white;
   vertical-align: top;
   text-align: left;
   line-height: $content-line-height;
 
   &:first-of-type {
-    border-left: 1px solid $border-color;
+    border-left: 1px solid #aaa;
   }
 }
