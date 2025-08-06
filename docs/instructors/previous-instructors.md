@@ -1,5 +1,6 @@
 ---
 title: Previous Instructors and Interns
+description: Meet the previous Python DeCal instructors and interns.
 parent: Instructors
 nav_order: 1
 ---

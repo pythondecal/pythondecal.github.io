@@ -1,5 +1,6 @@
 ---
 title: Instructors
+description: Meet the current Python DeCal undergraduate instructors.
 nav_order: 5
 has_children: true
 permalink: /docs/instructors/
