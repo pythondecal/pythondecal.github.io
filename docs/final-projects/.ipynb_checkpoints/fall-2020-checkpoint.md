@@ -1,5 +1,6 @@
 ---
 title: Fall 2020
+description: Final projects completed by Python DeCal students during the Fall 2020 semester.
 parent: Final Projects
 nav_order: 6
 ---

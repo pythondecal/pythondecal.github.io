@@ -1,5 +1,6 @@
 ---
 title: Spring 2025
+description: Final projects completed by Python DeCal students during the Spring 2025 semester.
 parent: Final Projects
 nav_order: 1
 ---

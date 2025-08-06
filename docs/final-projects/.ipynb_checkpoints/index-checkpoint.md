@@ -1,5 +1,6 @@
 ---
 title: Final Projects
+description: A collection of final project from students across different semesters of the Python DeCal. 
 nav_order: 2
 has_children: true
 permalink: /docs/final-projects/

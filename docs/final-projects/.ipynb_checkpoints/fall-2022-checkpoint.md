@@ -1,5 +1,6 @@
 ---
 title: Fall 2022
+description: Final projects completed by Python DeCal students during the Fall 2022 semester.
 parent: Final Projects
 nav_order: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: Spring 2021
+description: Final projects completed by Python DeCal students during the Spring 2021 semester.
 parent: Final Projects
 nav_order: 5
 ---
