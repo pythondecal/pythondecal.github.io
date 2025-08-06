@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Python DeCal at UC Berkeley. Learn Python and improve your computing skills. A course designed by undergraduates for undergraduates in the astrophysics major."
 permalink: /
 ---
 
