@@ -27,7 +27,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 
 | Name          | Position(s)        | Favorite Astronomical Object |
 |---------------|--------------------|------------------------------|
-| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| Jupiter |
+| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| The Moon |
 | Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Intern (Fall 2025)| Sirius A |
 
 ## Faculty Sponsor
