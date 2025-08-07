@@ -18,7 +18,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 | Charlie Tolley<br>(tolley412@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Head Instructor (Spring 2024 – Fall 2024)<br>Instructor (Spring 2023 – Fall 2024)<br>Intern (Fall 2022)| Orion Nebula |
 | Pranathi Kolla<br>(pranathik@berkeley.edu)| Instructor (Spring 2023 – Present)<br>Intern (Fall 2022)| Pillars of Creation |
 | Mira Bhatt<br>(mirabhatt@berkeley.edu)| Instructor (Fall 2023 – Present)<br>Intern (Spring 2023)| The Moon |
-| Katie Mora<br>(katherinemora@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)| ??? |
+| Katie Mora<br>(katherinemora@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)| JWST-ER1 |
 | Mariam Helal<br>(mariam.helal@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Io |
 | William Lee<br>(williamlee8@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Orion Nebula |
 | Safia Barmada<br>(sbarmada@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| The Moon |
