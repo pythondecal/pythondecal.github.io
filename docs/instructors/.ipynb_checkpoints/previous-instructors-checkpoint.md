@@ -6,8 +6,8 @@ nav_order: 1
 ---
 # Previous Instructors and Interns
 
-| Last Semester | Name               | Position(s)           | Length   | Current Affiliation                             |
-|---------------|--------------------|-----------------------|----------|-------------------------------------------------|
+| Last Semester | Name                 | Position(s)           | Length   | Current Affiliation                           |
+|---------------|----------------------|-----------------------|----------|-----------------------------------------------|
 | Spring 2025   | Mahum Khan           | Intern → Instructor   | 3 yrs    | —                                             |
 | Fall 2024     | Yuhan Chen           | Intern                | <1 yr    | —                                             |
 | Spring 2024   | Megan Ann Joseph     | Instructor → Head     | 3 yrs    | —                                             |
@@ -34,18 +34,15 @@ The Python DeCal Staff do their best to keep this list up to date. If you are a 
 
 ## Previous Faculty Sponsors
 
-Eugene Chiang (echiang@astro.berkeley.edu)<br>
-(Spring 2022 - Spring 2025)
+Eugene Chiang (echiang@astro.berkeley.edu)<br>(Spring 2022 - Spring 2025)
 
 <img src="/assets/images/eugene_chiang.png" alt="Photo of Eugene Chiang" width="250">
 
-Daniel Weisz (echiang@astro.berkeley.edu)<br>
-(Spring 2019)
+Daniel Weisz (echiang@astro.berkeley.edu)<br>(Spring 2019)
 
 <img src="/assets/images/daniel_weisz.png" alt="Photo of Daniel Weisz" width="250">
 
-Mariska Kriek
-(Spring 2018)
+Mariska Kriek<br>(Spring 2018)
 
 <img src="/assets/images/mariska_kriek.png" alt="Photo of Mariska Kriek" width="250">
 
