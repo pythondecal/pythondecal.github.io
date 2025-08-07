@@ -20,13 +20,24 @@ nav_order: 1
 | Unknown       | Annie McCutcheon   | Instructor            | 1 yr     | JD Candidate, UC Davis School of Law         |
 |               | Yilun Ma           | Instructor            | —        | PhD Student, Princeton                       |
 |               | Fanghui Wa         | Instructor            | —        | PhD Student, Stanford                        |
-
+| Spring 2019   | Nicholas Rui       | Instructor            | -        | —                                            |
+| Spring 2019   | Orion Lyau         | Instructor            | -        | —                                            |
+| Spring 2019   | Alexander Ye       | Instructor            | -        | —                                            |
+| Spring 2019   | Sabrina Berger     | Instructor            | -        | —                                            |
+| Spring 2019   | Aini Xu            | Instructor            | -        | —                                            |
+| Spring 2019   | Ryan Dana          | Instructor            | -        | —                                            |
 
 The Python DeCal Staff do their best to keep this list up to date. If you are a previous member of the Python DeCal Staff and your information is either incorrect or missing, please reach of to the Head Instructor Brianna Peck at bpeck114@berkeley.edu
 
 ## Previous Faculty Sponsor
 
 Eugene Chiang (echiang@astro.berkeley.edu)
+(Spring 2022 - Spring 2025)
 
 <img src="/assets/images/eugene_chiang.png" alt="Description of image" width="250">
+
+Daniel Weisz (echiang@astro.berkeley.edu)
+(Spring 2019)
+
+<img src="/assets/images/daniel_weisz.png" alt="Description of image" width="250">
 
