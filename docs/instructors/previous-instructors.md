@@ -23,3 +23,10 @@ nav_order: 1
 
 
 The Python DeCal Staff do their best to keep this list up to date. If you are a previous member of the Python DeCal Staff and your information is either incorrect or missing, please reach of to the Head Instructor Brianna Peck at bpeck114@berkeley.edu
+
+## Previous Faculty Sponsor
+
+Eugene Chiang (echiang@astro.berkeley.edu)
+
+<img src="/assets/images/eugene_chiang.png" alt="Description of image" width="250">
+
