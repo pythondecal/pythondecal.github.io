@@ -41,5 +41,5 @@ Aaron Parsons (aparsons@berkeley.edu)
 
 Check out the amazing people who have helped build and teach the Python DeCal over the years. 
 
-[See past team members →](/docs/instructors/previous-instructors/)
+[See past team members →](docs/instructors/previous-instructors.md)
 {: .btn .btn-outline }
