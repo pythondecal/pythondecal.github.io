@@ -19,27 +19,27 @@ nav_order: 1
 | Unknown       | Ayla Weitz           | Instructor            | 1 yr     | PhD Student, University of Colorado Boulder   |
 | Unknown       | Annie McCutcheon     | Instructor            | 1 yr     | JD Candidate, UC Davis School of Law          |
 | Unknown       | Yilun Ma             | Instructor            | —        | PhD Student, Princeton                        |
-|  Unknown      | Fanghui Wa           | Instructor            | —        | PhD Student, Stanford                         |
-| Spring 2019   | Nicholas Rui         | Instructor            | -        | —                                             |
+| Unknown       | Fanghui Wa           | Instructor            | —        | PhD Student, Stanford                         |
+| Spring 2019   | Nicholas Rui         | Instructor            | -        | Hubble Fellow, Princeton + PhD, Caltech       |
 | Spring 2019   | Orion Lyau           | Instructor            | -        | —                                             |
-| Spring 2019   | Alexander Ye         | Instructor            | -        | —                                             |
-| Spring 2019   | Sabrina Berger       | Instructor            | -        | —                                             |
-| Spring 2019   | Aini Xu              | Instructor            | -        | —                                             |
-| Spring 2019   | Ryan Dana            | Instructor            | -        | —                                             |
-| Spring 2018   | Makena Fetzer        | Instructor            | -        | -                                             |
+| Spring 2019   | Alexander Ye         | Instructor            | -        | Software Developer, Paces                     |
+| Spring 2019   | Sabrina Berger       | Instructor            | -        | PhD Student, University of Melbourne          |
+| Spring 2019   | Aini Xu              | Instructor            | -        | Software Engineer, Google                     |
+| Spring 2019   | Ryan Dana            | Instructor            | -        | Technial Staff, Amazon                        |
+| Spring 2018   | Makena Fetzer        | Instructor            | <1 yr    | Sales Manager, Space X                        |
 | Spring 2017   | Imad Pasha           | Instructor            | 3 yrs    | Senior Scientist, Dragonfly + PhD, Yale       |
-| Spring 2018   | Christopher Agostino | Instructor            | -        |  -                                            |
+| Spring 2017   | Christopher Agostino | Instructor            | 2 yrs    | Software Engineer + PhD, Indiana Bloomington  |
 
 The Python DeCal Staff do their best to keep this list up to date. If you are a previous member of the Python DeCal Staff and your information is either incorrect or missing, please reach of to the Head Instructor Brianna Peck at bpeck114@berkeley.edu
 
-## Previous Faculty Sponsor
+## Previous Faculty Sponsors
 
-Eugene Chiang (echiang@astro.berkeley.edu)
+Eugene Chiang (echiang@astro.berkeley.edu)<br>
 (Spring 2022 - Spring 2025)
 
 <img src="/assets/images/eugene_chiang.png" alt="Photo of Eugene Chiang" width="250">
 
-Daniel Weisz (echiang@astro.berkeley.edu)
+Daniel Weisz (echiang@astro.berkeley.edu)<br>
 (Spring 2019)
 
 <img src="/assets/images/daniel_weisz.png" alt="Photo of Daniel Weisz" width="250">
