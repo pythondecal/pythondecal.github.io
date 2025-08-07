@@ -21,9 +21,9 @@ Now accepting applications for the **Fall 2025 semester**!
 
 ## About the Course
 
-The Python DeCal is a course designed by undergraduates for undergraduates to learn the basics of Python, plotting, and data analysis, specifically tailored for the UC Berkeley Astrophysics major. 
+The Python DeCal is a two-unit pass/no-pass course that provides an introduction to the Python programming language with an emphasis on data analysis and scientific research. We focus primarily on applications in astronomy, physics, earth & planetary science, math and engineering. If you already have a strong coding background, this class might not be the best fit for you. However, if you are interested in learning how to apply your coding skills to research, we encourage you to apply! 
 
-No prior programming experience required!
+**No prior programming experience required!**
 
 ## Logistics
 
@@ -35,7 +35,7 @@ No prior programming experience required!
 
 To apply for the Fall 2025 semester, please [fill out this Google Form](https://forms.gle/rrsHmvT1r6EB1xut8).
 
-Applications are due no later **August 29th, 2025**. We will send out enrollment codes on a rolling basis. Please check your email frequently.
+Applications are due no later **August 29th, 2025**. Enrollment codes will be sent out on a rolling basis before our first lecture on **August 27th at 4:00 PM in 131 Campbell Hall**.
 
 ## Check out Final Projects from Spring 2025
 
@@ -54,6 +54,8 @@ Applications are due no later **August 29th, 2025**. We will send out enrollment
 </section>
 
 ## Learn More
+
+The workload for this DeCal is a bit heavier than most, with students spending an average of 3–6 hours per week. We are known to be a challenging class, especially if you have no prior experience, but it's definitely worth it! We have a large team of instructors who provide a lot of one-on-one support.
 
 - [Syllabus](docs/syllabus.md)
 - [Weekly Schedule](docs/schedule.md)
@@ -140,7 +142,7 @@ If you have any questions, comments, or concerns, please e-mail the Head Instruc
     .description {
       opacity: 0;
       transition: opacity 0.3s ease 0.1s;
-      font-size: 1rem;
+      font-size: 1.2rem;
       margin-top: 1.2rem;
       max-width: 85%;
     }
