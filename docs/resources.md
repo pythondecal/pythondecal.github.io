@@ -6,55 +6,52 @@ nav_order: 6
 
 # Resources
 
-Over the years we have gathered a list of resources for students. 
+Over the years we have gathered a list of resources for students.
 
 ## YouTube Channel
 
-The Python DeCal records every single class and uploads the recording to our YouTube Channel: https://www.youtube.com/@pythondecal5340/videos
+Instructors record every single class and upload the recording to our YouTube Channel: 
 
-We have a large catalog dating back to Spring 2021. Material, expectations and content change year-to-year in the Python DeCal so keep that in mind if you watch previous videos.
+**[Python DeCal YouTube Channel](https://www.youtube.com/@pythondecal5340/videos)**
+
+The channel has a large catalog of videos, dating back to the Spring 2021 semester. Keep in mind that materials used, academic expectations, and course content change from year-to-year, so older videos may differe from the current version of the course. 
 
 ## Textbooks 
 
-All of the following materials are optional. We do not follow the structure of a published textbook. However, there was a course text called **Python for Astronomers: An Introduction to Scientific Computing** written by a previous facilliators (Imad Pasha and Christopher Agostino) that was lasted updated in 2019. It is currently available as a text on GitHub:
+All of the materials in this section are optional. We do **not** follow a published textbook structure in class, but these can be helpful resources: 
 
-https://github.com/prappleizer/prappleizer.github.io
+- **Python for Astronomers: An Introduction to Scientific Computing**  
+  Written by previous facilitators (Imad Pasha and Christopher Agostino), last updated in 2019.  
+  [GitHub Link](https://github.com/prappleizer/prappleizer.github.io)
 
-
-Imad Pasha also published an offical textbook called **Astronomical Python: An introduction to modern scientific programming** in May 2024: https://iopscience.iop.org/book/mono/978-0-7503-5147-8
+- **Astronomical Python: An Introduction to Modern Scientific Programming**  
+  Official textbook by Imad Pasha, published in May 2024.  
+  [IOPscience Link](https://iopscience.iop.org/book/mono/978-0-7503-5147-8)
 
 ## Guides
 
-These following guides were developed by the Python DeCal staff over the years. Many of them are used as supplemental materials throughout the semester:
+These guides were created by the Python DeCal staff over the years. Many are used as supplemental materials during the semester.
 
-[Installation Guide](../../assets/guides/installation_guide.pdf)
+### [The Installation Guide](../../assets/guides/installation_guide.pdf)
+**Description:**  
+The Installation Guide walks you through how to install all the software you will need for the semester.
+Yes, this guide looks very long, but that's mainly because we have included tons of pictures to make the guide easier to follow.
+If you git any bugs or errors (which is completly normal), just reach out in class, on EdStem or during office hours.
+Additionally, if you find any mistakes, please email the head instructor Brianna Peck at bpeck114@berkeley.edu
 
-**Description**: Welcome to the Python DeCal Installation Guide! This document will walk you through how to
-install all the software you’ll need for the semester.
-While we’ve tried to make every step as clear as possible, you might still run into a bug or error.
-This is totally normal. No stress! If anything goes wrong, please feel free to reach out to a Python
-DeCal staff member in class, on EdStem, or during office hours.
-We are a bit short on time, so please try to get through these steps as soon as your can. This
-guide may look long, but that’s mostly because we included lots of pictures to guide you through
-the installation process. Best of luck!
+### [The Git and GitHub Guide (GGG)](../../assets/guides/git_and_github_guide.pdf)
+**Description:**  
+The Git and GitHub Guide (GGG) is a one-stop guide for helping you through everything related to Git and GitHub for this course.
+Topic include, adding, comitting, pushing, pulling, branching, etc. 
+The Python DeCal works with GitHub throughout the semester, so this Guide is helpful if you need a refresher on the foundations of version control with Git. 
 
-[Git and GitHub Guide (GGG)](../../assets/guides/git_and_github_guide.pdf)
+## Other Links 
 
-**Description:** Welcome to the Git and GitHub Guide (informally known as the GGG). This guide is meant to be
-a place to help you use Git and GitHub on a daily basis. During this course you will be expected
-to use GitHub in a variety of ways: adding, committing, pushing, cloning, pulling, branching, etc!
-A lot of students in the past have requested a one-stop place for how to Git and GitHub so we
-finally decided to put all that information here.
-Best of luck!
+Here are some external tools/resources that instructors and previous students have found useful:
 
-## Other
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)  
+  Provides beginner-friendly explanations and tutorials for Python.
 
-Here is just a list of materials that students and instructors have felt are useful to learn Python and related skills:
-
-w3 schools: https://www.w3schools.com/python/default.asp
-
-Python Guide (by Imad Pasha): https://prappleizer.github.io/#guides
-
-
-
+- [Python Guide (by Imad Pasha)](https://prappleizer.github.io/#guides)  
+  A collection of demos and notes. Some of this material is beyond the scope of this course. But provide great ideas for Final Projects!
 
