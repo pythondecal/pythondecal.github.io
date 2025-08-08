@@ -8,6 +8,8 @@ nav_order: 6
 
 Over the years we have gathered a list of resources for students.
 
+---
+
 ## YouTube Channel
 
 Instructors record every single class and upload the recording to our YouTube Channel: 
@@ -15,6 +17,8 @@ Instructors record every single class and upload the recording to our YouTube Ch
 **[Python DeCal YouTube Channel](https://www.youtube.com/@pythondecal5340/videos)**
 
 The channel has a large catalog of videos, dating back to the Spring 2021 semester. Keep in mind that materials used, academic expectations, and course content change from year-to-year, so older videos may differ from the current version of the course. 
+
+---
 
 ## Textbooks 
 
@@ -27,6 +31,8 @@ All of the materials in this section are optional. We do **not** follow a publis
 - **Astronomical Python: An Introduction to Modern Scientific Programming**  
   Official textbook by Imad Pasha, published in May 2024.  
   [IOPscience Link](https://iopscience.iop.org/book/mono/978-0-7503-5147-8)
+
+---
 
 ## Guides
 
@@ -44,6 +50,8 @@ Additionally, if you find any mistakes, please email the head instructor Brianna
 The Git and GitHub Guide (GGG) is a one-stop guide for helping you through everything related to Git and GitHub for this course.
 Topics include, adding, committing, pushing, pulling, branching, etc. 
 The Python DeCal works with GitHub throughout the semester, so this guide is helpful if you need a refresher on the foundations of version control with Git. 
+
+---
 
 ## Other Links 
 
