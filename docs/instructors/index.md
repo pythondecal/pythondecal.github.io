@@ -10,6 +10,24 @@ permalink: /docs/instructors/
 
 The following is a list of current instructors and interns on the Python DeCal staff. 
 
+<div class="photo-rotator-wrap">
+  <h2>Meet the Python DeCalTeam</h2>
+
+  <div class="photo-rotator" id="rotator-team" data-interval="3500" aria-live="polite">
+    <!-- Headshots (all instructors + interns) -->
+    <img src="/assets/images/staff-photos/brianna_peck.jpg"  alt="Brianna Peck"  data-name="Brianna Peck"  class="active">
+    <img src="/assets/images/instructors/milanaphotohi.JPG"  alt="Milana Berhe"  data-name="Milana Berhe">
+  </div>
+
+  <!-- Caption updates automatically -->
+  <div class="rotator-caption" id="rotator-team-caption">Brianna Peck</div>
+
+  <div class="rotator-controls">
+    <button class="rotator-btn" data-target="rotator-team" data-action="prev" aria-label="Previous photo">‹</button>
+    <button class="rotator-btn" data-target="rotator-team" data-action="next" aria-label="Next photo">›</button>
+  </div>
+</div>
+
 ## Instructors
 
 | Name           | Position(s)                                                         | Favorite Astronomical Object |
@@ -43,3 +61,76 @@ Check out the amazing people who have helped build and teach the Python DeCal ov
 
 [See past team members →](docs/instructors/previous-instructors.md)
 {: .btn .btn-outline }
+
+<style>
+.photo-rotator-wrap { display:inline-block; margin:1rem 0 2rem; }
+.photo-rotator { position:relative; width:260px; height:260px; overflow:hidden; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,.12); }
+.photo-rotator img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:0; transition:opacity .4s ease; }
+.photo-rotator img.active { opacity:1; }
+.rotator-caption { margin-top:.5rem; text-align:center; font-weight:600; }
+.rotator-controls { display:flex; gap:.5rem; justify-content:center; margin-top:.4rem; }
+.rotator-btn { border:0; padding:.3rem .6rem; border-radius:999px; box-shadow:0 2px 8px rgba(0,0,0,.1); cursor:pointer; background:#f2f2f2; font-size:1.2rem; line-height:1; }
+.rotator-btn:hover { background:#e8e8e8; }
+@media (max-width:500px){ .photo-rotator{ width:100%; height:220px; } }
+</style>
+
+<script>
+(function () {
+  function makeRotator(root, captionEl) {
+    const imgs = Array.from(root.querySelectorAll('img'));
+    if (!imgs.length) return;
+    let i = imgs.findIndex(img => img.classList.contains('active'));
+    if (i < 0) { i = 0; imgs[0].classList.add('active'); }
+    const intervalMs = parseInt(root.getAttribute('data-interval') || '3500', 10);
+
+    function setCaption() {
+      if (!captionEl) return;
+      const name = imgs[i].getAttribute('data-name') || imgs[i].alt || '';
+      captionEl.textContent = name;
+    }
+
+    function show(idx) {
+      imgs[i].classList.remove('active');
+      i = (idx + imgs.length) % imgs.length;
+      imgs[i].classList.add('active');
+      setCaption();
+    }
+    function next() { show(i + 1); }
+    function prev() { show(i - 1); }
+
+    let timer = setInterval(next, intervalMs);
+    function stop() { clearInterval(timer); }
+    function start() { timer = setInterval(next, intervalMs); }
+
+    root.addEventListener('mouseenter', stop);
+    root.addEventListener('mouseleave', start);
+
+    // basic keyboard support
+    root.tabIndex = 0;
+    root.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') next();
+      if (e.key === 'ArrowLeft')  prev();
+    });
+
+    setCaption();
+    return { next, prev };
+  }
+
+  const rotators = {};
+  document.querySelectorAll('.photo-rotator').forEach(r => {
+    const caption = document.getElementById(r.id + '-caption');
+    rotators[r.id] = makeRotator(r, caption);
+  });
+
+  document.querySelectorAll('.rotator-btn').forEach(btn => {
+    const tgt = btn.getAttribute('data-target');
+    const action = btn.getAttribute('data-action');
+    btn.addEventListener('click', () => {
+      const r = rotators[tgt];
+      if (!r) return;
+      if (action === 'next') r.next();
+      if (action === 'prev') r.prev();
+    });
+  });
+})();
+</script>
