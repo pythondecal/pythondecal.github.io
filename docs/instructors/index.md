@@ -15,7 +15,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 
   <div class="photo-rotator" id="rotator-team" data-interval="3500" aria-live="polite">
     <!-- Headshots (all instructors + interns) -->
-    <img src="/assets/images/staff-photos/brianna_peck.jpg"  alt="Brianna Peck"  data-name="Brianna Peck"  class="active">
+    <img src="/assets/images/staff-photos/brianna.png"  alt="Brianna Peck"  data-name="Brianna Peck"  class="active">
     <img src="/assets/images/instructors/milanaphotohi.JPG"  alt="Milana Berhe"  data-name="Milana Berhe">
   </div>
 
