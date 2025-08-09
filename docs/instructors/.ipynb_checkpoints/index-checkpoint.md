@@ -62,15 +62,15 @@ Check out the amazing people who have helped build and teach the Python DeCal ov
 {: .btn .btn-outline }
 
 <style>
-.photo-rotator-wrap { display:inline-block; margin:1rem 0 2rem; }
-.photo-rotator { position:relative; width:260px; height:260px; overflow:hidden; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,.12); }
-.photo-rotator img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:0; transition:opacity .4s ease; }
-.photo-rotator img.active { opacity:1; }
-.rotator-caption { margin-top:.5rem; text-align:center; font-weight:600; }
-.rotator-controls { display:flex; gap:.5rem; justify-content:center; margin-top:.4rem; }
-.rotator-btn { border:0; padding:.3rem .6rem; border-radius:999px; box-shadow:0 2px 8px rgba(0,0,0,.1); cursor:pointer; background:#f2f2f2; font-size:1.2rem; line-height:1; }
-.rotator-btn:hover { background:#e8e8e8; }
-@media (max-width:500px){ .photo-rotator{ width:100%; height:220px; } }
+    .photo-rotator-wrap { display:inline-block; margin:1rem 0 2rem; }
+    .photo-rotator { position:relative; width:260px; height:260px; overflow:hidden; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,.12); }
+    .photo-rotator img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:0; transition:opacity .4s ease; }
+    .photo-rotator img.active { opacity:1; }
+    .rotator-caption { margin-top:.5rem; text-align:center; font-weight:600; }
+    .rotator-controls { display:flex; gap:.5rem; justify-content:center; margin-top:.4rem; }
+    .rotator-btn { border:0; padding:.3rem .6rem; border-radius:999px; box-shadow:0 2px 8px rgba(0,0,0,.1); cursor:pointer; background:#f2f2f2; font-size:1.2rem; line-height:1; }
+    .rotator-btn:hover { background:#e8e8e8; }
+    @media (max-width:500px){ .photo-rotator{ width:100%; height:220px; } }
 </style>
 
 <script src="/assets/js/rotator.js" defer></script>
