@@ -50,8 +50,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 
 ## Faculty Sponsor
 
-Aaron Parsons (aparsons@berkeley.edu)
-(Fall 2025 - Present)
+Aaron Parsons (aparsons@berkeley.edu)<br>(Fall 2025 - Present)
 
 <img src="/assets/images/aaron_parsons.png" alt="Photo of Aaron Parsons" width="250">
 
