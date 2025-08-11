@@ -62,15 +62,48 @@ Check out the amazing people who have helped build and teach the Python DeCal ov
 {: .btn .btn-outline }
 
 <style>
-    .photo-rotator-wrap { display:inline-block; margin:1rem 0 2rem; }
-    .photo-rotator { position:relative; width:260px; height:260px; overflow:hidden; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,.12); }
-    .photo-rotator img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; opacity:0; transition:opacity .4s ease; }
-    .photo-rotator img.active { opacity:1; }
-    .rotator-caption { margin-top:.5rem; text-align:center; font-weight:600; }
-    .rotator-controls { display:flex; gap:.5rem; justify-content:center; margin-top:.4rem; }
-    .rotator-btn { border:0; padding:.3rem .6rem; border-radius:999px; box-shadow:0 2px 8px rgba(0,0,0,.1); cursor:pointer; background:#f2f2f2; font-size:1.2rem; line-height:1; }
-    .rotator-btn:hover { background:#e8e8e8; }
-    @media (max-width:500px){ .photo-rotator{ width:100%; height:220px; } }
+  :root { --rotator-size: 460px; } /* bump this to taste */
+
+  .photo-rotator-wrap {
+    display: block;
+    margin: 1.5rem auto 2.5rem;
+    text-align: center;          /* centers caption + buttons */
+    max-width: min(100%, 800px); /* keeps it tidy on wide screens */
+  }
+
+  .photo-rotator {
+    position: relative;
+    width: var(--rotator-size);
+    height: var(--rotator-size);
+    margin: 0 auto;              /* centers the square */
+    overflow: hidden;
+    border-radius: 18px;
+    box-shadow: 0 8px 26px rgba(0,0,0,.12);
+  }
+
+  .photo-rotator img {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%;
+    object-fit: cover;
+    opacity: 0; transition: opacity .5s ease;
+  }
+  .photo-rotator img.active { opacity: 1; }
+
+  .rotator-caption { margin-top: .65rem; font-weight: 600; }
+
+  .rotator-controls {
+    display: flex; gap: .65rem; justify-content: center; margin-top: .5rem;
+  }
+  .rotator-btn {
+    border: 0; padding: .4rem .7rem; border-radius: 999px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.12);
+    cursor: pointer; background: #f2f2f2; font-size: 1.2rem; line-height: 1;
+  }
+  .rotator-btn:hover { background: #e8e8e8; }
+
+  @media (max-width: 560px) {
+    :root { --rotator-size: 300px; }
+  }
 </style>
 
 <script src="/assets/js/rotator.js" defer></script>
