@@ -13,7 +13,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 <div class="photo-rotator-wrap">
   <h2>Meet the Python DeCalTeam</h2>
 
-  <div class="photo-rotator" id="rotator-team" data-interval="3500" aria-live="polite">
+  <div class="photo-rotator" id="rotator-team" data-interval="5500" aria-live="polite">
     <!-- Headshots (all instructors + interns) -->
     <img src="/assets/images/staff-photos/brianna.png"  alt="Brianna Peck"  data-name="Brianna Peck"  class="active">
     <img src="/assets/images/staff-photos/mirapic.jpeg"  alt="Mira Bhat"  data-name="Mira Bhat">
@@ -32,7 +32,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 
 ## Instructors
 
-| Name           | Position(s)                                                         | Favorite Astronomical Object |
+| Name + Email   | Position(s)                                                         | Favorite Astronomical Object |
 |----------------|---------------------------------------------------------------------|------------------------------|
 | Brianna Peck<br>(bpeck114@berkeley.edu)| Head Instructor (Spring 2025 – Present)<br> Instructor (Fall 2023 – Fall 2024)<br>Intern (Spring 2023) | Massive Population III Stars |
 | Charlie Tolley<br>(tolley412@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Head Instructor (Spring 2024 – Fall 2024)<br>Instructor (Spring 2023 – Fall 2024)<br>Intern (Fall 2022)| Orion Nebula |
@@ -45,7 +45,7 @@ The following is a list of current instructors and interns on the Python DeCal s
 
 ## Interns
 
-| Name          | Position(s)        | Favorite Astronomical Object |
+| Name + Email  | Position(s)        | Favorite Astronomical Object |
 |---------------|--------------------|------------------------------|
 | Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| The Moon |
 | Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Intern (Fall 2025)| Sirius A |
