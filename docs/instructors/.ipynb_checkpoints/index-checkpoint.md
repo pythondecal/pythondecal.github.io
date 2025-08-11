@@ -16,9 +16,9 @@ The following is a list of current instructors and interns on the Python DeCal s
   <div class="photo-rotator" id="rotator-team" data-interval="5500" aria-live="polite">
     <!-- Headshots (all instructors + interns) -->
     <img src="/assets/images/staff-photos/brianna.png"  alt="Brianna Peck"  data-name="Brianna Peck"  class="active">
-    <img src="/assets/images/staff-photos/mirapic.jpeg"  alt="Mira Bhat"  data-name="Mira Bhatt">
+    <img src="/assets/images/staff-photos/mira.png"  alt="Mira Bhatt"  data-name="Mira Bhatt">
     <img src="/assets/images/staff-photos/milanaphotohi.JPG"  alt="Milana Berhe"  data-name="Milana Berhe">
-    <img src="/assets/images/staff-photos/olivia_s.PNG"  alt="Olivia Silvia"  data-name="Olivia Silvia">
+    <img src="/assets/images/staff-photos/olivia.png"  alt="Olivia Silvia"  data-name="Olivia Silvia">
   </div>
 
   <!-- Caption updates automatically -->
@@ -60,7 +60,7 @@ Aaron Parsons (aparsons@berkeley.edu)<br>(Fall 2025 - Present)
 
 Check out the amazing people who have helped build and teach the Python DeCal over the years. 
 
-[See past team members →](docs/instructors/previous-instructors.md)
+[See past team members →](/docs/instructors/previous-instructors.md)
 {: .btn .btn-outline }
 
 <style>

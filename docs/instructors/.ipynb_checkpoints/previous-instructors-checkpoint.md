@@ -30,7 +30,7 @@ nav_order: 1
 | Spring 2017   | Imad Pasha           | Instructor            | 3 yrs    | Senior Scientist, Dragonfly + PhD, Yale       |
 | Spring 2017   | Christopher Agostino | Instructor            | 2 yrs    | Software Engineer + PhD, Indiana Bloomington  |
 
-The Python DeCal Staff do their best to keep this list up to date. If you are a previous member of the Python DeCal Staff and your information is either incorrect or missing, please reach of to the Head Instructor Brianna Peck at bpeck114@berkeley.edu
+The Python DeCal staff do their best to keep this list up to date. If you are a previous member of the Python DeCal team and your information is incorrect or missing, please reach out to the Head Instructor, Brianna Peck, at bpeck114@berkeley.edu.
 
 ## Previous Faculty Sponsors
 
