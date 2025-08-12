@@ -24,11 +24,6 @@ The following is a list of current instructors and interns on the Python DeCal s
 
   <!-- Caption updates automatically -->
   <div class="rotator-caption" id="rotator-team-caption">Brianna Peck</div>
-
-  <div class="rotator-controls">
-    <button class="rotator-btn" data-target="rotator-team" data-action="prev" aria-label="Previous photo">‹</button>
-    <button class="rotator-btn" data-target="rotator-team" data-action="next" aria-label="Next photo">›</button>
-  </div>
 </div>
 
 ## Instructors
