@@ -118,101 +118,140 @@ All course-related content will be available on our **bCourses** site, unless ot
 - **Office hours** −→ posted under the **Home** section
 - **Grades** −→ posted under the **Grades** section
 
+## Gradescope
+
+All assignments for the Python DeCal will be submitted via **Gradescope.** This includes homework, lecture engage-
+ments, Google Form submissions, and all assignments related to the **Final Project.**
+
+After the first homework, all homework submissions must be GitHub repositories uploaded to **Gradescope**.
+
+## EdStem
+
+**EdStem** is our main **Q&A platform** where students can ask questions and receive timely answers from course staff
+and peers. We highly recommend using EdStem over email, as it enables collaborative learning and quicker response
+times.
+
+If you need to contact a staff member directly, please include **[PYTHON DECAL]** or **[ASTRON 98]** in the subject line
+of your email so it can be identified quickly. For logistical or urgent matters, contact the Head Instructor Brianna
+Peck at bpeck114@berkeley.edu.
+
+## YouTube Channel
+
+For supplemental review and asynchronous learning, the Python DeCal records and posts all course videos to our [YouTube
+channel](https://www.youtube.com/channel/UCHFI8dqee7nYlNWaXyv_04g). While these videos are a helpful resource, 
+we **highly recommend attending all classes in person** to benefit the most from this course.
+
+If you can only participate asynchronously, **we strongly recommend attending office hours** outside of class to stay on
+track to get personalized support.
+
 ## Office Hours
-Office hours provide a dedicated space for students to ask questions and collaborate with peers outside of regular class
-times. We strongly encourage attending office hours weekly and taking the opportunity to connect with the Python DeCal
-staff, especially at the beginning of the semester. Even if you don’t have any course-related questions, you’re welcome
-to drop by—we’re happy to offer guidance on selecting or declaring a major, finding research opportunities or exploring
-summer programs on/off campus.
 
-However, please note that course-related questions will take priority during office hours. As Final Project deadlines
-approach, office hours tend to get busier, so plan accordingly when seeking assistance. The finalized office hours scheduled
-will be posted to bCourses by the end of the second week.
+Course staff office hours provide a dedicated space for students to ask questions, collaborate with peers outside of
+regular class times, and get **one-on-one support.** We strongly encourage attending office hours weekly and taking
+the opportunity to connect with staff members. If you are struggling to come up with an idea for your **Final Project** or
+implementing your idea, office hours are a great place to get help.
 
-## Grading Breakdown
-- **Participation 10%**
-- **Homework 60%**
-- **Final Project 30%**
+Even if you don’t have course-related questions, our interns and instructors are more than happy to offer guidance on
+selecting or declaring a major, finding research opportunities, applying to graduate school, or exploring
+summer programs on and off campus.
 
-**A grade of 70% or above AND an attempt on the final project is required to pass this class.**
+The finalized office hours schedule will be posted to **bCourses** by the end of Week 2. Additional office hours will be
+held during the first two weeks of the course to help students install the software needed for the semester.
 
-### Attendance & Participation (10% of your grade)
+# Grading Breakdown
+- ## **Participation 20%**
+- ## **Homework 40%**
+- ## **Final Project 40%**
 
-Class meets twice a week. Most weeks will follow a structure of a lecture on Monday to introduce new material, followed
-by a discussion on Wednesday where you’ll practice applying concepts through hands-on coding exercises. Discussions
-are collaborative and informal, with course staff available to assist as your work through guided problems.
-Please bring your laptops to all lectures and discussions so you can follow along and participate actively. However,
-during warm-ups we may ask you to put away your computers and write your answers on paper.
+**To pass the Python DeCal, you must earn a grade of 70% or above and submit an attempt for all assignments
+related to the Final Project.**
 
-In addition to regular class meetings, we will have a few dedicated Final Project workdays later in the semester. These
-sessions are meant to give you time to make progress on your projects, and receive real-time support from the course
-staff.
+## Participation (20% of your grade)
 
-If you are unable to attend a class section, recordings of lectures will be uploaded to our YouTube channel and linked
-on the bCourses homepage. While asynchronous access is available, we strongly encourage attending in person when
-possible——especially since course content and delivery may change from year to year.
+Class meets **twice a week,** with most weeks following this structure:
 
-Attendance is not required or tracked. However, we will assign occasional participation assignments throughout the
-semester to help you stay on track. These are brief tasks (10-30 minutes) and are designed to support your learning——not
-add to your workload like a full homework assignment.
+- **Monday** −→ Lecture to introduce new material (more formal, led by instructors/interns with demos)
+- **Wednesday** −→ Discussion to apply lecture material through hands-on practice (more collaborative, with staff
+assisting as students work through guided problems)
 
-### Homework (60% of your grade)
+A **laptop is required** for all lectures and discussions. If you do not bring a computer, you will not be able to follow along
+easily or participate fully. Laptops should only be brought out after warm-up activities, which must be completed on
+paper to avoid the temptation of asking Google or ChatGPT directly for answers.
 
-Homework is assigned weekly and due the following Monday at 11:59 PM on Gradescope via your GitHub repository.
-Homework will reinforce material from lectures and encourage hands-on exploration of new concepts.
+###  Lecture Engagements
 
-- There is no penalty for late submissions within a 2-week grace period from the original due date. If you
-need even more time, please reach out for accommodations.
-- Homework is graded on effort and accuracy. You’ll earn most of the points as long as you show clear thought and
-honest attempts——even if your answers aren’t fully correct.
-- Collaboration is allowed, but each student must submit their own original work. Avoid direct use of AI-
-generated answers to preserve your learning experience.
+Instead of tracking in-person attendance, we will track your engagement with class material. Lecture engagement assign-
+ments will make up the most significant portion of your participation grade.
 
-Homework will be assigned weekly, covering topics discussed in lectures. Homework will be released on Tuesdays after class
-and will be due the following Tuesday at 11:59 PM, unless otherwise specified, giving you a full week to complete it. All
-homework must be submitted on Gradescope via the GitHub repository you will set up in class. We offer a 2-week grace
-period for submitting late homework after the original due date, with no penalty applied. If you need additional time
-beyond this, please contact the course staff to discuss accommodations.
+- Students will complete **lecture engagement** assignments each day of class. These open the day of class and close
+before the next class begins.
+- Students have until the end of the semester to submit late lecture engagement assignments.
+- Only 70% completion of lecture engagement assignments (for example, **19 out of 27** assignments) is required for
+full credit.
+- Assignments (5-20 minutes) are submitted via **Gradescope.**
+- These assignments help demonstrate engagement, especially for asynchronous attendance, and reinforce lecture con-
+cepts.
 
-We highly recommend putting an honest effort into homework, as it is graded on both effort and accuracy. Points are
-primarily deducted based on the level of effort shown. For instance, if your answer is incorrect but demonstrates a solid
-attempt and understanding, you will receive most of the points. The homework is designed to reinforce your knowledge, as
-this is a Pass/No Pass course.
+In order to complete these assignments you will need to either attend class or watch a recording of the lecture/discussion
+on our [YouTube channel](https://www.youtube.com/channel/UCHFI8dqee7nYlNWaXyv_04g). While asynchronous attendance is available, 
+we highly recommend attending in person. Due to technical or human error, some recordings may go missing. 
+While we do have a catalog stretching back to Spring 2021, older recordings may not match the content from this semester.
 
-You are encourage to collaborate with other students; however, everyone must submit their own individual work. While
-we encourage resources like Google for research and learning, please refrain from directly inputting homework questions
-in ChatGPT or other AI tools to generate answers. The goal of this course is to develop your own understanding of the
-material, and relying too heavily on AI can hinder that learning process. Misuse of AI-generated content will be considered
-a violation of academic integrity. With great power comes great responsibility.
+### Additional Participation
 
-### Final Project (30% of your grade)
-The Final Project is your chance to apply the skills you’ve learned throughout the semester in a creative, research-relevant,
-or data-driven way. Projects may include data analysis, simulations visualization, or exploration of a topic of interest in
-astronomy or physics using Python.
+Throughout the semester we will request that you fill out Google Forms in a timely manner. You will receive participation
+credit for these assignments.
 
-You may work individually or in pairs (2 students max). Completion of the Final Project——including the final
-presentation——is mandatory to pass this course.
+## Homework (40% of your grade)
 
-#### Timeline and Checkpoints:
-- **Week 7**: You will be assigned a staff mentor to support your project. You must attend at least one office hours of
-your mentor to complete a check-in assignment before submitting your project proposal to discuss your ideas and get
-feedback.
--  **Week 11**: Project Proposals will be due. Details and format will be released on bCourses.
-- **Weeks 12-14**: Ongoing second mentor check-ins. You’re expected to check-in at least once more with your mentor
-during the project development phase. Your mentor is your primary point of contact for support and feedback.
-- **Week 15**: Final Project Presentations! You will give a 1-3 minute presentation (with slides or visual aid) to
-share your project with the class.
+Starting in Week 2, homework will be assigned weekly on **Mondays** and will be due the following **Wednesday at
+11:59 PM on Gradescope.** After the first homework, all submissions must be **GitHub repositories** uploaded to
+Gradescope. Homeworks will reinforce lecture material, include questions similar to those in discussion, and introduce
+additional topics for you to explore on your own.
 
-#### Expectations:
-- Projects should demonstrate your understanding of Python coding concepts, especially those covered in class.
-- You are encouraged to explore your academic interests, whether through astronomy datasets (e.g. FITS files),
-simulations, or creative coding applications (like designing a video game).
-• We will provide example project ideas and offer brainstorming guidance in class and on EdStem.
+### Important Notes
+
+- There is **no penalty for late submissions within a two-week grace period** of the original due date. If additional
+time is needed beyond the grace period, contact a member of the Python DeCal staff or email the Head Instructor
+Brianna Peck at bpeck114@berkeley.edu.
+- Homeworks are graded on effort and accuracy. You will earn most points as long as you show clear thought and
+honest attempts, even if your answers are not fully correct.
+- While independent exploration is encouraged, any submission of AI-generated code will receive an **automatic
+zero.** You may use Google or AI-tools to ask questions, but avoid directly copying and pasting code from AI tools.
+Remember, humans are grading your homework, so please submit human-written code.
+- Collaboration is allowed, but all work submitted must be on your own.
+
+While AI has become a powerful tool in recent years, **please avoid over-reliance on AI for homework.** AI can give you
+answers easily, but working through problems yourself is what builds skills needed for upper-division labs and
+research/industry. Misuse of AI-generated content will be treated as a **violation of academic integrity and
+be reported.** With great power comes great responsibility
+
+
+## Final Project (40% of your grade)
+
+Instead of a traditional final exam, the **Final Project** is your chance to apply the skills you’ve gained throughout the
+semester in a creative, research-relevant and data-driven way. Most projects in the Python DeCal fall into one of
+three categories: **data analysis, simulations/animations, or video game creation.** However, we still encourage you
+to think outside of these boundaries while exploring any topic of interest in astronomy or physics using Python.
+
+You may work individually or in pairs (**maximum two students,** no exceptions). Completion of the project,
+updated GitHub repository, check-ins, Google Forms, final report, and presentation is mandatory to pass
+this course.
+
+### Check-ins and Deadlines
+
+- Throughout the semester, you will complete short **check-in assignments** to update the Python DeCal staff on your
+project’s status.
+- The **Final Project, Report, and Presentation** are all due before the first class of the last week of instruc-
+tion. This applies to all students, even if you present on the second day.
+- All students must present in person, no exceptions.
+  
+More details about the Final Project will be released later in the semester
 
 ## Academic Misconduct
 As with all classes, cheating, plagiarism, and other forms of academic dishonesty will not be tolerated. First violations will
 result in a zero on the assignment, and any subsequent violations may result in administrative action in accordance with
-the UC Berkeley Astronomy Department Policy on Academic Misconduct.
+the [UC Berkeley Astronomy Department Policy on Academic Misconduct](https://astro.berkeley.edu/community-resources/integrity-statement).
 
 ---
 
