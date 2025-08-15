@@ -4,12 +4,13 @@ description: Overview of learning goals, grading, and policies for the Python De
 nav_order: 3                    
 ---
 
-# ASTRON 98: Introduction to Python For Astronomers (Fall 2025)
+# ASTRON 98: Introduction to Python For Astronomers<br>(Fall 2025)
 
 ---
 
-## Facilitators:
+**Facilitators:**
 - Brianna Peck (bpeck114@berkeley.edu)
+- Charlie Tolley (tolley412@berkeley.edu)
 - Pranathi Kolla (pranathik@berkeley.edu)
 - Mahum Khan (mahumkhan@berkeley.edu)
 - Mira Bhatt (mirabhatt@berkeley.edu)
@@ -18,80 +19,106 @@ nav_order: 3
 - William Lee (williamlee8@berkeley.edu)
 - Safia Barmada (sbarmada@berkeley.edu)
 
-## Interns: 
+**Interns:** 
 - Milana Berhe (milana.berhe@berkeley.edu)
 - Olivia Silva (olivia_lsilva@berkeley.edu)
 
-## Faculty Sponsor:
-- Aaron Parsons
+**Faculty Sponsor:**
+- Aaron Parsons (aparsons@berkeley.edu)
 
-## Time & Location: 
+**Time & Location:**
 - Mondays & Wednesdays, 4:00-5:00 PM
 - 131 Campbell Hall
 
-## Office Hours: 
+**Office Hours:** 
 - TBD (Posted by Week 2)
 
-## Course Number:
+**Course Number:**
 - 98
 
-## Course Code: 
+**Course Code:** 
 - TBD
 
-## Units: 
+**Units:** 
 - 2 units, P/NP
 
 ---
 
-## Course Description
+# Course Description
 
-This course offers an introduction to the Python programming language with a focus on data analysis and research appli-
-cations in astronomy, physics and other sciences. Emphasis is placed on preparing students for upper-division laboratory
-courses and research, particularly in astronomy and physics. Key topics include command line, Git version control, code
-documentation, scripting and Python software development, with additional exploration of advanced techniques such as
-curve-fitting and object-oriented programming.
+This course offers an introduction to the Python programming language with an emphasis on **data analysis** and **scientific
+research in astronomy and physics.** Python is one of the most common programming languages used by modern
+astronomers, and this class focuses on preparing undergraduate intended/declared astronomy students for **upper-division
+laboratory courses and research.** However, students from all backgrounds are welcome to apply.
+Key topics include the command line, VS Code, scripting, version control with Git, documentation, Jupyter Notebooks, and
+common Python packages/libraries. We’ll also cover advanced topics such as curve-fitting, processing FITS files, querying
+databases, animation, and object-oriented programming.
 
-This course is designed for students with no prior programming experience. If you are proficient in software development,
-this class may not be the best fit for you. However, learning the diverse technical material covered in this course will require
-dedication, patience and practice. As a result, some students—especially those brand new to programming—may find the
-workload of this course more demanding than other DeCals offered at UC Berkeley.
+The Python DeCal is designed for students with little or no prior programming experience. However, learning the technical
+material covered in this course—especially for beginners—requires **dedication, patience, and regular practice.** Many
+students find this workload more demanding than other lower-division DeCals at UC Berkeley. If you have already taken
+advanced computer science or data science courses at Berkeley or elsewhere, this class may not be the best fit for you. But
+if you are excited to explore how coding can be applied to astronomical research, we still encourage you to apply.
 
-This is not intended to be an easy course. The experience of learning code varies from person to person, and your effort will
-directly impact what you gain from the class. The Python DeCal staff are committed to helping you succeed and develop
-your confidence in the skills you will acquire. We strongly recommend attending all lectures (although attendance is not
-strictly required as there are asynchronous opportunities), completing all homework assignments, putting significant effort
-into the Final Project and regularly attending course staff office hours outside of regular lecture time.
+Everyone’s “learning to code” journey will be different. Some concepts may click quickly, while others take time. **Your
+effort on homework and the Final Project will directly shape what you gain from the Python DeCal.** We
+strongly recommend attending all lectures and discussions, but attendance is not strictly required since each lecture is
+recorded and posted to our class YouTube Channel. To get the most out of this course, complete homeworks to the best of
+your ability (with little to no help from AI tools), attend office hours regularly, and put meaningful effort into your Final
+Project. If you need help, please reach out. We have a large team, so we can give as many students as possible one-on-one
+support.
 
-## Learning Objectives
+# Learning Objectives
 
-Students will be introduced to fundamental programming concepts with the goal of building confidence and proficiency
-in using the Python Programming language for upper-division laboratory work and research applications. In addition to
-completing weekly homework assignments, students will demonstrate their understanding of software structure and control
-flow by designing and implementing a Final Project of their choice, culminating in a Final Presentation at the end of the
-semester. Furthermore, students will learn to manipulate, process, analyze and visualize data using Python and libraries
-such as NumPy, SciPy, Pandas and Matplotlib.
+Students will be introduced to **fundamental programming concepts** with the goal of building proficiency in developing
+software for **upper-division astronomy laboratory work** and **scientific research** using Python. In addition to com-
+pleting weekly homework and lecture engagement assignments, students will demonstrate their understanding of version
+control, **scripting, packages/libraries** (i.e., NumPy, Matplotlib, Pandas, SciPy, Astropy), and **software structure
+and flow** by designing and creating a **Final Project** of their choice.
 
-## Course Materials & Resources
-Students are expected to bring and use their own computers for this course. If you are unable to do so, please consider
-utilizing the STEP program, which offers semester-long computer rentals. If the STEP program is not a suitable option,
-please reach out to course staff so we can help arrange alternate accommodations.
-Course-related content will be available on our bCourses site. Unless otherwise noted:
-- Lecture notes and guides will be posted under the Pages section.
-- Homework and starter code will be found in the Files section. Occasionally homework may be posted on our GitHub
-repository.
-- Important updates and reminders will be sent through the Announcements tab and cross-posted on EdStem
+This project will culminate in an **open-source GitHub repository** containing the Final Project and a **Final Presen-
+tation** during the last week of instruction. The presentation will give students practice in **scientific communication,** a
+skill required for upper-division astronomy coursework and jobs in academia.
 
-EdStem is our main Q&A platform where you can ask questions and receive timely answers from course staff and peers.
-We highly recommend using EdStem over email, as it enables collaborative learning and quicker response times.
-For direct communication with course staff, please include [PYTHON DECAL] or [ASTRON 98] in your email sub-
-ject line to ensure it is properly identified. For logistical or urgent matters, contact Head Instructor Brianna Peck at
-bpeck114@berkeley.edu.
+# Course Materials & Resources
 
-An optional course text written by former facilitators Imad Pasha and Christopher Agostino is available here. While it
-covers core Python concepts, it does not include some of the more advanced topics covered in the class. For supplemental
-review, you may also consult our previous semester’s lecture video on our YouTube channel.
+Students are expected to bring and use their own computers for the duration of this course. If you are unable to
+obtain a laptop, please consider utilizing the [Student Technology Equity Program (STEP)](https://studenttech.berkeley.edu/step) which offers **semester-long
+computer rentals.** If the STEP program is not a suitable option, **reach out to the Python DeCal course staff** and
+we can help arrange alternative accommodations.
 
-### Office Hours
+## Required Readings
+
+There are **no required readings** outside of material provided during lecture, discussion, and the guides. However, we
+recommend two **optional textbooks** written by former Python DeCal instructors:
+
+- **Python for Astronomers: An Introduction to Scientific Computing**  
+  Written by previous facilitators (Imad Pasha and Christopher Agostino), last updated in 2019.  
+  [GitHub Link](https://github.com/prappleizer/prappleizer.github.io)
+
+- **Astronomical Python: An Introduction to Modern Scientific Programming**  
+  Official textbook by Imad Pasha, published in May 2024.  
+  [IOPscience Link](https://iopscience.iop.org/book/mono/978-0-7503-5147-8)
+
+For additional reference on the packages/libraries we use throughout the semester, you may find these **optional docu-
+mentation links** helpful:
+
+- [NumPy](https://numpy.org/doc/)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [SciPy](https://docs.scipy.org/doc/scipy/)
+- [Astropy](https://docs.astropy.org/en/stable/index.html)
+
+## bCourses
+
+All course-related content will be available on our **bCourses** site, unless otherwise noted:
+- **Lecture materials, homeworks, demos, rubrics, and guides** −→ posted under the **Files** section
+- **Important updates and reminders** −→ posted under the **Announcements** section
+- **Syllabus** −→ posted under the **Syllabus** section
+- **Office hours** −→ posted under the **Home** section
+- **Grades** −→ posted under the **Grades** section
+
+## Office Hours
 Office hours provide a dedicated space for students to ask questions and collaborate with peers outside of regular class
 times. We strongly encourage attending office hours weekly and taking the opportunity to connect with the Python DeCal
 staff, especially at the beginning of the semester. Even if you don’t have any course-related questions, you’re welcome
