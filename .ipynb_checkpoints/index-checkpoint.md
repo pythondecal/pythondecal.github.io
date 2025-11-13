@@ -12,10 +12,10 @@ permalink: /
 ## Introduction to Python for UC Berkeley astrophysics students
 {: .fs-6 style="margin-top: 0; margin-bottom: 0.75rem;" }
 
-Now accepting applications for the **Fall 2025 semester**!
+Now accepting applications for the **Spring 2026 semester**!
 {: .fs-6 .fw-300 style="margin-top: 0;" }
 
-[Apply for Fall 2025](https://forms.gle/rrsHmvT1r6EB1xut8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Apply for Fall 2025](https://forms.gle/r6VREbYWYhLaYD4R8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -27,15 +27,15 @@ The Python DeCal is a two-unit pass/no-pass course that provides an introduction
 
 ## Logistics
 
-- **Class Times**: Mondays & Wednesdays, 4:00–5:00 PM
+- **Class Times**: Mondays & Wednesdays, 11:00–12:00 PM
 - **Location**: Campbell Hall 131
 - **Units**: 2
 
 ## How to Apply
 
-To apply for the Fall 2025 semester, please [fill out this Google Form](https://forms.gle/rrsHmvT1r6EB1xut8).
+To apply for the Spring 2026 semester, please [fill out this Google Form](https://forms.gle/r6VREbYWYhLaYD4R8).
 
-Applications are due no later **August 29th, 2025**. Enrollment codes will be sent out on a rolling basis before our first lecture on **August 27th at 4:00 PM in 131 Campbell Hall**.
+Applications are due no later **January 20th, 2025**. Enrollment codes will be sent out on a rolling basis before our first lecture on **January 21st at 4:00 PM in 131 Campbell Hall**.
 
 ## Check out Final Projects from Spring 2025
 
