@@ -15,7 +15,7 @@ permalink: /
 Now accepting applications for the **Spring 2026 semester**!
 {: .fs-6 .fw-300 style="margin-top: 0;" }
 
-[Apply for Fall 2025](https://forms.gle/r6VREbYWYhLaYD4R8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Apply for Spring 2026](https://forms.gle/r6VREbYWYhLaYD4R8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
