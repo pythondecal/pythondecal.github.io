@@ -9,25 +9,28 @@ nav_order: 3
 ---
 
 **Facilitators:**
+- Katherine Mora (katherinemora@berkeley.edu)
 - Brianna Peck (bpeck114@berkeley.edu)
 - Charlie Tolley (tolley412@berkeley.edu)
 - Pranathi Kolla (pranathik@berkeley.edu)
 - Mahum Khan (mahumkhan@berkeley.edu)
 - Mira Bhatt (mirabhatt@berkeley.edu)
-- Katherine Mora (katherinemora@berkeley.edu)
 - Mariam Helal (mariam.helal@berkeley.edu)
 - William Lee (williamlee8@berkeley.edu)
 - Safia Barmada (sbarmada@berkeley.edu)
-
-**Interns:** 
 - Milana Berhe (milana.berhe@berkeley.edu)
 - Olivia Silva (olivia_lsilva@berkeley.edu)
+
+**Interns:** 
+- Annecy Jiang (annecyjiang@berkeley.edu)
+- Makaio Jimenez (makaiojimenez@berkeley.edu)
+- Nathan DeBeech (nathandebeech@berkeley.edu)
 
 **Faculty Sponsor:**
 - Aaron Parsons (aparsons@berkeley.edu)
 
 **Time & Location:**
-- Mondays & Wednesdays, 4:00-5:00 PM
+- Mondays & Wednesdays, 11:00-12:00 PM
 - 131 Campbell Hall
 
 **Office Hours:** 
@@ -178,19 +181,22 @@ A **laptop is required** for all lectures and discussions. If you do not bring a
 easily or participate fully. Laptops should only be brought out after warm-up activities, which must be completed on
 paper to avoid the temptation of asking Google or ChatGPT directly for answers.
 
-###  Lecture Engagements
+###  Lecture Checks
 
 Instead of tracking in-person attendance, we will track your engagement with class material. Lecture engagement assign-
 ments will make up the most significant portion of your participation grade.
 
-- Students will complete **lecture engagement** assignments each day of class. These open the day of class and close
-before the next class begins.
-- Students have until the end of the semester to submit late lecture engagement assignments.
+- Students will complete **lecture checks** each day of class. These open after each class and close the day after
+  lecture at midnight.
+- Students have until the end of the semester to submit late lecture engagement assignments for a deduction in points.
 - Only 70% completion of lecture engagement assignments (for example, **19 out of 27** assignments) is required for
-full credit.
-- Assignments (5-20 minutes) are submitted via **Gradescope.**
+  full credit.
 - These assignments help demonstrate engagement, especially for asynchronous attendance, and reinforce lecture con-
 cepts.
+- Each lecture check requires a code that can be found in the corresponding lecture’s slides, which are posted on
+bCourses.
+- Lecture checks will be linked at the end of each lecture, as well as posted on bCourses as an assignment. 
+
 
 In order to complete these assignments you will need to either attend class or watch a recording of the lecture/discussion
 on our [YouTube channel](https://www.youtube.com/channel/UCHFI8dqee7nYlNWaXyv_04g). While asynchronous attendance is available, 
