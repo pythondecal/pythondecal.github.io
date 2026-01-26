@@ -35,7 +35,7 @@ The Python DeCal is a two-unit pass/no-pass course that provides an introduction
 
 To apply for the Spring 2026 semester, please [fill out this Google Form](https://forms.gle/r6VREbYWYhLaYD4R8).
 
-Applications are due no later **January 23rd, 2026**. Enrollment codes will be sent out on a rolling basis before our first lecture on **January 26st at 11:00 AM in 131 Campbell Hall**.
+Applications are due no later **February 7th, 2026**. Enrollment codes will be sent out on a rolling basis before our first lecture on **January 26st at 11:00 AM in 131 Campbell Hall**, and will continue through the third week of instruction.
 
 ## Check out Final Projects from Spring 2025
 
