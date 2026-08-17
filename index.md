@@ -12,10 +12,10 @@ permalink: /
 ## Introduction to Python for UC Berkeley astrophysics students
 {: .fs-6 style="margin-top: 0; margin-bottom: 0.75rem;" }
 
-Now accepting applications for the **Spring 2026 semester**!
+Now accepting applications for the **Fall 2026 semester**!
 {: .fs-6 .fw-300 style="margin-top: 0;" }
 
-[Apply for Spring 2026](https://forms.gle/r6VREbYWYhLaYD4R8){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Apply for Fall 2026](https://forms.gle/JT5q5RvwhSwDbyR57){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -27,15 +27,15 @@ The Python DeCal is a two-unit pass/no-pass course that provides an introduction
 
 ## Logistics
 
-- **Class Times**: Mondays & Wednesdays, 11:00–12:00 PM
+- **Class Times**: Mondays & Wednesdays, 3:00–4:00 PM
 - **Location**: Campbell Hall 131
 - **Units**: 2
 
 ## How to Apply
 
-To apply for the Spring 2026 semester, please [fill out this Google Form](https://forms.gle/r6VREbYWYhLaYD4R8).
+To apply for the Fall 2026 semester, please [fill out this Google Form](https://forms.gle/JT5q5RvwhSwDbyR57).
 
-Applications are due no later **February 7th, 2026**. Enrollment codes will be sent out on a rolling basis before our first lecture on **January 26st at 11:00 AM in 131 Campbell Hall**, and will continue through the third week of instruction.
+Applications are due no later **September 9th, 2026**. Enrollment codes will be sent out on a rolling basis before our first lecture on **August 31st at 3:00 PM in 131 Campbell Hall**, and will continue through the third week of instruction.
 
 ## Check out Final Projects from Spring 2025
 
@@ -60,8 +60,8 @@ The workload for this DeCal is a bit heavier than most, with students spending a
 - [Syllabus](docs/syllabus.md)
 - [Weekly Schedule](docs/schedule.md)
 - [Resources](docs/resources.md)
-- 
-If you have any questions, comments, or concerns, please e-mail the Head Instructor Brianna Peck at bpeck114@berkeley.edu
+
+If you have any questions, comments, or concerns, please e-mail the Head Instructor Katherine Mora at katherinemora@berkeley.edu.
 
 
 <style>
