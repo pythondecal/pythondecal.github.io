@@ -259,8 +259,8 @@ the [UC Berkeley Astronomy Department Policy on Academic Misconduct](https://ast
 
 ### Syllabus from Previous Semesters
 
-- [Spring 2026 Syllabus]()
-- [Fall 2025 Syllabus]()
+- [Spring 2026 Syllabus](../../assets/syllabus/Python_Decal_Syllabus_Spring_2026.pdf)
+- [Fall 2025 Syllabus](../../assets/syllabus/"Syllabus - Fall 2025.pdf)
 - [Spring 2025 Syllabus](../../assets/syllabus/spring-2025.pdf)
 - [Fall 2024 Syllabus](../../assets/syllabus/fall-2024.pdf)
 - [Spring 2024 Syllabus](../../assets/syllabus/spring-2024.pdf)
