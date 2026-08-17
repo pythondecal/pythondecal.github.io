@@ -4,33 +4,29 @@ description: Overview of learning goals, grading, and policies for the Python De
 nav_order: 3                    
 ---
 
-# ASTRON 98: Introduction to Python For Astronomers<br>(Fall 2025)
+# ASTRON 98: Introduction to Python For Astronomers<br>(Fall 2026)
 
 ---
 
 **Facilitators:**
 - Katherine Mora (katherinemora@berkeley.edu)
-- Brianna Peck (bpeck114@berkeley.edu)
-- Charlie Tolley (tolley412@berkeley.edu)
-- Pranathi Kolla (pranathik@berkeley.edu)
-- Mahum Khan (mahumkhan@berkeley.edu)
-- Mira Bhatt (mirabhatt@berkeley.edu)
 - Mariam Helal (mariam.helal@berkeley.edu)
 - William Lee (williamlee8@berkeley.edu)
 - Safia Barmada (sbarmada@berkeley.edu)
 - Milana Berhe (milana.berhe@berkeley.edu)
 - Olivia Silva (olivia_lsilva@berkeley.edu)
-
-**Interns:** 
 - Annecy Jiang (annecyjiang@berkeley.edu)
 - Makaio Jimenez (makaiojimenez@berkeley.edu)
 - Nathan DeBeech (nathandebeech@berkeley.edu)
+
+**Interns:** 
+- Hannah Eghtedari (hannaheghtedari@berkeley.edu)
 
 **Faculty Sponsor:**
 - Aaron Parsons (aparsons@berkeley.edu)
 
 **Time & Location:**
-- Mondays & Wednesdays, 11:00-12:00 PM
+- Mondays & Wednesdays, 3:00-4:00 PM
 - 131 Campbell Hall
 
 **Office Hours:** 
@@ -263,6 +259,8 @@ the [UC Berkeley Astronomy Department Policy on Academic Misconduct](https://ast
 
 ### Syllabus from Previous Semesters
 
+- [Spring 2026 Syllabus]()
+- [Fall 2025 Syllabus]()
 - [Spring 2025 Syllabus](../../assets/syllabus/spring-2025.pdf)
 - [Fall 2024 Syllabus](../../assets/syllabus/fall-2024.pdf)
 - [Spring 2024 Syllabus](../../assets/syllabus/spring-2024.pdf)
