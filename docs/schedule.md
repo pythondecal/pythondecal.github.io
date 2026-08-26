@@ -9,20 +9,18 @@ Schedule for Fall 2025, subject to change.
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 1 | 8/27 | Introductions + Syllabus + Installations |
-| 2 | 9/1<br> 9/3 | No Class (Labor Day)<br> VS Code + Data Types + Variables + Command Line/Terminal | 
-| 3 | 9/8<br> 9/10 | Lecture: GitHub<br> Discusison: GitHub |
-| 4 | 9/15<br> 9/17 | Lecture: Functions + Conditionals + Loops<br> Discussion: Functions + Conditionals + Loops |  
-| 5 | 9/22<br> 9/24 | Lecture: Lists + Dictionaries<br> Discussion: Lists + Dictionaries | 
-| 6 | 9/29<br> 10/1 | Introduce Final Projects + Review Session<br> Review Session + Debugging | 
-| 7 | 10/6<br> 10/8 | Lecture: Jupyter Notebooks + NumPy Arrays<br> Discussion: NumPy Arrays |
-| 8 | 10/13<br> 10/15 | Lecture: Matplotlib<br> Discussion: Matplotlib |
-| 9 | 10/20<br> 10/22 | Lecture: Pandas<br> Discussion: Pandas |
-| 10 | 10/27<br> 10/29 | Lecture: Scipy<br> Discussion: Scipy |
-| 11 | 11/3<br> 11/5 | Lecture: Astropy<br> Discussion: Astropy |
-| 12 | 11/10<br> 11/12 | Final Project Proposal Feedback + Review Session<br> Review Session + Documentation |
-| 13 | 11/17<br> 11/19 | Animation<br> Object-Oriented Programming | 
-| 14 | 11/24<br> 11/26 | Final Project Work Day<br> No Class (Thanksgiving Break) | 
-| 15 | 12/1<br> 12/3 | Final Project Presentations! Day 1<br> Final Project Presentations! Day 2 |
-| 16 | 12/8<br> 12/10 | No Class (RRR Week)<br> No Class (RRR Week) |
-| 17 | 12/15<br> 12/17 | No Class (Good luck on your finals!)<br>  No Class (Good luck on your finals!) |
+| 1 | 8/31<br> 9/02 | Introductions + Syllabus + Installations<br> Lecture: Computer Structure + Terminal + Packages |
+| 2 | 9/7<br> 9/9 | No Class (Labor Day)<br> VS Code + Data Types + Variables + Command Line | 
+| 3 | 9/14<br> 9/16 | Lecture: GitHub<br> Review/Exam: Review + EXAM 1 |
+| 4 | 9/21<br> 9/23 | Lecture: Functions + Conditionals + Loops<br> Discussion: Functions + Conditionals + Loops + Documentation |  
+| 5 | 9/28<br> 9/30 | Lecture: Lists + Dictionaries<br> Discussion: Lists + Dictionaries + Debugging | 
+| 6 | 10/5<br> 10/7 | Review/Exam: Review Session + EXAM 2<br> Lecture: Jupyter Notebooks + NumPy Arrays | 
+| 7 | 10/12<br> 10/14 | Discussion: NumPy Arrays<br> Lecture: Pandas |
+| 8 | 10/19<br> 10/21 | Discussion: Pandas<br> Lecture: Plotting + Fitting |
+| 9 | 10/26<br> 10/28 | Discussion: Plotting + Fitting<br> Lecture: Scipy |
+| 10 | 11/2<br> 11/4 | Reveiew/Exam: Scipy Review + EXAM 3<br> Lecture: Astropy |
+| 11 | 11/9<br> 11/11 | Discussion: Astropy<br> No Administration |
+| 12 | 11/16<br> 11/18 | Lecture: Object-Oriented Programming<br> Lecture: Research Applications |
+| 13 | 11/23<br> 11/25 | Fall Break<br> Fall Break | 
+| 14 | 11/30<br> 12/2 | Review: Final Review Session<br> Exam: Final Exam | 
+
