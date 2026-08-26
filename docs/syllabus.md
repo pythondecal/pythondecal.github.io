@@ -23,7 +23,7 @@ nav_order: 3
 - Hannah Eghtedari (hannaheghtedari@berkeley.edu)
 
 **Faculty Sponsor:**
-- Aaron Parsons (aparsons@berkeley.edu)
+- Michael Bottom (mbottom@berkeley.edu)
 
 **Time & Location:**
 - Mondays & Wednesdays, 3:00-4:00 PM
@@ -67,7 +67,7 @@ obtain a laptop, please consider utilizing the [Student Technology Equity Progra
 computer rentals.** If the STEP program is not a suitable option, **reach out to the Python DeCal course staff** and
 we can help arrange alternative accommodations.
 
-## Required Readings
+## Optional Readings
 
 There are **no required readings** outside of material provided during lecture, discussion, and the guides. However, we
 recommend two **optional textbooks** written by former Python DeCal instructors:
