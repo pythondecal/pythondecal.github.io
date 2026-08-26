@@ -1,11 +1,11 @@
 ---
 title: Weekly Schedule    
-description: Week-by-week schedule of lectures and discusions for Fall 2025. 
+description: Week-by-week schedule of lectures and discusions for Fall 2026. 
 nav_order: 4                    
 ---
 
 # Weekly List of Lectures/Discussions
-Schedule for Fall 2025, subject to change. 
+Schedule for Fall 2026, subject to change. 
 
 | Week | Date | Topic | 
 |------|------|-------|
