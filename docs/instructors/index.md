@@ -39,11 +39,11 @@ The following is a list of current instructors and interns on the Python DeCal s
 
 | Name + Email   | Position(s)                                                         | Favorite Astronomical Object |
 |----------------|---------------------------------------------------------------------|------------------------------|
-| Katie Mora<br>(katherinemora@berkeley.edu)| Head Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)| JWST-ER1 |
+| Katie Mora<br>(katherinemora@berkeley.edu)| Head Instructor (Spring 2026 – Present)<br>Instructor (Spring 2025 – Fall 2025)<br>Intern (Fall 2024)| JWST-ER1 |
 | Mariam Helal<br>(mariam.helal@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Io |
 | William Lee<br>(williamlee8@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Orion Nebula |
-| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| The Moon |
-| Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Intern (Fall 2025)| Sirius A |
+| Milana Berhe<br>(milana.berhe@berkeley.edu)| Instructor (Spring 2026– Present)<br>Intern (Fall 2025)| The Moon |
+| Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Instructor (Spring 2026– Present)<br>Intern (Fall 2025)| Sirius A |
 | Annecy Jiang<br>(annecyjiang@berkeley.edu)| Instructor (Fall 2026– Present)<br>Intern (Spring 2026)| - |
 | Makaio Jimenez<br>(makaiojimenez@berkeley.edu)| Instructor (Fall 2026– Present)<br>Intern (Spring 2026)| - |
 | Nathan DeBeech<br>(nathandebeech@berkeley.edu)| Instructor (Fall 2026– Present)<br>Intern (Spring 2026)| - |
