@@ -8,7 +8,7 @@ nav_order: 1
 
 | Last Semester | Name                 | Position(s)           | Length   | Current Affiliation                           |
 |---------------|----------------------|-----------------------|----------|-----------------------------------------------|
-| Spring 2026   | Brianna Pek          | Instructor → Head     | —        | —                                             |
+| Spring 2026   | Brianna Peck          | Instructor → Head     | —        | —                                             |
 | Spring 2026   | Mira Bhatt           | Intern → Instructor   | —        | —                                             |
 | Spring 2026   | Pranathi Kolla       | Intern → Instructor   | —        | —                                             |
 | Spring 2025   | Mahum Khan           | Intern → Instructor   | 3 yrs    | —                                             |
