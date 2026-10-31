@@ -8,8 +8,12 @@ nav_order: 1
 
 | Last Semester | Name                 | Position(s)           | Length   | Current Affiliation                           |
 |---------------|----------------------|-----------------------|----------|-----------------------------------------------|
+| Spring 2026   | Brianna Pek          | Instructor → Head     | —        | —                                             |
+| Spring 2026   | Mira Bhatt           | Intern → Instructor   | —        | —                                             |
+| Spring 2026   | Pranathi Kolla       | Intern → Instructor   | —        | —                                             |
 | Spring 2025   | Mahum Khan           | Intern → Instructor   | 3 yrs    | —                                             |
 | Fall 2024     | Yuhan Chen           | Intern                | <1 yr    | —                                             |
+| Spring 2026   | Charlie Tolley       | Instructor → Head     | —        | —                                             |
 | Spring 2024   | Megan Ann Joseph     | Instructor → Head     | 3 yrs    | —                                             |
 | Fall 2023     | Jonah Han            | Intern → Instructor   | 1 yr     | Software Engineer Intern, Amazon Web Services |
 | Fall 2022     | James Sunseri        | Instructor → Head     | 3 yrs    | PhD Student, Princeton                        |
