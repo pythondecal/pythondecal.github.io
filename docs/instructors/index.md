@@ -15,13 +15,14 @@ The following is a list of current instructors and interns on the Python DeCal s
 
   <div class="photo-rotator" id="rotator-team" data-interval="10000" aria-live="polite">
     <!-- Headshots (all instructors + interns) -->
-    <img src="/assets/images/staff-photos/brianna.png"  alt="Brianna Peck"  data-name="Brianna Peck"  class="active">
-    <img src="/assets/images/staff-photos/charlie.png"  alt="Charlie Tolley"  data-name="Charlie Tolley">
-    <img src="/assets/images/staff-photos/pranathi.jpg"  alt="Pranathi Kolla"  data-name="Pranathi Kolla">
-    <img src="/assets/images/staff-photos/mira.png"  alt="Mira Bhatt"  data-name="Mira Bhatt">
-    <img src="/assets/images/staff-photos/safia.jpg"  alt="Mira Bhatt"  data-name="Safia Barmada">
-    <img src="/assets/images/staff-photos/mariam.PNG"  alt="Mira Bhatt"  data-name="Mariam Helal">
-    <img src="/assets/images/staff-photos/milanaphotohi.JPG"  alt="Milana Berhe"  data-name="Milana Berhe">
+    <img src="/assets/images/staff-photos/mariam.jpg"  alt="Mariam Helal"  data-name="Mariam Helal">
+    <img src="/assets/images/staff-photos/will.jpg"  alt="William Lee"  data-name="William Lee">
+    <img src="/assets/images/staff-photos/annecy.jpg"  alt="Annecy Jiang"  data-name="Annecy Jiang">
+    <img src="/assets/images/staff-photos/hannah.jpg"  alt="Hannah Eghtedari"  data-name="Hannah Eghtedari">
+    <img src="/assets/images/staff-photos/makaio.jpg"  alt="Makaio Jimenez"  data-name="Makaio Jimenez">
+    <img src="/assets/images/staff-photos/milana.jpg"  alt="Milana Berhe"  data-name="Milana Berhe">
+    <img src="/assets/images/staff-photos/nathan.jpg"  alt="Nathan DeBeech"  data-name="Nathan DeBeech">
+    <img src="/assets/images/staff-photos/safia.jpg"  alt="Safia Barmada"  data-name="Safia Barmada">
     <img src="/assets/images/staff-photos/olivia.png"  alt="Olivia Silvia"  data-name="Olivia Silvia">
   </div>
 
@@ -38,21 +39,22 @@ The following is a list of current instructors and interns on the Python DeCal s
 
 | Name + Email   | Position(s)                                                         | Favorite Astronomical Object |
 |----------------|---------------------------------------------------------------------|------------------------------|
-| Brianna Peck<br>(bpeck114@berkeley.edu)| Head Instructor (Spring 2025 – Present)<br> Instructor (Fall 2023 – Fall 2024)<br>Intern (Spring 2023) | Massive Population III Stars |
-| Charlie Tolley<br>(tolley412@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Head Instructor (Spring 2024 – Fall 2024)<br>Instructor (Spring 2023 – Fall 2024)<br>Intern (Fall 2022)| Orion Nebula |
-| Pranathi Kolla<br>(pranathik@berkeley.edu)| Instructor (Spring 2023 – Present)<br>Intern (Fall 2022)| Pillars of Creation |
-| Mira Bhatt<br>(mirabhatt@berkeley.edu)| Instructor (Fall 2023 – Present)<br>Intern (Spring 2023)| The Moon |
-| Katie Mora<br>(katherinemora@berkeley.edu)| Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)| JWST-ER1 |
+| Katie Mora<br>(katherinemora@berkeley.edu)| Head Instructor (Spring 2025 – Present)<br>Intern (Fall 2024)| JWST-ER1 |
 | Mariam Helal<br>(mariam.helal@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Io |
 | William Lee<br>(williamlee8@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| Orion Nebula |
-| Safia Barmada<br>(sbarmada@berkeley.edu)| Instructor (Fall 2025 – Present)<br>Intern (Spring 2025)| The Moon |
+| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| The Moon |
+| Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Intern (Fall 2025)| Sirius A |
+| Annecy Jiang<br>(annecyjiang@berkeley.edu)| Instructor (Fall 2026– Present)<br>Intern (Spring 2026)| - |
+| Makaio Jimenez<br>(makaiojimenez@berkeley.edu)| Instructor (Fall 2026– Present)<br>Intern (Spring 2026)| - |
+| Nathan DeBeech<br>(nathandebeech@berkeley.edu)| Instructor (Fall 2026– Present)<br>Intern (Spring 2026)| - |
+
+
 
 ## Interns
 
 | Name + Email  | Position(s)        | Favorite Astronomical Object |
 |---------------|--------------------|------------------------------|
-| Milana Berhe<br>(milana.berhe@berkeley.edu)| Intern (Fall 2025)| The Moon |
-| Olivia Silvia<br>(olivia_lsilva@berkeley.edu)| Intern (Fall 2025)| Sirius A |
+| Hannah Eghtedari<br>(hannaheghtedari@berkeley.edu )| Intern (Fall 2026)| - |
 
 ## Faculty Sponsor
 
