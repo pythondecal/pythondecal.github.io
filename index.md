@@ -35,7 +35,7 @@ The Python DeCal is a two-unit pass/no-pass course that provides an introduction
 
 ## How to Apply
 
-Applications are received via a Google Form that will be available on this page. Enrollment codes will be sent out on a rolling basis before our first lecture on **August 31st at 3:00 PM in 131 Campbell Hall**, and will continue through the third week of instruction.
+Applications are received via a Google Form that will be available on this page. Enrollment codes will be sent out on a rolling basis before our first lecture on **January 27th at 3:00 PM in 131 Campbell Hall**, and will continue through the third week of instruction.
 
 ## Check out Final Projects from Spring 2025
 
