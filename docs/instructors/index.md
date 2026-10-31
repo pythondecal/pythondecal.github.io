@@ -19,7 +19,7 @@ The following is a list of current instructors and interns on the Python DeCal s
     <img src="/assets/images/staff-photos/will.jpg"  alt="William Lee"  data-name="William Lee">
     <img src="/assets/images/staff-photos/annecy.jpg"  alt="Annecy Jiang"  data-name="Annecy Jiang">
     <img src="/assets/images/staff-photos/hannah.jpg"  alt="Hannah Eghtedari"  data-name="Hannah Eghtedari">
-    <img src="/assets/images/staff-photos/makaio.jpg"  alt="Makaio Jimenez"  data-name="Makaio Jimenez">
+    <img src="/assets/images/staff-photos/makaio.png"  alt="Makaio Jimenez"  data-name="Makaio Jimenez">
     <img src="/assets/images/staff-photos/milana.jpg"  alt="Milana Berhe"  data-name="Milana Berhe">
     <img src="/assets/images/staff-photos/nathan.jpg"  alt="Nathan DeBeech"  data-name="Nathan DeBeech">
     <img src="/assets/images/staff-photos/safia.jpg"  alt="Safia Barmada"  data-name="Safia Barmada">
