@@ -12,7 +12,8 @@ permalink: /
 ## Introduction to Python for UC Berkeley astrophysics students
 {: .fs-6 style="margin-top: 0; margin-bottom: 0.75rem;" }
 
-Logistics for the Spring 2027 semester can be found below. The application will be released shortly. Check back soon!
+The application for the Spring 2027 semester will be released shortly. Check back soon!
+{: .fs-6 .fw-300 style="margin-top: 0;" }
 
 <!--  Now accepting applications for the **Fall 2026 semester**!
 {: .fs-6 .fw-300 style="margin-top: 0;" }
