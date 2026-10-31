@@ -27,15 +27,15 @@ The Python DeCal is a two-unit pass/no-pass course that provides an introduction
 
 ## Logistics
 
-- **Class Times**: Mondays & Wednesdays, 3:00–4:00 PM
+- **Class Times**: Wednesdays & Fridays, 3:00–4:00 PM
 - **Location**: Campbell Hall 131
 - **Units**: 2
 
 ## How to Apply
 
-To apply for the Fall 2026 semester, please [fill out this Google Form](https://forms.gle/JT5q5RvwhSwDbyR57).
+The application for the Spring 2027 semester will be released shortly. Check back soon!
 
-Applications are due no later **September 9th, 2026**. Enrollment codes will be sent out on a rolling basis before our first lecture on **August 31st at 3:00 PM in 131 Campbell Hall**, and will continue through the third week of instruction.
+Enrollment codes will be sent out on a rolling basis before our first lecture on **August 31st at 3:00 PM in 131 Campbell Hall**, and will continue through the third week of instruction.
 
 ## Check out Final Projects from Spring 2025
 
