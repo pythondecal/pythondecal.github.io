@@ -55,11 +55,12 @@ Applications are received via a Google Form that will be available on this page.
 
 The workload for this DeCal is a bit heavier than most, with students spending an average of 3–6 hours per week. We are known to be a challenging class, especially if you have no prior experience, but it's definitely worth it! We have a large team of instructors who provide a lot of one-on-one support.
 
+Fall 2026:
 - [Syllabus](docs/syllabus.md)
 - [Weekly Schedule](docs/schedule.md)
 - [Resources](docs/resources.md)
 
-If you have any questions, comments, or concerns, please e-mail the Head Instructor Katherine Mora at katherinemora@berkeley.edu.
+If you have any questions, comments, or concerns, please e-mail the staff at pythondecal@gmail.com.
 
 
 <style>
